@@ -1,0 +1,32 @@
+﻿;!@Install@!UTF-8!
+InstallPath	= "%ProgramFiles%\\#FolderName"
+RunProgram	= "fm10:hidcon:install.cmd"
+
+
+GUIFlags="2+8+32+256"
+MiscFlags="4"
+GUIMode="1"
+OverwriteMode="0"
+
+HelpText	= "A telepítő indításához szükséges paraméterek:
+ -y	    telepítés előtt ne legyen kérdés
+ -fm0	ne legyen üzenet a telepítés befejeztéről
+ -gm2	ne legyen kicsomagolás párbeszédablak
+"
+
+Title		= "Instalacja #FolderName #Version"
+ExtractTitle	= "Instalacja #FolderName #Version"
+ExtractPathTitle= "Instalacja #FolderName #Version"
+PasswordTitle	= "Instalacja #FolderName #Version"
+WarningTitle	= "Instalacja #FolderName #Version - Figyelmeztetés"
+ErrorTitle	= "Instalacja #FolderName #Version - Hiba"
+
+BeginPrompt	= "Elvégzi a #FolderName #Version telepítését?"
+CancelPrompt	= "Valóban megszakítja a #FolderName #Version telepítését?"
+FinishMessage	= "A #FolderName #Version telepítése sikeresen befejeződött!"
+
+PasswordText	= "Adja meg a jelszót:"
+ExtractPathText	= "Válassza ki a  #FolderName telepítési útvonalát:"
+ExtractDialogText="Kicsomagolás folyamatban..."
+ExtractCancelText="Mégse"
+;!@InstallEnd@!

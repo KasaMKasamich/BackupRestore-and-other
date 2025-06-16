@@ -1,0 +1,34 @@
+Android
+Battle.net
+Bignox
+Comodo
+EasyAntiCheat
+Epic Games
+FFDec
+FormatFactory
+GECK Script Editor
+GeMM
+GTK2-Runtime
+GTK2-Runtime2
+GtkSharp
+GOG Galaxy
+ICE Book Reader Professional Russian
+Java
+KMPlayer
+LOOT
+Mozilla Firefox
+Mozilla Maintenance Service
+Mozilla Thunderbird
+MSI Afterburner
+NCH Software
+NetSarang
+obs-studio
+OpenOffice 4
+Opera
+PremiumSoft
+TeamViewer
+Ubisoft
+Universal Extractor
+VMware
+Vuze
+WinRAR

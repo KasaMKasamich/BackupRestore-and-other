@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="TestCopying" 
+BeginPrompt="Continue execution TestCopying.bat" 
+RunProgram="hidcon:TestCopying.bat" 
+;!@InstallEnd@!

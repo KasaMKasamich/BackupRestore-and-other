@@ -1,0 +1,36 @@
+UserData\configs\
+UserData\HibernateSnapshots\
+UserData\RescueTool\
+UserData\RescueToolReport\
+UserData\Resources\
+UserData\ui_config\
+UserData\YandexDictionaries\
+UserData\YandexOfflineSpellchecker\
+UserData\First Run
+UserData\Last Version
+UserData\Default\Extension Rules\
+UserData\Default\Extension State\
+UserData\Default\Extensions\
+UserData\Default\Local Extension Settings\
+UserData\Default\Managed Extension Settings\
+UserData\Default\Sync Data\
+UserData\Default\Sync Extension Settings\
+UserData\Default\TabPreviewScreenshots\
+UserData\Default\Wallpapers\
+UserData\Default\Web Applications\
+UserData\Default\Bookmarks
+UserData\Default\Cookies
+UserData\Default\Current Session
+UserData\Default\Current Tabs
+UserData\Default\Extension Cookies
+UserData\Default\History
+UserData\Default\Last Session
+UserData\Default\Last Tabs
+UserData\Default\Preferences
+UserData\Default\Secure Preferences
+UserData\Default\Tablo
+UserData\Default\Top Sites
+UserData\Default\Visited Links
+UserData\Default\Web Data
+UserData\Default\Ya Credit Cards
+UserData\Default\Ya Login Data

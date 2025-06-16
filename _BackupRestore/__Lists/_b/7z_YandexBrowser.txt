@@ -1,0 +1,6 @@
+Application\19.9.2.229\
+Application\YandexDictionaries\
+Application\chrome.VisualElementsManifest.xml
+Application\browser.exe
+Application\clidmgr.exe
+Application\master_preferences

@@ -1,0 +1,38 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 17  2023 . 2:40:55
+   Source : F:\Temp\_TestCopying\
+     Dest : H:\_TempDestDirectoryCopying\_TestCopying\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DAT /COPY:DAT /Z /MT:8 /R:3 /W:2 
+
+------------------------------------------------------------------------------
+
+	    New File  		     247	F:\Temp\_TestCopying\TestCopying.bat100%  
+	    New File  		     188	F:\Temp\_TestCopying\Test_Run_bat.cmd  0%  100%  
+	    New File  		     391	F:\Temp\_TestCopying\xfs.conf100%  
+	    New File  		       0	F:\Temp\_TestCopying\___Copying_List_to_Folder.cmd100%  
+	    New File  		    3752	F:\Temp\_TestCopying\___Create_List_Copying.cmd100%  
+	    New File  		       0	F:\Temp\_TestCopying\Новый текстовый документ (2).txt100%  
+	    New File  		       0	F:\Temp\_TestCopying\Новый текстовый документ (3).txt100%  
+	    New File  		       0	F:\Temp\_TestCopying\Новый текстовый документ.txt100%  
+	    New File  		       0	F:\Temp\_TestCopying\_Test1\1.txt100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         0         0         0         0
+   Files :         9         9         0         0         0         0
+   Bytes :     4.4 k     4.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              138727 Bytes/sec.
+   Speed :               7.938 MegaBytes/min.
+   Ended : 17  2023 . 2:40:55
+

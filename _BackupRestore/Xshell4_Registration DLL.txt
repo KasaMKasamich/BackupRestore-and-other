@@ -1,0 +1,13 @@
+Xshell 4 Registration DLL
+rem nssock2.dll
+rem nsresource.dll
+rem nslicense.dll
+rem nsutil2.dll
+
+
+:: regsvr32.exe "C:\Program Files (x86)\Common Files\NetSarang\nssock2.dll"
+:: regsvr32.exe "C:\Program Files (x86)\Common Files\NetSarang\nsresource.dll"
+:: regsvr32.exe "C:\Program Files (x86)\Common Files\NetSarang\nslicense.dll"
+:: regsvr32.exe "C:\Program Files (x86)\Common Files\NetSarang\nsutil2.dll"
+
+

@@ -1,0 +1,2 @@
+select vdisk file="H:\_VHD\WWWeb.vhd"
+detach vdisk

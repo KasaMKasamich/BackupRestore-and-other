@@ -1,0 +1,36 @@
+;!@Install@!UTF-8!
+InstallPath	= "%ProgramFiles%\\#FolderName"
+
+SetEnvironment	= "INF_File=#FolderName.inf"
+SetEnvironment	= "INF_Sect=DefaultInstall"
+
+
+RunProgram	= "fm10:\"%SystemRoot%\\System32\\RunDLL32.exe\" advpack.dll,LaunchINFSectionEx %%T\\%INF_File%,%INF_Sect%,,4,N"
+
+GUIFlags="2+8+32+256"
+MiscFlags="4"
+GUIMode="1"
+OverwriteMode="0"
+
+HelpText	= "Parametry uruchamiania instalatora:
+ -y	    brak pytania przed instalacją
+ -fm0	brak wiadomości o zakończeniu instalacji
+ -gm2	brak okna dialogowego rozpakowywania
+"
+
+Title		= "Instalacja #FolderName #Version"
+ExtractTitle	= "Instalacja #FolderName #Version"
+ExtractPathTitle= "Instalacja #FolderName #Version"
+PasswordTitle	= "Instalacja #FolderName #Version"
+WarningTitle	= "Instalacja #FolderName #Version - Ostrzeżenie"
+ErrorTitle	= "Instalacja #FolderName #Version - Błąd"
+
+BeginPrompt	= "Wykonać instalację #FolderName #Version?"
+CancelPrompt	= "Czy na pewno chcesz anulować instalację #FolderName #Version?"
+FinishMessage	= "Instalacja #FolderName #Version zakończona powodzeniem!"
+
+PasswordText	= "Wpisz hasło:"
+ExtractPathText	= "Wybierz ścieżkę instalacji #FolderName:"
+ExtractDialogText="Trwa rozpakowywanie..."
+ExtractCancelText="Anuluj"
+;!@InstallEnd@!

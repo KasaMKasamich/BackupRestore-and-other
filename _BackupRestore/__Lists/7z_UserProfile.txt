@@ -1,0 +1,10 @@
+.android\
+.AndroidStudio3.1\
+.BigNox\
+.fontconfig\
+.swt\
+.thumbnails\
+AndroidStudioProjects\
+NCH Software Suite\
+Nox_share\
+OneDrive\

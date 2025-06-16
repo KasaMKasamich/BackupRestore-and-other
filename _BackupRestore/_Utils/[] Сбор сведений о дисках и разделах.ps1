@@ -1,0 +1,1 @@
+foreach ($d in Get-Partition) {$d.AccessPaths, $d.DiskId, ""}

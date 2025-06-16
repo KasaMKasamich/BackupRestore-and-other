@@ -1,0 +1,4 @@
+NVIDIA\accounts
+Microsoft\Windows\Themes\
+Microsoft\Windows\BackgroundSlideshow\
+Microsoft\OneDrive\settings\

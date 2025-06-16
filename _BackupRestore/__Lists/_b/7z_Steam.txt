@@ -1,0 +1,5 @@
+Steam\config\
+Steam\steamapps\*.acf
+Steam\steamapps\*.vdf
+Steam\steamapps\workshop\
+Steam\userdata\

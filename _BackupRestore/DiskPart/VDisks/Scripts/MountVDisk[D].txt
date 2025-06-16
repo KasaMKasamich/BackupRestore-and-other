@@ -1,0 +1,2 @@
+select vdisk file="F:\_VHD\WWWeb.vhd"
+attach vdisk

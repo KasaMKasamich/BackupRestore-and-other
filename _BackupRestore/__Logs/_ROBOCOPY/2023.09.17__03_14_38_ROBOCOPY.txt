@@ -1,0 +1,17 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 17  2023 . 3:14:53
+   Source : C:\_TXT\
+     Dest : H:\_TempDestDirectoryCopying\_TXT\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DAT /COPY:DAT /Z /MT:8 /R:3 /W:2 
+
+------------------------------------------------------------------------------
+
+2023/09/17 03:14:53 ERROR 2 (0x00000002) Accessing Source Directory C:\_TXT\
+The system cannot find the file specified.

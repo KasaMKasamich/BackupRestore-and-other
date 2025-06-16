@@ -1,0 +1,6 @@
+Tools\
+Новая папка*\
+*.config
+*.pdb
+*.exe
+DLC[0-9]

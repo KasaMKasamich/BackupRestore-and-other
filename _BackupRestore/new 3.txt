@@ -1,0 +1,3 @@
+
+--user-data-dir=I:\ProgramFiles\_WebBrowserDatas\YandexBrowser\UserData --disk-cache-dir=I:\ProgramFiles\_WebBrowserDatas\YandexBrowser\UserData
+

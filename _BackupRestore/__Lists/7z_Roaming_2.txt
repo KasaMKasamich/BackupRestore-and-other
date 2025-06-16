@@ -1,0 +1,8 @@
+Microsoft\VisualStudio\
+Microsoft\Skype for Desktop\
+Microsoft\Windows\AccountPictures\
+Microsoft\Windows\Themes\
+Microsoft\Windows\SendTo\
+Microsoft\Windows\PowerShell\
+Microsoft\Windows\Libraries\
+Microsoft\Windows\Network Shortcuts\

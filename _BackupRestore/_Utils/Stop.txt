@@ -1,0 +1,7 @@
+:Stop
+echo [92m " =================================== Stop =================================== " [0m 
+if %isCLS% == 1 ( cls )
+exit /b
+exit /b
+@rem @timeout /t 360 >nul
+rem 

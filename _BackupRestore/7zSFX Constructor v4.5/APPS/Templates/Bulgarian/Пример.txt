@@ -1,0 +1,40 @@
+;!@Install@!UTF-8!
+;SetEnvironment	= ""
+
+InstallPath	= "#InstallPath"
+
+RunProgram	= "fm10:\"#FileRun\"#CmdLine"
+AutoInstall	= ""
+
+Shortcut	= "Вид (Desktop/Start/Programs/auTorun + uSER),{Файл},{Опции за стартиране},{Группа ярлыка},{Описание ярлыка},{Имя ярлыка},{Работна папка},{Иконка},{Номер на икона}"
+
+Delete		= ""
+
+GUIFlags="2+8+32+64+256+2048+4096"
+MiscFlags="4"
+GUIMode="0"
+OverwriteMode="0"
+
+HelpText	= "Опции за стартиране на инсталатора:
+ -y	без запитване преди инсталацията
+ -fm0	липсва съобщение за завършване на инсталацията
+ -gm1	липсва диалога за избор на папки
+ -gm2	липсва диалогов прозорец за разархивиране
+"
+
+Title		= "Инсталация #FolderName #Version"
+ExtractTitle	= "Инсталация #FolderName #Version"
+ExtractPathTitle= "Инсталация #FolderName #Version"
+PasswordTitle	= "Инсталация #FolderName #Version"
+WarningTitle	= "Инсталация #FolderName #Version - Предупреждение"
+ErrorTitle	= "Инсталация #FolderName #Version - Грешка"
+
+BeginPrompt	= "Изпълни инсталирането #FolderName #Version?"
+CancelPrompt	= "Наистина ли искате да отмените инсталацията #FolderName #Version?"
+FinishMessage	= "Инсталацията #FolderName #Version завърши успешно!"
+
+PasswordText	= "Въведете парола:"
+ExtractPathText	= "Изберете път за инсталиране #FolderName:"
+ExtractDialogText="Разархивиране..."
+ExtractCancelText="Отмяна"
+;!@InstallEnd@!

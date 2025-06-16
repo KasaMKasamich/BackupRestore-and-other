@@ -1,0 +1,47 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 17  2023 . 3:12:29
+   Source : F:\ProgramFiles\_ResourceGrab\
+     Dest : H:\_TempDestDirectoryCopying\_ResourceGrab\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DAT /COPY:DAT /Z /MT:8 /R:3 /W:2 
+
+------------------------------------------------------------------------------
+
+	    New File  		   3.8 m	F:\ProgramFiles\_ResourceGrab\Resource Tuner.7z 12%   25%   38%   51%   64%  100%  
+	    New File  		   14928	F:\ProgramFiles\_ResourceGrab\Resource Hacker\Dialogs.def100%  
+	    New File  		    5164	F:\ProgramFiles\_ResourceGrab\Resource Hacker\ReadMe.txt100%  
+	    New File  		     429	F:\ProgramFiles\_ResourceGrab\Resource Hacker\ResHacker.cnt100%  
+	    New File  		  884736	F:\ProgramFiles\_ResourceGrab\Resource Hacker\ResHacker.exe100%  
+	    New File  		  533856	F:\ProgramFiles\_ResourceGrab\Resource Hacker\ResHacker.hlp100%  
+	    New File  		     491	F:\ProgramFiles\_ResourceGrab\Resource Hacker\ResHacker.ini100%  
+	    New File  		   10125	F:\ProgramFiles\_ResourceGrab\Resource Hacker\Version_History.txt100%  
+	    New File  		   1.6 m	F:\ProgramFiles\_ResourceGrab\Resource Tuner\core.dll 60%  100%  
+	    New File  		   23771	F:\ProgramFiles\_ResourceGrab\Resource Tuner\EULA.txt100%  
+	    New File  		  265973	F:\ProgramFiles\_ResourceGrab\Resource Tuner\langpack.dat100%  
+	    New File  		      65	F:\ProgramFiles\_ResourceGrab\Resource Tuner\order.url100%  
+	    New File  		   1.3 m	F:\ProgramFiles\_ResourceGrab\Resource Tuner\ResourceTuner.chm100%  
+	    New File  		   4.4 m	F:\ProgramFiles\_ResourceGrab\Resource Tuner\restuner.exe 44%   55%   66%  100%  
+	    New File  		      71	F:\ProgramFiles\_ResourceGrab\Resource Tuner\restuner.url100%  
+	    New File  		  206848	F:\ProgramFiles\_ResourceGrab\Resource Tuner\PLUGINS\unnspack.dll100%  
+	    New File  		  205824	F:\ProgramFiles\_ResourceGrab\Resource Tuner\PLUGINS\unupack.dll100%  
+	    New File  		  269312	F:\ProgramFiles\_ResourceGrab\Resource Tuner\PLUGINS\unupx.dll100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         0         0         0         0
+   Files :        18        18         0         0         0         0
+   Bytes :   13.62 m   13.62 m         0         0         0         0
+   Times :   0:00:17   0:00:02                       0:00:00   0:00:00
+
+
+   Speed :             5569626 Bytes/sec.
+   Speed :             318.696 MegaBytes/min.
+   Ended : 17  2023 . 3:12:32
+

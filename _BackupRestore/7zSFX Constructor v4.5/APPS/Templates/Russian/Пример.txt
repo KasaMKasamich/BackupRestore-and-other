@@ -1,0 +1,40 @@
+;!@Install@!UTF-8!
+;SetEnvironment	= ""
+
+InstallPath	= "#InstallPath"
+
+RunProgram	= "fm10:\"#FileRun\"#CmdLine"
+AutoInstall	= ""
+
+Shortcut	= "Тип (Desktop/Start/Programs/auTorun + uSER),{Файл},{Параметры запуска},{Группа ярлыка},{Описание ярлыка},{Имя ярлыка},{Рабочая папка},{Иконка},{Номер иконки}"
+
+Delete		= ""
+
+GUIFlags="2+8+32+64+256+2048+4096"
+MiscFlags="4"
+GUIMode="0"
+OverwriteMode="0"
+
+HelpText	= "Параметры запуска установщика:
+ -y	подавлять запрос перед установкой
+ -fm0	подавлять сообщение об окончании установки
+ -gm1	подавлять диалог выбора папки
+ -gm2	подавлять все диалоги распаковки
+"
+
+Title		= "Установка #FolderName #Version"
+ExtractTitle	= "Установка #FolderName #Version"
+ExtractPathTitle= "Установка #FolderName #Version"
+PasswordTitle	= "Установка #FolderName #Version"
+WarningTitle	= "Установка #FolderName #Version - Предупреждение"
+ErrorTitle	= "Установка #FolderName #Version - Ошибка"
+
+BeginPrompt	= "Выполнить установку #FolderName #Version?"
+CancelPrompt	= "Вы действительно хотите отменить установку #FolderName #Version?"
+FinishMessage	= "Установка #FolderName #Version успешно завершена!"
+
+PasswordText	= "Введите пароль:"
+ExtractPathText	= "Выберите путь для установки #FolderName:"
+ExtractDialogText="Идет распаковка..."
+ExtractCancelText="Отмена"
+;!@InstallEnd@!

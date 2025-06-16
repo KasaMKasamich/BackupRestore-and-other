@@ -1,0 +1,36 @@
+;!@Install@!UTF-8!
+InstallPath	= "%ProgramFiles%\\#FolderName"
+
+SetEnvironment	= "INF_File=#FolderName.inf"
+SetEnvironment	= "INF_Sect=DefaultInstall"
+
+
+RunProgram	= "fm10:\"%SystemRoot%\\System32\\RunDLL32.exe\" advpack.dll,LaunchINFSectionEx %%T\\%INF_File%,%INF_Sect%,,4,N"
+
+GUIFlags="2+8+32+256"
+MiscFlags="4"
+GUIMode="1"
+OverwriteMode="0"
+
+HelpText	= "Параметры запуска установщика:
+ -y	подавлять запрос перед установкой
+ -fm0	подавлять сообщение об окончании установки
+ -gm2	подавлять диалог распаковки
+"
+
+Title		= "Установка #FolderName #Version"
+ExtractTitle	= "Установка #FolderName #Version"
+ExtractPathTitle= "Установка #FolderName #Version"
+PasswordTitle	= "Установка #FolderName #Version"
+WarningTitle	= "Установка #FolderName #Version - Предупреждение"
+ErrorTitle	= "Установка #FolderName #Version - Ошибка"
+
+BeginPrompt	= "Выполнить установку #FolderName #Version?"
+CancelPrompt	= "Вы действительно хотите отменить установку #FolderName #Version?"
+FinishMessage	= "Установка #FolderName #Version успешно завершена!"
+
+PasswordText	= "Введите пароль:"
+ExtractPathText	= "Выберите путь для установки #FolderName:"
+ExtractDialogText="Идет распаковка..."
+ExtractCancelText="Отмена"
+;!@InstallEnd@!

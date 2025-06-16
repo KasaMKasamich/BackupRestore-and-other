@@ -1,0 +1,16 @@
+Common Files\
+internet explorer\
+MSBuild\
+NVIDIA*\
+Reference Assemblies\
+rempl\
+TechSmith\
+UmmyVideoDownloader\
+Uninstall Information\
+Unity*\
+UNP\
+VK\
+Windows*\
+WindowsPowerShell\
+Wondershare\
+Yandex\

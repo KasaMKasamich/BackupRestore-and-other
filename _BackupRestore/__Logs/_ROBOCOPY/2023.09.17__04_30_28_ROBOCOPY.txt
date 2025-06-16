@@ -1,0 +1,463 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 17  2023 . 4:30:36
+   Source : F:\ProgramFiles\_Utilites\
+     Dest : H:\_TempDestDirectoryCopying\_Utilites\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DAT /COPY:DAT /Z /MT:8 /R:3 /W:2 
+
+------------------------------------------------------------------------------
+
+	    New File  		   2.0 m	F:\ProgramFiles\_Utilites\Bat_To_Exe_Converter_x64.exe  0%   24%  100%  
+	    New File  		  162509	F:\ProgramFiles\_Utilites\InternetSpeedTest.log100%  
+	    New File  		  189060	F:\ProgramFiles\_Utilites\iplookup.rar100%  
+	    New File  		   96178	F:\ProgramFiles\_Utilites\Process Killer.rar100%  
+	    New File  		     712	F:\ProgramFiles\_Utilites\settings100%  
+	    New File  		   47119	F:\ProgramFiles\_Utilites\Ultimate_Process_Killer_2.0.2.rar100%  
+	    New File  		   4.3 m	F:\ProgramFiles\_Utilites\Uninstall Tool.7z100%  
+	    New File  		  401408	F:\ProgramFiles\_Utilites\wget.exe100%  
+	    New File  		   1.2 m	F:\ProgramFiles\_Utilites\AIDA64\aida64.dat100%  
+	    New File  		   3.4 m	F:\ProgramFiles\_Utilites\AIDA64\aida64.exe100%  
+	    New File  		     928	F:\ProgramFiles\_Utilites\AIDA64\aida64.exe.manifest100%  
+	    New File  		      26	F:\ProgramFiles\_Utilites\AIDA64\aida64.ini100%  
+	    New File  		    2502	F:\ProgramFiles\_Utilites\AIDA64\aida64.mem100%  
+	    New File  		    5823	F:\ProgramFiles\_Utilites\AIDA64\aida64.web100%  
+	    New File  		   2.9 m	F:\ProgramFiles\_Utilites\AIDA64\aida_bench32.dll100%  
+	    New File  		   3.9 m	F:\ProgramFiles\_Utilites\AIDA64\aida_bench64.dll100%  
+	    New File  		  364360	F:\ProgramFiles\_Utilites\AIDA64\aida_cpl.cpl100%  
+	    New File  		   2.0 m	F:\ProgramFiles\_Utilites\AIDA64\aida_cpuid.dll100%  
+	    New File  		 1043776	F:\ProgramFiles\_Utilites\AIDA64\aida_diskbench.dll100%  
+	    New File  		  153912	F:\ProgramFiles\_Utilites\AIDA64\aida_icons2k.dll100%  
+	    New File  		  292656	F:\ProgramFiles\_Utilites\AIDA64\aida_icons7.dll100%  
+	    New File  		  224560	F:\ProgramFiles\_Utilites\AIDA64\aida_iconsxp.dll100%  
+	    New File  		   62280	F:\ProgramFiles\_Utilites\AIDA64\aida_lglcd.dll100%  
+	    New File  		   62280	F:\ProgramFiles\_Utilites\AIDA64\aida_lglcd3.dll100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Utilites\AIDA64\aida_mondiag.dll 48%  100%  
+	    New File  		   54088	F:\ProgramFiles\_Utilites\AIDA64\aida_update.dll100%  
+	    New File  		   22988	F:\ProgramFiles\_Utilites\AIDA64\aida_vsb.vsb100%  
+	    New File  		   84304	F:\ProgramFiles\_Utilites\AIDA64\aida_zipdll.dll100%  
+	    New File  		   53592	F:\ProgramFiles\_Utilites\AIDA64\kerneld.ia64100%  
+	    New File  		   21052	F:\ProgramFiles\_Utilites\AIDA64\kerneld.w9x100%  
+	    New File  		   32080	F:\ProgramFiles\_Utilites\AIDA64\kerneld.x32100%  
+	    New File  		   31576	F:\ProgramFiles\_Utilites\AIDA64\kerneld.x64100%  
+	    New File  		  697152	F:\ProgramFiles\_Utilites\AIDA64\libeay32.dll100%  
+	    New File  		    5256	F:\ProgramFiles\_Utilites\AIDA64\pkey.txt100%  
+	    New File  		  164672	F:\ProgramFiles\_Utilites\AIDA64\ssleay32.dll100%  
+	    New File  		   62241	F:\ProgramFiles\_Utilites\AIDA64\Uninstall.exe100%  
+	    New File  		   1.3 m	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu.exe100%  
+	    New File  		   1.6 m	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu64.exe 44%  100%  
+	    New File  		  389911	F:\ProgramFiles\_Utilites\Birthday\Birthday.chm100%  
+	    New File  		   1.9 m	F:\ProgramFiles\_Utilites\Birthday\Birthday.exe 63%  100%  
+	    New File  		     316	F:\ProgramFiles\_Utilites\Birthday\Birthday.ini100%  
+	    New File  		   57724	F:\ProgramFiles\_Utilites\Birthday\config.abs100%  
+	    New File  		    3621	F:\ProgramFiles\_Utilites\Birthday\Import.txt100%  
+	    New File  		   17468	F:\ProgramFiles\_Utilites\Birthday\unins000.dat100%  
+	    New File  		  929742	F:\ProgramFiles\_Utilites\Birthday\unins000.exe100%  
+	    New File  		   2.6 m	F:\ProgramFiles\_Utilites\Lavalys\everest_home.rar100%  
+	    New File  		   3.8 m	F:\ProgramFiles\_Utilites\hwi_584\HWiNFO32.exe100%  
+	    New File  		   15737	F:\ProgramFiles\_Utilites\hwi_584\HWiNFO32.INI100%  
+	    New File  		   4.0 m	F:\ProgramFiles\_Utilites\hwi_584\HWiNFO64.exe100%  
+	    New File  		    3123	F:\ProgramFiles\_Utilites\hwi_584\HWiNFO64.INI100%  
+	    New File  		    7490	F:\ProgramFiles\_Utilites\ProcessMonitor\Eula.txt100%  
+	    New File  		   63582	F:\ProgramFiles\_Utilites\ProcessMonitor\procmon.chm100%  
+	    New File  		   2.0 m	F:\ProgramFiles\_Utilites\ProcessMonitor\Procmon.exe100%  
+	    New File  		    2472	F:\ProgramFiles\_Utilites\Uninstall Tool\CisUtMonitor.inf100%  
+	    New File  		   54800	F:\ProgramFiles\_Utilites\Uninstall Tool\CisUtMonitor.sys100%  
+	    New File  		      13	F:\ProgramFiles\_Utilites\Uninstall Tool\license.dat100%  
+	    New File  		  266304	F:\ProgramFiles\_Utilites\Uninstall Tool\PinToTaskbar.exe100%  
+	    New File  		  247872	F:\ProgramFiles\_Utilites\Uninstall Tool\PinToTaskbarHelper.dll100%  
+	    New File  		    2182	F:\ProgramFiles\_Utilites\Uninstall Tool\preferences.xml100%  
+	    New File  		    2338	F:\ProgramFiles\_Utilites\Uninstall Tool\unins000.dat100%  
+	    New File  		  707354	F:\ProgramFiles\_Utilites\Uninstall Tool\unins000.exe100%  
+	    New File  		   36966	F:\ProgramFiles\_Utilites\Uninstall Tool\unins001.dat100%  
+	    New File  		   1.2 m	F:\ProgramFiles\_Utilites\Uninstall Tool\unins001.exe 41%  100%  
+	    New File  		   24131	F:\ProgramFiles\_Utilites\Uninstall Tool\unins001.msg100%  
+	    New File  		  415304	F:\ProgramFiles\_Utilites\Uninstall Tool\UninstallTool.cpl100%  
+	    New File  		   4.6 m	F:\ProgramFiles\_Utilites\Uninstall Tool\UninstallTool.exe 42%  100%  
+	    New File  		      53	F:\ProgramFiles\_Utilites\Uninstall Tool\UninstallTool.url100%  
+	    New File  		  267848	F:\ProgramFiles\_Utilites\Uninstall Tool\UninstallToolExec.exe100%  
+	    New File  		  474720	F:\ProgramFiles\_Utilites\Uninstall Tool\UninstallToolHelper.exe100%  
+	    New File  		  301855	F:\ProgramFiles\_Utilites\Uninstall Tool\utool.chm100%  
+	    New File  		   67464	F:\ProgramFiles\_Utilites\Uninstall Tool\utool.cpl100%  
+	    New File  		   41984	F:\ProgramFiles\_Utilites\Uninstall Tool\utool.dll100%  
+	    New File  		   3.0 m	F:\ProgramFiles\_Utilites\Uninstall Tool\utool.exe100%  
+	    New File  		  389192	F:\ProgramFiles\_Utilites\Uninstall Tool\utshellext.dll100%  
+	    New File  		  320584	F:\ProgramFiles\_Utilites\Uninstall Tool\utshellext_x86.dll100%  
+	    New File  		  170844	F:\ProgramFiles\_Utilites\Uninstall Tool\Удалить Uninstall Tool.exe100%  
+	    New File  		   29731	F:\ProgramFiles\_Utilites\USB Disk Security\log.dmb100%  
+	    New File  		   86016	F:\ProgramFiles\_Utilites\USB Disk Security\RunUSBGuard.exe100%  
+	    New File  		  457354	F:\ProgramFiles\_Utilites\USB Disk Security\USB Disk Security.rar100%  
+	    New File  		  291012	F:\ProgramFiles\_Utilites\USB Disk Security\USBGuard.chm100%  
+	    New File  		    2472	F:\ProgramFiles\_Utilites\Uninstall Tool v3_4\CisUtMonitor.inf100%  
+	    New File  		   33360	F:\ProgramFiles\_Utilites\Uninstall Tool v3_4\CisUtMonitor.sys100%  
+	    New File  		   64504	F:\ProgramFiles\_Utilites\Uninstall Tool v3_4\UninstallTool.cpl100%  
+	    New File  		   4.0 m	F:\ProgramFiles\_Utilites\Uninstall Tool v3_4\UninstallTool.exe 61%  100%  
+	    New File  		  489024	F:\ProgramFiles\_Utilites\Uninstall Tool v3_4\utshellext.dll100%  
+	    New File  		  380480	F:\ProgramFiles\_Utilites\Uninstall Tool v3_4\utshellext_x86.dll100%  
+	    New File  		  518648	F:\ProgramFiles\_Utilites\Uninstall Tool v3_4\x64helper.exe100%  
+	    New File  		  170846	F:\ProgramFiles\_Utilites\Uninstall Tool v3_4\Удалить Uninstall Tool.exe100%  
+	    New File  		    7005	F:\ProgramFiles\_Utilites\ProcessExplorer\Eula.txt100%  
+	    New File  		   72056	F:\ProgramFiles\_Utilites\ProcessExplorer\procexp.chm100%  
+	    New File  		   3.4 m	F:\ProgramFiles\_Utilites\ProcessExplorer\procexp.exe100%  
+	    New File  		 1034816	F:\ProgramFiles\_Utilites\ProcessExplorer\procexp64.exe100%  
+	    New File  		    6509	F:\ProgramFiles\_Utilites\ProcessExplorer\StikyNot.exe.txt100%  
+	    New File  		  261889	F:\ProgramFiles\_Utilites\_MediaInfo\curl-ca-bundle.crt100%  
+	    New File  		  150030	F:\ProgramFiles\_Utilites\_MediaInfo\History.txt100%  
+	    New File  		  399936	F:\ProgramFiles\_Utilites\_MediaInfo\LIBCURL.DLL100%  
+	    New File  		    1328	F:\ProgramFiles\_Utilites\_MediaInfo\LICENSE100%  
+	    New File  		    4686	F:\ProgramFiles\_Utilites\_MediaInfo\License.html100%  
+	    New File  		   6.5 m	F:\ProgramFiles\_Utilites\_MediaInfo\MediaInfo.dll100%  
+	    New File  		   6.6 m	F:\ProgramFiles\_Utilites\_MediaInfo\MediaInfo.exe 60%  100%  
+	    New File  		      56	F:\ProgramFiles\_Utilites\_MediaInfo\MediaInfo.url100%  
+	    New File  		   5.1 m	F:\ProgramFiles\_Utilites\_MediaInfo\MediaInfo_i386.dll100%  
+	    New File  		  142288	F:\ProgramFiles\_Utilites\_MediaInfo\MediaInfo_InfoTip.dll100%  
+	    New File  		     205	F:\ProgramFiles\_Utilites\_MediaInfo\ReadMe.txt100%  
+	    New File  		  143511	F:\ProgramFiles\_Utilites\_MediaInfo\uninst.exe100%  
+	    New File  		  131590	F:\ProgramFiles\_Utilites\AIDA64\Language\lang_ru.txt100%  
+	    New File  		  133073	F:\ProgramFiles\_Utilites\AIDA64\Language\lang_ua.txt100%  
+	    New File  		    5681	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\About-ConEmu.txt100%  
+	    New File  		     835	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Attach.cmd100%  
+	    New File  		    1110	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\cecho.cmd100%  
+	    New File  		     353	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ClsEx.cmd100%  
+	    New File  		    4939	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Cmd_Autorun.cmd100%  
+	    New File  		     291	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ColorPrompt.cmd100%  
+	    New File  		      85	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Command Processor Off.reg100%  
+	    New File  		     129	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Command Processor.reg100%  
+	    New File  		   17752	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ConEmuC.exe100%  
+	    New File  		   18264	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ConEmuC64.exe100%  
+	    New File  		  455512	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ConEmuCD.dll100%  
+	    New File  		  540504	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ConEmuCD64.dll100%  
+	    New File  		  349528	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ConEmuHk.dll100%  
+	    New File  		  425816	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ConEmuHk64.dll100%  
+	    New File  		    3347	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ConEmu_MinGW.xml100%  
+	    New File  		   28233	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ConEmu_Sample.xml100%  
+	    New File  		   23786	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ConEmu_Tilde.xml100%  
+	    New File  		    1749	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\csudo.cmd100%  
+	    New File  		   44376	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ExtendedConsole.dll100%  
+	    New File  		   56664	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\ExtendedConsole64.dll100%  
+	    New File  		   44596	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\FAQ-ConEmu.txt100%  
+	    New File  		    4123	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\GitShowBranch.cmd100%  
+	    New File  		    1265	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\IsConEmu.cmd100%  
+	    New File  		    1474	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\License.txt100%  
+	    New File  		    1443	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Portable.txt100%  
+	    New File  		     245	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\RenameTab.cmd100%  
+	    New File  		     744	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\SetConTitle.cmd100%  
+	    New File  		     228	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\SetEscChar.cmd100%  
+	    New File  		    1341	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\SetProgress.cmd100%  
+	    New File  		   19666	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Settings-ConEmu.reg100%  
+	    New File  		     777	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\TypeBuildErrors.cmd100%  
+	    New File  		  376576	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\WhatsNew-ConEmu.txt100%  
+	    New File  		    7149	F:\ProgramFiles\_Utilites\Birthday\language\ENG.lng100%  
+	    New File  		    7416	F:\ProgramFiles\_Utilites\Birthday\language\RUS.lng100%  
+	    New File  		    7301	F:\ProgramFiles\_Utilites\Birthday\language\UKR.lng100%  
+	    New File  		   1.5 m	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest.chm100%  
+	    New File  		  738552	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest.dat100%  
+	    New File  		   2.0 m	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest.exe100%  
+	    New File  		     946	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest.exe.manifest100%  
+	    New File  		    2502	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest.mem100%  
+	    New File  		      48	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest.url100%  
+	    New File  		    5892	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest.web100%  
+	    New File  		  911968	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest_bench.dll100%  
+	    New File  		  169064	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest_cpl.cpl100%  
+	    New File  		   1.1 m	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest_cpuid.dll100%  
+	    New File  		  291424	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest_diskbench.dll100%  
+	    New File  		  127056	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest_icons.dll100%  
+	    New File  		   60008	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest_lglcd.dll100%  
+	    New File  		 1039464	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest_mondiag.dll100%  
+	    New File  		   57492	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest_vsb.vsb100%  
+	    New File  		  163920	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest_xpicons.dll100%  
+	    New File  		   54896	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\everest_zipdll.dll100%  
+	    New File  		   21120	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\kerneld.amd64100%  
+	    New File  		   39552	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\kerneld.ia64100%  
+	    New File  		   18492	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\kerneld.w9x100%  
+	    New File  		   23152	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\kerneld.wnt100%  
+	    New File  		   11491	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\license.txt100%  
+	    New File  		    8026	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\unins000.dat100%  
+	    New File  		  674736	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\unins000.exe100%  
+	    New File  		   49117	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Arabic.xml100%  
+	    New File  		   52806	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Armenian.xml100%  
+	    New File  		   43097	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Azerbaijani.xml100%  
+	    New File  		   55384	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Belarusian.xml100%  
+	    New File  		   56258	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Bulgarian.xml100%  
+	    New File  		   38130	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Chinese_Simplified.xml100%  
+	    New File  		   38884	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Chinese_Traditional.xml100%  
+	    New File  		   40962	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Croatian.xml100%  
+	    New File  		   42668	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Czech.xml100%  
+	    New File  		   41356	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Danish.xml100%  
+	    New File  		   42421	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Dutch.xml100%  
+	    New File  		   40847	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\English.xml100%  
+	    New File  		   41313	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Estonian.xml100%  
+	    New File  		   43801	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\French.xml100%  
+	    New File  		   67536	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Georgian.xml100%  
+	    New File  		   45916	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\German.xml100%  
+	    New File  		   54671	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Greek.xml100%  
+	    New File  		   47848	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Hebrew.xml100%  
+	    New File  		   65564	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Hindi.xml100%  
+	    New File  		   45013	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Hungarian.xml100%  
+	    New File  		   41347	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Indonesian.xml100%  
+	    New File  		   43365	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Italian.xml100%  
+	    New File  		   47045	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Japanese.xml100%  
+	    New File  		   44146	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Korean.xml100%  
+	    New File  		   42070	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Latvian.xml100%  
+	    New File  		   40343	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Lithuanian.xml100%  
+	    New File  		   40252	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Norwegian.xml100%  
+	    New File  		   49051	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Persian.xml100%  
+	    New File  		   43217	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Polish.xml100%  
+	    New File  		   42631	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Portuguese.xml100%  
+	    New File  		   43421	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Portuguese_Brazilian.xml100%  
+	    New File  		   40844	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Romanian.xml100%  
+	    New File  		   59461	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Russian.xml100%  
+	    New File  		   51079	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Serbian_Cyrillic.xml100%  
+	    New File  		   41114	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Serbian_Latin.xml100%  
+	    New File  		   43683	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Slovak.xml100%  
+	    New File  		   43591	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Spanish.xml100%  
+	    New File  		   40478	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Swedish.xml100%  
+	    New File  		   40934	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Turkish.xml100%  
+	    New File  		   52184	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Ukrainian.xml100%  
+	    New File  		   46316	F:\ProgramFiles\_Utilites\Uninstall Tool\languages\Vietnamese.xml100%  
+	    New File  		   35263	F:\ProgramFiles\_Utilites\Uninstall Tool v3_4\languages\English.xml100%  
+	    New File  		   52192	F:\ProgramFiles\_Utilites\Uninstall Tool v3_4\languages\Russian.xml100%  
+	    New File  		   46660	F:\ProgramFiles\_Utilites\Uninstall Tool v3_4\languages\Ukrainian.xml100%  
+	    New File  		    1395	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\MediaInfo.cfg100%  
+	    New File  		   1.5 m	F:\ProgramFiles\_Utilites\_MediaInfo\_old\mediainfo.dll100%  
+	    New File  		  927232	F:\ProgramFiles\_Utilites\_MediaInfo\_old\mediainfo.exe100%  
+	    New File  		     484	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\clink\Readme.txt100%  
+	    New File  		   11081	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\DosBox\DosBox_Sample.conf100%  
+	    New File  		     710	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\AnsiColors16.ans100%  
+	    New File  		   13689	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\AnsiColors16t.ans100%  
+	    New File  		    1090	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\AnsiColors24bit.ps1100%  
+	    New File  		    8781	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\AnsiColors256.ans100%  
+	    New File  		    6198	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\Blues16.bmp100%  
+	    New File  		     704	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\CallPlugin.txt100%  
+	    New File  		    1839	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\ChocolateyAbout.cmd100%  
+	    New File  		    1654	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\ConEmu_Inside.reg100%  
+	    New File  		     287	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\ConEmu_Inside_Delete.reg100%  
+	    New File  		     509	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\Disable_ConIme.reg100%  
+	    New File  		    3202	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\FarHere.dat100%  
+	    New File  		    1020	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\FarHereInstall.cmd100%  
+	    New File  		      48	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\FarHereUninstall.cmd100%  
+	    New File  		     864	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\git_sample.cmd100%  
+	    New File  		    6198	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\Greys16.bmp100%  
+	    New File  		    3126	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\Lines16.bmp100%  
+	    New File  		    3126	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\Lines16a.bmp100%  
+	    New File  		    3510	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\Lines18.bmp100%  
+	    New File  		    3510	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Addons\Lines18a.bmp100%  
+	    New File  		     458	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far1_reg\AltEnter_Exec.reg100%  
+	    New File  		     419	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far1_reg\AltEnter_Props.reg100%  
+	    New File  		     458	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far1_reg\CtrlAltD.reg100%  
+	    New File  		     584	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far1_reg\CtrlO.reg100%  
+	    New File  		     585	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far1_reg\CtrlO_View.reg100%  
+	    New File  		     396	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far1_reg\CtrlShiftT.reg100%  
+	    New File  		     433	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far1_reg\FAR_AutoAttach.reg100%  
+	    New File  		     891	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far1_reg\FontSize.reg100%  
+	    New File  		    1447	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far1_reg\ShiftEnter.reg100%  
+	    New File  		    2157	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far1_reg\TabList.reg100%  
+	    New File  		     821	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far1_reg\Thumbnails.reg100%  
+	    New File  		     393	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far1_reg\Thumbnails_KeyBar.reg100%  
+	    New File  		     462	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\AltEnter_Exec.reg100%  
+	    New File  		     421	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\AltEnter_Props.reg100%  
+	    New File  		     372	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\CtrlAltD.reg100%  
+	    New File  		     495	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\CtrlO.reg100%  
+	    New File  		     491	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\CtrlO_View.reg100%  
+	    New File  		     310	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\CtrlShiftT.reg100%  
+	    New File  		    2992	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\FarWhite.reg100%  
+	    New File  		     297	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\FAR_AutoAttach.reg100%  
+	    New File  		     611	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\FontSize.reg100%  
+	    New File  		    3704	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\ShiftEnter.reg100%  
+	    New File  		     580	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\Thumbnails.reg100%  
+	    New File  		     395	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\Thumbnails_KeyBar.reg100%  
+	    New File  		     629	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_reg\UCharMap.reg100%  
+	    New File  		    1568	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_fml\ConEmu.Editor.fml100%  
+	    New File  		    1430	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_fml\ConEmu.fml100%  
+	    New File  		     615	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_fml\ConEmu.FontSize.fml100%  
+	    New File  		     423	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_fml\ConEmu.GuiMacro.fml100%  
+	    New File  		    3600	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_fml\ConEmu.ShiftEnter.fml100%  
+	    New File  		     677	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far2_fml\ConEmu.TabList.fml100%  
+	    New File  		    1320	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_lua\ConEmu.CtrlO.lua100%  
+	    New File  		     379	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_lua\ConEmu.CtrlShiftT.lua100%  
+	    New File  		    1765	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_lua\ConEmu.Editor.lua100%  
+	    New File  		     703	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_lua\ConEmu.FontSize.lua100%  
+	    New File  		     349	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_lua\ConEmu.PanelsList.lua100%  
+	    New File  		    3741	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_lua\ConEmu.ShiftEnter.lua100%  
+	    New File  		     603	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_lua\ConEmu.TabList.lua100%  
+	    New File  		     588	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_lua\ConEmu.Thumbnails.lua100%  
+	    New File  		     629	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_lua\Descript.ion100%  
+	    New File  		    1454	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_lua\Editor.MsRClick.lua100%  
+	    New File  		     782	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_lua\Thumbnails_KeyBar.farconfig100%  
+	    New File  		    1218	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_fml\ConEmu.CtrlO.fml100%  
+	    New File  		     438	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_fml\ConEmu.CtrlShiftT.fml100%  
+	    New File  		    1745	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_fml\ConEmu.Editor.fml100%  
+	    New File  		     697	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_fml\ConEmu.FontSize.fml100%  
+	    New File  		    3282	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_fml\ConEmu.ShiftEnter.fml100%  
+	    New File  		     612	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_fml\ConEmu.TabList.fml100%  
+	    New File  		     623	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_fml\ConEmu.Thumbnails.fml100%  
+	    New File  		    1306	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_fml\Editor.MsRClick.fml100%  
+	    New File  		     782	F:\ProgramFiles\_Utilites\ConEmuPack\ConEmu\Far3_fml\Thumbnails_KeyBar.farconfig100%  
+	    New File  		  289112	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\ConEmu.dll100%  
+	    New File  		  229006	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\ConEmu.map100%  
+	    New File  		  349016	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\ConEmu.x64.dll100%  
+	    New File  		  245830	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\ConEmu.x64.map100%  
+	    New File  		    1775	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\ConEmuPlugin_en.lng100%  
+	    New File  		    1950	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\ConEmuPlugin_ru.lng100%  
+	    New File  		     963	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Readme.txt100%  
+	    New File  		  105420	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_aa.txt100%  
+	    New File  		  118930	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_al.txt  0%  100%  
+	    New File  		  117739	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_bg.txt100%  
+	    New File  		  115233	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_bs.txt100%  
+	    New File  		  113501	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_by.txt100%  
+	    New File  		  123728	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_ca.txt100%  
+	    New File  		   92930	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_cn.txt100%  
+	    New File  		  113132	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_cz.txt100%  
+	    New File  		  115557	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_de.txt100%  
+	    New File  		  110447	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_dk.txt100%  
+	    New File  		  123965	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_es.txt100%  
+	    New File  		  107579	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_fi.txt100%  
+	    New File  		  123034	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_fr.txt100%  
+	    New File  		  114114	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_hr.txt100%  
+	    New File  		  114797	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_hu.txt100%  
+	    New File  		  110272	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_id.txt100%  
+	    New File  		  121498	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_it.txt100%  
+	    New File  		  111785	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_jp.txt100%  
+	    New File  		  100367	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_kr.txt100%  
+	    New File  		  119361	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_lt.txt100%  
+	    New File  		  113997	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_lv.txt100%  
+	    New File  		  121227	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_mk.txt100%  
+	    New File  		  114011	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_nl.txt100%  
+	    New File  		  110376	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_no.txt100%  
+	    New File  		  122786	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_pl.txt100%  
+	    New File  		  121168	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_pt.txt100%  
+	    New File  		  116719	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_ro.txt100%  
+	    New File  		  113784	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_ru.txt100%  
+	    New File  		  111896	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_se.txt100%  
+	    New File  		  115294	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_si.txt100%  
+	    New File  		  112723	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_sk.txt100%  
+	    New File  		  112616	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_src.txt100%  
+	    New File  		  113201	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_srl.txt100%  
+	    New File  		  112413	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_tr.txt100%  
+	    New File  		   92400	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_tw.txt100%  
+	    New File  		  114369	F:\ProgramFiles\_Utilites\Lavalys\EVEREST Ultimate Edition\Language\lang_ua.txt100%  
+	    New File  		    1019	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\en.Example.csv100%  
+	    New File  		    4560	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\en.Example_HTML.csv100%  
+	    New File  		    1021	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\Example.csv100%  
+	    New File  		    4560	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\Example_HTML.csv100%  
+	    New File  		    1005	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\fr.Example.csv100%  
+	    New File  		    1035	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\it.Esempio.csv100%  
+	    New File  		    4520	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\it.Esempio_HTML.csv100%  
+	    New File  		    3665	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\Table by fields, compact (HTML).csv100%  
+	    New File  		    4183	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\Table by fields, short (HTML).csv100%  
+	    New File  		    7432	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\Table by fields, standard (HTML).csv100%  
+	    New File  		    8067	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\Table by fields, verbose (HTML).csv100%  
+	    New File  		    2341	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\Table by streams, compact (HTML).csv100%  
+	    New File  		    2376	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\Table by streams, short (HTML).csv100%  
+	    New File  		    3860	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\Table by streams, standard (HTML).csv100%  
+	    New File  		    4997	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\Table by streams, verbose (HTML).csv100%  
+	    New File  		    1515	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\XML.csv100%  
+	    New File  		    1988	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Custom\zzz_Contrib - Dusil (HTML).csv100%  
+	    New File  		   36658	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\ar.csv100%  
+	    New File  		   37876	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\be.csv100%  
+	    New File  		   35825	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\bg.csv100%  
+	    New File  		   32855	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\ca.csv100%  
+	    New File  		   25886	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\cs.csv100%  
+	    New File  		   29690	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\da.csv100%  
+	    New File  		   31774	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\de.csv100%  
+	    New File  		   34341	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\en.csv100%  
+	    New File  		   33254	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\es.csv100%  
+	    New File  		   32147	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\eu.csv100%  
+	    New File  		   33149	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\fa.csv100%  
+	    New File  		   33934	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\fr.csv100%  
+	    New File  		   26789	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\gl.csv100%  
+	    New File  		   30975	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\gr.csv100%  
+	    New File  		   31837	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\hr.csv100%  
+	    New File  		   28495	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\hu.csv100%  
+	    New File  		   38231	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\hy.csv100%  
+	    New File  		   31677	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\it.csv100%  
+	    New File  		   31294	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\ja.csv100%  
+	    New File  		   42860	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\ka.csv100%  
+	    New File  		   30893	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\ko.csv100%  
+	    New File  		   28325	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\lt.csv100%  
+	    New File  		   30034	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\nl.csv100%  
+	    New File  		   30422	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\pl.csv100%  
+	    New File  		   30731	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\pt-BR.csv100%  
+	    New File  		   32699	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\pt.csv100%  
+	    New File  		   22507	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\ro.csv100%  
+	    New File  		   39844	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\ru.csv100%  
+	    New File  		   27531	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\sk.csv100%  
+	    New File  		   31320	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\sq.csv100%  
+	    New File  		   32361	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\sv.csv100%  
+	    New File  		   37418	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\th.csv100%  
+	    New File  		   34212	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\tr.csv100%  
+	    New File  		   37917	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\uk.csv100%  
+	    New File  		   35522	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\zh-CN.csv100%  
+	    New File  		   35677	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\zh-HK.csv100%  
+	    New File  		   33477	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Language\zh-TW.csv100%  
+	    New File  		       0	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Tree\Example.csv100%  
+	    New File  		     197	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Sheet\Example.csv100%  
+	    New File  		     736	F:\ProgramFiles\_Utilites\_MediaInfo\Plugin\Sheet\Export example.csv100%  
+	    New File  		    5522	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\Background.xml100%  
+	    New File  		   36352	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\ConEmuBg.dll100%  
+	    New File  		   40853	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\ConEmuBg.map100%  
+	    New File  		   46592	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\ConEmuBg.x64.dll100%  
+	    New File  		   43610	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\ConEmuBg.x64.map100%  
+	    New File  		     170	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\ConEmuBg_en.lng100%  
+	    New File  		     192	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\ConEmuBg_ru.lng100%  
+	    New File  		   24920	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Lines\ConEmuLn.dll100%  
+	    New File  		   16542	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Lines\ConEmuLn.map100%  
+	    New File  		   30040	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Lines\ConEmuLn.x64.dll100%  
+	    New File  		   18180	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Lines\ConEmuLn.x64.map100%  
+	    New File  		     221	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Lines\ConEmuLn_en.lng100%  
+	    New File  		     231	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Lines\ConEmuLn_ru.lng100%  
+	    New File  		  118104	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\ConEmuTh.dll100%  
+	    New File  		   98026	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\ConEmuTh.map100%  
+	    New File  		  133464	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\ConEmuTh.x64.dll100%  
+	    New File  		   99867	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\ConEmuTh.x64.map100%  
+	    New File  		    1539	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\ConEmuTh_en.lng100%  
+	    New File  		    1703	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\ConEmuTh_ru.lng100%  
+	    New File  		   18264	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\gdi+.t32100%  
+	    New File  		   24344	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\gdi+.t32.map100%  
+	    New File  		   21848	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\gdi+.t64100%  
+	    New File  		   26313	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\gdi+.t64.map100%  
+	    New File  		   17240	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\ico.t32100%  
+	    New File  		   21903	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\ico.t32.map100%  
+	    New File  		   21848	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\ico.t64100%  
+	    New File  		   24341	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\ico.t64.map100%  
+	    New File  		   15704	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\pe.t32100%  
+	    New File  		   13746	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\pe.t32.map100%  
+	    New File  		   19288	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\pe.t64100%  
+	    New File  		   15283	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Thumbs\pe.t64.map100%  
+	    New File  		    6257	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\archive.png100%  
+	    New File  		    3970	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\caution.png100%  
+	    New File  		    4483	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\database.png100%  
+	    New File  		    3509	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\downloads.png100%  
+	    New File  		    6223	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\drive_cdrom.png100%  
+	    New File  		    4800	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\drive_cloud.png100%  
+	    New File  		    8213	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\drive_fixed.png100%  
+	    New File  		    6568	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\drive_network.png100%  
+	    New File  		    4161	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\drive_ramdisk.png100%  
+	    New File  		    4632	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\drive_removable.png100%  
+	    New File  		    6700	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\dropbox.png100%  
+	    New File  		    6266	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\globe.png100%  
+	    New File  		    4341	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\music.png100%  
+	    New File  		    3068	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\network.png100%  
+	    New File  		    3880	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\plugin.png100%  
+	    New File  		    5668	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\recycle.png100%  
+	    New File  		    6769	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\science.png100%  
+	    New File  		    7052	F:\ProgramFiles\_Utilites\ConEmuPack\plugins\ConEmu\Background\img\trash.png100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        39        39         0         0         0         0
+   Files :       434       434         0         0         0         0
+   Bytes :  110.23 m  110.23 m         0         0         0         0
+   Times :   0:00:21   0:00:02                       0:00:00   0:00:00
+
+
+   Speed :            54784324 Bytes/sec.
+   Speed :            3134.784 MegaBytes/min.
+   Ended : 17  2023 . 4:30:38
+

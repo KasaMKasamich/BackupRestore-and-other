@@ -1,0 +1,12 @@
+<job id="InputBoxInJS">
+   <script language="VBScript">
+      Function VBInputBox(promptText)
+        VBInputBox = InputBox(promptText)
+      End Function
+   </script>
+   <script language="JScript">
+      var x = VBInputBox("Enter URL")
+      WScript.Echo(x)
+   </script>
+</job>
+

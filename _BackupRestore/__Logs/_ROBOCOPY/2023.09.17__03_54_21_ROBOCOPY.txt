@@ -1,0 +1,57 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 17  2023 . 3:54:26
+   Source : F:\Temp\_Test\
+     Dest : H:\_TempDestDirectoryCopying\_Test\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DAT /COPY:DAT /Z /MT:8 /R:3 /W:2 
+
+------------------------------------------------------------------------------
+
+	    New File  		     148	F:\Temp\_Test\_Temp\config - копия.txt100%  
+	    New File  		  111616	F:\Temp\_Test\7zS_Tools\7ZSD_All.sfx100%  
+	    New File  		       0	F:\Temp\_Test\7zS_Tools\7ZSD_Deflate.sfx100%  
+	    New File  		       0	F:\Temp\_Test\7zS_Tools\7ZSD_LZMA.sfx100%  
+	    New File  		   97792	F:\Temp\_Test\7zS_Tools\7ZSD_PPMd.sfx100%  
+	    New File  		       0	F:\Temp\_Test\7zS_Tools\7zSD_RU.chm100%  
+	    New File  		    9728	F:\Temp\_Test\7zS_Tools\7ZSplit.exe100%  
+	    New File  		      24	F:\Temp\_Test\Folder\PowerArchiver RAR File.rar100%  
+	    New File  		      22	F:\Temp\_Test\Folder\PowerArchiver ZIP File.zip100%  
+	    New File  		       7	F:\Temp\_Test\Folder\Новый документ в формате RTF.rtf100%  
+	    New File  		       0	F:\Temp\_Test\Folder\Новый текстовый документ.txt100%  
+	    New File  		       0	F:\Temp\_Test\Folder\Новый точечный рисунок.bmp100%  
+	    New File  		  193536	F:\Temp\_Test\config\7zCon.sfx100%  
+	    New File  		   34816	F:\Temp\_Test\config\7zS2.sfx100%  
+	    New File  		   34816	F:\Temp\_Test\config\7zS2con.sfx100%  
+	    New File  		  124928	F:\Temp\_Test\config\7zSD.sfx100%  
+	    New File  		       0	F:\Temp\_Test\config\7ZSD_All.sfx100%  
+	    New File  		  167936	F:\Temp\_Test\config\7zsd_All_x64.sfx100%  
+	    New File  		      32	F:\Temp\_Test\config\archive.7z100%  
+	    New File  		     127	F:\Temp\_Test\config\config.txt100%  
+	    New File  		      18	F:\Temp\_Test\config\ConfigBegin.txt100%  
+	    New File  		      15	F:\Temp\_Test\config\ConfigEnd.txt100%  
+	    New File  		     397	F:\Temp\_Test\config\TestCopying.bat100%  
+	    New File  		      24	F:\Temp\_Test\Новая папка\PowerArchiver RAR File.rar100%  
+	    New File  		      22	F:\Temp\_Test\Новая папка\PowerArchiver ZIP File.zip100%  
+	    New File  		       7	F:\Temp\_Test\Новая папка\Новый документ в формате RTF.rtf100%  
+	    New File  		       0	F:\Temp\_Test\Новая папка\Новый текстовый документ.txt100%  
+	    New File  		       0	F:\Temp\_Test\Новая папка\Новый точечный рисунок.bmp100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         6         6         0         0         0         0
+   Files :        28        28         0         0         0         0
+   Bytes :   757.8 k   757.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            70546454 Bytes/sec.
+   Speed :            4036.700 MegaBytes/min.
+   Ended : 17  2023 . 3:54:26
+

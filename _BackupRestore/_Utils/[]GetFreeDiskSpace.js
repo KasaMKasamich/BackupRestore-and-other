@@ -1,0 +1,11 @@
+var FSO = WScript.CreateObject("Scripting.FileSystemObject");
+var WSHShell = WScript.CreateObject("WScript.Shell");
+Drive="F:";
+var D = FSO.GetDrive(Drive);
+s="";
+s+="На диске "+Drive;
+TotalGb = D.FreeSpace/1024/1024/1024;
+Kb = D.FreeSpace/1024;
+FloatGb = TotalGb.toFixed(2);
+s+=" Свободно: "+FloatGb+" Gb "+"("+Kb+" Kb "+")"+"\r\n";
+WScript.Echo(s);

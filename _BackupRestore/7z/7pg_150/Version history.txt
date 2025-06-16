@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------------------------------
+Version 3.09.01 beta, finished 16th september 2003, released 16th september 2003
+-------------------------------------------------------------------------------------------------------
+Moved some things around and added Compression (F)ilter, (L)iteral (P)os, (L)iteral (C)ontext and (P)os
+Context (B) switches, wrote my full name in README and fixed a spelling error ("you have" was written
+"whe") , fixed Header Encryption checkbox to update the parameter when changed doubt there are any
+errors
+-------------------------------------------------------------------------------------------------------
+Version 2.30 beta 32, finished 15th september 2003, released 16th september 2003
+-------------------------------------------------------------------------------------------------------
+I don't think that there are any errors in this version of 7PG but if there are and I fix them it will
+be written in newer versions of this file, I will also write if I make any other serious change.
+-------------------------------------------------------------------------------------------------------

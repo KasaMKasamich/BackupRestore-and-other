@@ -1,0 +1,65 @@
+﻿;!@Install@!UTF-8!
+GUIMode="1"
+GUIFlags="4+8+32+64+2048+4096"
+MiscFlags="4"
+Title="#FolderName #Version"
+BeginPrompt="Now installing #FolderName #Version."
+ExtractTitle="Installing #FolderName #Version"
+ExtractDialogText="Extracting files..."
+FinishMessage="Installing #FolderName #Version finish!"
+InstallPath="%ProgramFiles%\\#FolderName"
+;Project test config китайский иероглиф 𦈘
+;!@InstallEnd@!
+
+; Hungarian
+; Magyar
+;!@Install@!UTF-8:Language:1038!
+BeginPrompt="Telepítés alatt a #FolderName #Version."
+ExtractTitle="Telepítés #FolderName #Version"
+ExtractDialogText="Fájlok kicsomagolása..."
+FinishMessage="#FolderName telepítése #Version Elkészült!"
+;!@InstallEnd@:Language:1038!
+
+; Russian
+; Русский
+;!@Install@!UTF-8:Language:1049!
+BeginPrompt="Сейчас будет произведена установка #FolderName #Version."
+ExtractTitle="Установка #FolderName #Version"
+ExtractDialogText="Распаковка файлов..."
+FinishMessage="Установка #FolderName #Version завершена!"
+;!@InstallEnd@:Language:1049!
+
+; Bulgarian
+; Български
+;!@Install@!UTF-8:Language:1026!
+BeginPrompt="Сега ще се инсталира #FolderName #Version."
+ExtractDialogText="Разопаковка на файловете..."
+FinishMessage="Инсталирането на #FolderName #Version завърши!"
+;!@InstallEnd@:Language:1026!
+
+; Chinese (Simplified)
+; 中文
+;!@Install@!UTF-8:Language:2052!
+BeginPrompt="正在安装 #FolderName #Version."
+ExtractTitle="正安装 #FolderName #Version"
+ExtractDialogText="提取文件中..."
+FinishMessage="安装 #FolderName #Version 完成!"
+;!@InstallEnd@:Language:2052!
+
+; Ukrainian
+; Український
+;!@Install@!UTF-8:Language:1058!
+BeginPrompt="Зараз буде встановлено #FolderName #Version." 
+ExtractTitle="Встановлення #FolderName #Version" 
+ExtractDialogText="Розпакування файлів..." 
+FinishMessage="Встановлення #FolderName #Version завершено!"
+;!@InstallEnd@:Language:1058!
+
+; Polish
+; Polski
+;!@Install@!UTF-8:Language:1045!
+BeginPrompt="Teraz zostanie zainstalowany #FolderName #Version."
+ExtractTitle="Instalacja #FolderName #Version"
+ExtractDialogText="Rozpakowywanie plików..."
+FinishMessage="Instalacja #FolderName #Version została zakończona!"
+;!@InstallEnd@:Language:1045!

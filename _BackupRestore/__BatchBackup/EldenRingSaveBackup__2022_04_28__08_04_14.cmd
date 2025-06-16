@@ -1,0 +1,54 @@
+@Title "Elden Ring Save Backup"
+setlocal enableextensions
+setlocal enabledelayedexpansion
+@rem chcp 1251 >nul
+@rem 
+chcp 1252 >nul
+@rem chcp 866 >nul
+@rem  Time
+set digit1=%time:~0,1%
+if "%digit1%"==" " (set digit1=0)
+set StartTimeStamp=%DATE:~-4%_%DATE:~3,2%_%DATE:~0,2%__%digit1%%TIME:~1,1%_%TIME:~3,2%_%TIME:~6,2%
+set TimeStamp=!DATE:~-4!_!DATE:~3,2!_!DATE:~0,2!__!digit1!!TIME:~1,1!_!TIME:~3,2!_!TIME:~6,2!
+set DateStamp=!DATE:~-4!_!DATE:~3,2!_!DATE:~0,2!
+set OnlyTimeStamp=!digit1!!TIME:~1,1!_!TIME:~3,2!_!TIME:~6,2!
+@rem 
+echo %StartTimeStamp%
+@rem  7za
+set 7zaKeyString=-ssw -m0=LZMA2:d128m:fb256 -myx9 -mmt=8 -ms=off
+set 7zaKeyString2=-ssw -mmt=8 -ms=off
+set 7zaKeyString3=-ssw -mmt=8
+set 7za=%~dp0..\..\7z\1900\x64\7za.exe
+
+set SteamId=76561197960267366
+set FileName=%TimeStamp%_%SteamId%
+@rem  Папки
+set SavesDir=%AppData%\EldenRing
+set BackupsDir=F:\Archive\SavedGameFiles\Elden Ring\_Saves_Backups\%SteamId%
+
+@rem set OutputDir[0]=%BackupsDir%\%TimeStamp%_%FileName%\Users\%USERNAME%\AppData\LocalLow
+@rem set ListDir=%~dp0\__Lists
+echo [92m " =================================== End init =================================== " [0m 
+
+rem  Self Backup
+set SelfBackupDir=%~dp0..\..\__BatchBackup
+copy /v /y %0 %SelfBackupDir%\%~n0__%TimeStamp%%~x0
+@rem if exist C:\_BackupRestore ( copy /v /y %0 C:\_BackupRestore\__BatchBackup\%~n0__%TimeStamp%%~x0 )
+echo [92m " =================================== Create Backup Folder =================================== " [0m 
+if not exist "%BackupsDir%" mkdir "%BackupsDir%"
+@timeout /t 1 >nul
+
+:Pack
+echo [92m " =================================== Pack  =================================== " [0m 
+@rem cd /D %SavesDir%\
+!7za! u -r0 !7zaKeyString2! "%BackupsDir%\%FileName%.7z" "%SavesDir%\*" -w"%Temp%"
+@timeout /t 1 >nul
+ 
+:End
+echo [92m " ========================================== End ========================================== " [0m 
+@timeout /t 2 >nul
+endlocal
+@rem 
+@pause
+@rem 
+exit /b

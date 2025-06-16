@@ -1,0 +1,26 @@
+Bandicam\
+BandiMPEG1\
+Common Files\
+e2eSoft\
+Google\CrashReports
+Intel\
+Internet Explorer\
+InstallShield Installation Information\
+Microsoft\
+Microsoft SDKs\
+Microsoft Visual Studio\
+Microsoft Web Tools\
+Microsoft.NET\
+MSBuild\
+Nox\
+MSI Afterburner\
+NVIDIA*\
+Reference Assemblies\
+RivaTuner Statistics Server\
+Steam\
+Uninstall Information\
+Video DVD Maker\
+VulkanRT\
+Windows*\
+WindowsPowerShell\
+Yandex\

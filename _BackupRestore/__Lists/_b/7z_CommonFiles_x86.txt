@@ -1,0 +1,8 @@
+Common Files\BattlEye\
+Common Files\DVDVideoSoft\
+Common Files\Java\
+Common Files\NetSarang\
+Common Files\Oracle\
+Common Files\VMware\
+Common Files\Microsoft\
+Common Files\microsoft shared\

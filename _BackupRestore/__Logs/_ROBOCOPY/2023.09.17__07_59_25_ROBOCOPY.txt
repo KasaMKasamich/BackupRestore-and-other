@@ -1,0 +1,17 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 17  2023 . 8:01:34
+   Source : C:\папка\
+     Dest : H:\_TempDestDirectoryCopying\папка\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DAT /COPY:DAT /Z /MT:8 /R:3 /W:2 
+
+------------------------------------------------------------------------------
+
+2023/09/17 08:01:34 ERROR 2 (0x00000002) Accessing Source Directory C:\папка\
+The system cannot find the file specified.

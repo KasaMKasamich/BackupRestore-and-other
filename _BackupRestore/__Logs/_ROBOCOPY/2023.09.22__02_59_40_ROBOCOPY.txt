@@ -1,0 +1,17 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 22  2023 . 3:00:05
+   Source : F:\Temp\_Test\Folder\Новый точечный рисунок.bmp\
+     Dest : H:\_TempDestDirectoryCopying\F:\Temp\_Test\Folder\Новый точечный рисунок.bmp\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DAT /COPY:DAT /Z /MT:8 /R:3 /W:2 
+
+------------------------------------------------------------------------------
+
+2023/09/22 03:00:05 ERROR 123 (0x0000007B) Accessing Source Directory F:\Temp\_Test\Folder\Новый точечный рисунок.bmp\
+The filename, directory name, or volume label syntax is incorrect.

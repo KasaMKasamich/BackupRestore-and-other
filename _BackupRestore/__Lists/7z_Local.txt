@@ -1,0 +1,65 @@
+Alabama
+4A Games
+Arma 3
+Arma 3 Launcher
+Ashampoo Movie Shrink & Burn 4
+Battle.net
+BattlEye
+Black_Tree_Gaming
+Blizzard Entertainment
+Bohemia_Interactive
+Chromium
+ConanSandbox
+converter
+Disc_Soft_Ltd
+dnSpy
+EpicGamesLauncher
+Emurasoft
+Everything
+ExtractNow
+Fallout4
+FalloutNV
+FOMM
+GameAnalytics
+GIMP
+GRAW2
+GOG.com
+gtk-2.0
+LOOT
+Mist21
+MistSurv
+Movavi
+MultiPlayerManager
+MOE
+M1
+Nichrome
+Nox
+NoxSrv
+Opera Software
+Paradox Interactive
+Programs
+paint.net
+RzGame
+SGN
+Skype
+SkypePlugin
+Skyrim
+Skyrim Special Edition
+SkyrimMTO
+Stardock
+Steam
+Stalker2
+Softdeluxe
+TeamViewer
+TESVSnip
+The Witcher 2
+Thunderbird
+Ubisoft Game Launcher
+Unreal Engine
+UnrealEngine
+UnrealEngineLauncher
+Unity
+Viber
+Vortex
+WS
+Xpom

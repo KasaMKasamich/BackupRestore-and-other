@@ -1,0 +1,83 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 17  2023 . 2:48:17
+   Source : F:\ProgramFiles\_DVD_Burn\
+     Dest : H:\_TempDestDirectoryCopying\_DVD_Burn\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DAT /COPY:DAT /Z /MT:8 /R:3 /W:2 
+
+------------------------------------------------------------------------------
+
+	    New File  		   43408	F:\ProgramFiles\_DVD_Burn\UltraISO\History.txt  0%  100%  
+	    New File  		   72952	F:\ProgramFiles\_DVD_Burn\UltraISO\isoshell.dll100%  
+	    New File  		  147704	F:\ProgramFiles\_DVD_Burn\UltraISO\isoshl64.dll100%  
+	    New File  		    3208	F:\ProgramFiles\_DVD_Burn\UltraISO\License.txt100%  
+	    New File  		    2501	F:\ProgramFiles\_DVD_Burn\UltraISO\Readme.txt100%  
+	    New File  		  475080	F:\ProgramFiles\_DVD_Burn\UltraISO\ultraiso.chm100%  
+	    New File  		   1.4 m	F:\ProgramFiles\_DVD_Burn\UltraISO\UltraISO.exe100%  
+	    New File  		   93002	F:\ProgramFiles\_DVD_Burn\UltraISO\Uninstall.exe100%  
+	    New File  		   22688	F:\ProgramFiles\_DVD_Burn\UltraISO\drivers\bootpart.exe100%  
+	    New File  		   25248	F:\ProgramFiles\_DVD_Burn\UltraISO\drivers\bootpart.sys100%  
+	    New File  		   33440	F:\ProgramFiles\_DVD_Burn\UltraISO\drivers\bootpt64.sys100%  
+	    New File  		   20728	F:\ProgramFiles\_DVD_Burn\UltraISO\drivers\IsoCmd.exe100%  
+	    New File  		   82168	F:\ProgramFiles\_DVD_Burn\UltraISO\drivers\ISODrive.sys100%  
+	    New File  		  115448	F:\ProgramFiles\_DVD_Burn\UltraISO\drivers\ISODrv64.sys100%  
+	    New File  		   79360	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_ar.dll100%  
+	    New File  		   82432	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_bg.dll100%  
+	    New File  		   84480	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_br.dll100%  
+	    New File  		   76288	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_by.dll100%  
+	    New File  		   74752	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_cn.dll100%  
+	    New File  		   82432	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_ct.dll100%  
+	    New File  		   80384	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_cz.dll100%  
+	    New File  		   81920	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_de.dll100%  
+	    New File  		   75264	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_dk.dll100%  
+	    New File  		   82432	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_es.dll100%  
+	    New File  		   82944	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_et.dll100%  
+	    New File  		   76288	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_fi.dll100%  
+	    New File  		   83968	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_fr.dll100%  
+	    New File  		   82944	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_gr.dll100%  
+	    New File  		   73216	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_he.dll100%  
+	    New File  		   76800	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_hr.dll100%  
+	    New File  		   75264	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_hu.dll100%  
+	    New File  		   80384	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_ir.dll100%  
+	    New File  		   88064	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_it.dll100%  
+	    New File  		   82432	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_jp.dll100%  
+	    New File  		   77824	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_kr.dll100%  
+	    New File  		   77824	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_lt.dll100%  
+	    New File  		   77312	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_lv.dll100%  
+	    New File  		   80384	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_mk.dll100%  
+	    New File  		   81408	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_my.dll100%  
+	    New File  		   77824	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_nl.dll100%  
+	    New File  		   81920	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_no.dll100%  
+	    New File  		   80384	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_pl.dll100%  
+	    New File  		   76800	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_pt.dll100%  
+	    New File  		   77824	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_ro.dll100%  
+	    New File  		   90176	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_ru.dll100%  
+	    New File  		   78848	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_se.dll100%  
+	    New File  		   80896	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_si.dll100%  
+	    New File  		   76288	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_sk.dll100%  
+	    New File  		   80896	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_sr.dll100%  
+	    New File  		   83456	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_tr.dll100%  
+	    New File  		   75776	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_tw.dll100%  
+	    New File  		   90176	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_ua.dll100%  
+	    New File  		   84480	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_vn.dll100%  
+	    New File  		   81408	F:\ProgramFiles\_DVD_Burn\UltraISO\lang\lang_yu.dll100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         0         0         0         0
+   Files :        54        54         0         0         0         0
+   Bytes :    5.58 m    5.58 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            86065397 Bytes/sec.
+   Speed :            4924.701 MegaBytes/min.
+   Ended : 17  2023 . 2:48:17
+

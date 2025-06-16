@@ -1,0 +1,35 @@
+*Adobe\Flash Player*
+*AMS Software*
+*Anvsoft*
+*Application*
+*Macromedia*
+*Microsoft*
+*Diagnostics*
+*Packages*
+*Comms*
+*Comodo*
+*NVIDIA*
+*Programs*
+*Publishers*
+*e2eSoft*
+*speech*
+*TechSmith*
+*UmmyVideoDownloader*
+*Wondershare*
+*Virtual*
+*Store*
+*Yandex*
+*Crash*
+*Cache*
+*Tile*
+*Temp*
+*font*
+*Folder*
+*Connected*
+*Devices*
+*Platform*
+*tor*
+*Log*
+*Opera*
+*DBG*
+{*}

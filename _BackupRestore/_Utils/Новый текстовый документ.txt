@@ -1,0 +1,6 @@
+
+Отключение сети:
+netsh interface set interface name="Local Area Connection" admin=disabled
+
+Включение сети:
+netsh interface set interface name="Local Area Connection" admin=enabled

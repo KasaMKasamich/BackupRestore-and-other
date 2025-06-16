@@ -1,0 +1,78 @@
+5KPlayer
+7DaysToDie
+Alternate
+Azureus
+Battle.net
+Blender Foundation
+calibre
+Comodo
+CrystalIdea Software
+dgVoodoo
+Digiarty
+discord
+DAEMON Tools Lite
+DAEMON Tools Ultra
+dnSpy
+DVDVideoSoft
+EldenRing
+Emurasoft
+FileZilla
+Foxit AgentInformation
+Foxit Software
+FuncomLauncher
+FLT
+GIMP
+IrfanView
+ICSharpCode
+Lunascape
+Listary
+LingvanexTranslator
+Mozilla
+MPC-BE
+MPC-HC
+NCH Software
+NetSarang
+NoxSrv
+OBS
+obs-studio
+OpenOffice
+Opera
+Opera Software
+Paradox Interactive
+paradox-launcher-v2
+qBittorrent
+SDX
+Skype
+SM3
+SM4
+SM4_1
+SM4_2
+SM4_3
+Smart Install Maker
+SmartSteamEmu
+SoftMaker
+SpaceEngineers
+StarCraft II
+Stardock
+Sun
+Surviving Mars
+Telegram Desktop
+TeamViewer
+Thunderbird
+tor
+TeraBox
+Unreal Engine
+Unity
+Unity Hub
+UnityHub
+Unreal Engine
+Visual Studio Setup
+vlc
+ViberPC
+VMware
+Vortex
+WinRAR
+XYplorer
+X3 Editor 2
+AltarsoftVideoCapture.ini
+MPQEditor.ini

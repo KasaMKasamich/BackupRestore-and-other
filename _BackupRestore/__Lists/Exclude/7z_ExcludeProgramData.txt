@@ -1,0 +1,22 @@
+BolideSoftware\
+boost_interprocess\
+Comodo\
+Deskshare\
+Microsoft\
+NVIDIA*\
+Package Cache\
+Packages\
+regid.1991-06.com.microsoft\
+Shared Space\
+SoftwareDistribution\
+SP_FT_Logs\
+ssh\
+TechSmith\
+USOPrivate\
+USOShared\
+WindowsHolographicDevices\
+Wondershare\
+Wondershare Video Editor\
+Yandex\
+yubhinti.sju
+mntemp

@@ -1,0 +1,544 @@
+o = {=actor_in_zone(pri_b306_sr_4_floor_2)} walker@pri_b306_monolith_4_3_norestr
+on_info2 = {=see_actor} walker@pri_b306_monolith_4_3_norestr
+combat_ignore_cond = {!actor_in_zone(pri_b306_sr_3_floor)} true
+
+[walker@pri_b306_monolith_4_3_norestr]
+path_walk = monolith_4_3_walk
+
+
+[logic@pri_b306_monolith_4_4]
+active = walker@pri_b306_monolith_4_4
+suitable = {=target_squad_name(pri_b306_3_floor_monolith)}
+prior = 200
+
+[walker@pri_b306_monolith_4_4]
+path_walk = monolith_4_4_walk
+path_look = monolith_4_1_look
+no_retreat = true
+def_state_standing = hide_na
+out_restr = pri_b306_sr_3_floor
+;in_restr = pri_b306_sr_in
+on_info = {=actor_in_zone(pri_b306_sr_4_floor_2)} walker@pri_b306_monolith_4_4_norestr
+on_info2 = {=see_actor} walker@pri_b306_monolith_4_4_norestr
+combat_ignore_cond = {!actor_in_zone(pri_b306_sr_3_floor)} true
+
+[walker@pri_b306_monolith_4_4_norestr]
+path_walk = monolith_4_4_walk
+
+
+;3 floor wc zombied
+[logic@pri_b306_zombied_4_1]
+active = walker@pri_b306_zombied_4_1
+suitable = {=target_squad_name(pri_b306_3_floor_zombied)}
+prior = 200
+
+[walker@pri_b306_zombied_4_1]
+path_walk = zombied_4_1_walk
+;danger = danger@short_danger
+out_restr = pri_b306_sr_wc_zombie
+
+
+;2nd floor monolith squad
+[logic@pri_b306_monolith_3_1]
+active = walker@pri_b306_monolith_3_1
+suitable = {=target_squad_name(pri_b306_2_floor_monolith)}
+prior = 200
+
+[walker@pri_b306_monolith_3_1]
+path_walk = monolith_3_1_walk
+path_look = monolith_3_1_look
+no_retreat = true
+def_state_standing = hide_na
+;out_restr = pri_b306_sr_2_floor
+;in_restr = pri_b306_sr_in
+on_info = {=actor_in_zone(pri_b306_sr_3_floor)} walker@pri_b306_monolith_3_1_norestr
+on_info2 = {=see_actor} walker@pri_b306_monolith_3_1_norestr
+combat_ignore_cond = {!actor_in_zone(pri_b306_sr_2_floor)} true
+
+[walker@pri_b306_monolith_3_1_norestr]
+path_walk = monolith_3_1_walk
+
+
+[logic@pri_b306_monolith_3_2]
+active = walker@pri_b306_monolith_3_2
+suitable = {=target_squad_name(pri_b306_2_floor_monolith)}
+prior = 200
+
+[walker@pri_b306_monolith_3_2]
+path_walk = monolith_3_2_walk
+path_look = monolith_3_1_look
+no_retreat = true
+def_state_standing = hide_na
+;out_restr = pri_b306_sr_2_floor
+;in_restr = pri_b306_sr_in
+on_info = {=actor_in_zone(pri_b306_sr_3_floor)} walker@pri_b306_monolith_3_2_norestr
+on_info2 = {=see_actor} walker@pri_b306_monolith_3_2_norestr
+combat_ignore_cond = {!actor_in_zone(pri_b306_sr_2_floor)} true
+
+[walker@pri_b306_monolith_3_2_norestr]
+path_walk = monolith_3_2_walk
+
+
+[logic@pri_b306_monolith_3_3]
+active = walker@pri_b306_monolith_3_3
+suitable = {=target_squad_name(pri_b306_2_floor_monolith)}
+prior = 200
+
+[walker@pri_b306_monolith_3_3]
+path_walk = monolith_3_3_walk
+path_look = monolith_3_3_look
+no_retreat = true
+def_state_standing = hide_na
+;out_restr = pri_b306_sr_2_floor
+;in_restr = pri_b306_sr_in
+on_info = {=actor_in_zone(pri_b306_sr_3_floor)} walker@pri_b306_monolith_3_3_norestr
+on_info2 = {=see_actor} walker@pri_b306_monolith_3_3_norestr
+combat_ignore_cond = {!actor_in_zone(pri_b306_sr_2_floor)} true
+
+[walker@pri_b306_monolith_3_3_norestr]
+path_walk = monolith_3_3_walk
+
+
+[logic@pri_b306_monolith_3_4]
+active = walker@pri_b306_monolith_3_4
+suitable = {=target_squad_name(pri_b306_2_floor_monolith)}
+prior = 200
+
+[walker@pri_b306_monolith_3_4]
+path_walk = monolith_3_4_walk
+path_look = monolith_3_4_look
+no_retreat = true
+def_state_standing = hide_na
+;out_restr = pri_b306_sr_2_floor
+;in_restr = pri_b306_sr_in
+on_info = {=actor_in_zone(pri_b306_sr_3_floor)} walker@pri_b306_monolith_3_4_norestr
+on_info2 = {=see_actor} walker@pri_b306_monolith_3_4_norestr
+combat_ignore_cond = {!actor_in_zone(pri_b306_sr_2_floor)} true
+
+[walker@pri_b306_monolith_3_4_norestr]
+path_walk = monolith_3_4_walk
+
+
+;2nd floor zombies
+[logic@pri_b306_zombied_3_1]
+active = walker@pri_b306_zombied_3_1
+suitable = {=target_squad_name(pri_b306_2_floor_zombied)}
+prior = 200
+
+[walker@pri_b306_zombied_3_1]
+path_walk = zombied_3_1_walk
+path_look = zombied_3_1_look
+;danger = danger@short_danger
+;out_restr = pri_b306_sr_2_floor_2
+on_info = {=actor_in_zone(pri_b306_sr_2_floor)} walker@pri_b306_zombied_3_1_norestr
+
+[walker@pri_b306_zombied_3_1_norestr]
+path_walk = zombied_3_1_walk
+
+
+[logic@pri_b306_zombied_3_2]
+active = walker@pri_b306_zombied_3_2
+suitable = {=target_squad_name(pri_b306_2_floor_zombied)}
+prior = 200
+
+[walker@pri_b306_zombied_3_2]
+path_walk = zombied_3_2_walk
+path_look = zombied_3_2_look
+;danger = danger@short_danger
+;out_restr = pri_b306_sr_2_floor_2
+on_info = {=actor_in_zone(pri_b306_sr_2_floor)} walker@pri_b306_zombied_3_2_norestr
+
+[walker@pri_b306_zombied_3_2_norestr]
+path_walk = zombied_3_2_walk
+
+
+[logic@pri_b306_zombied_3_3]
+active = walker@pri_b306_zombied_3_3
+suitable = {=target_squad_name(pri_b306_2_floor_zombied)}
+prior = 200
+
+[walker@pri_b306_zombied_3_3]
+path_walk = zombied_3_3_walk
+path_look = zombied_3_3_look
+;danger = danger@short_danger
+;out_restr = pri_b306_sr_2_floor_2
+on_info = {=actor_in_zone(pri_b306_sr_2_floor)} walker@pri_b306_zombied_3_3_norestr
+
+[walker@pri_b306_zombied_3_3_norestr]
+path_walk = zombied_3_3_walk
+
+
+[logic@pri_b306_zombied_3_4]
+active = walker@pri_b306_zombied_3_4
+suitable = {=target_squad_name(pri_b306_2_floor_zombied)}
+prior = 200
+
+[walker@pri_b306_zombied_3_4]
+path_walk = zombied_3_4_walk
+path_look = zombied_3_4_look
+;danger = danger@short_danger
+;out_restr = pri_b306_sr_2_floor_2
+on_info = {=actor_in_zone(pri_b306_sr_2_floor)} walker@pri_b306_zombied_3_4_norestr
+
+[walker@pri_b306_zombied_3_4_norestr]
+path_walk = zombied_3_4_walk
+
+
+[logic@pri_b306_zombied_3_5]
+active = walker@pri_b306_zombied_3_5
+suitable = {=target_squad_name(pri_b306_2_floor_zombied)}
+prior = 200
+
+[walker@pri_b306_zombied_3_5]
+path_walk = zombied_3_5_walk
+path_look = zombied_3_5_look
+;danger = danger@short_danger
+;out_restr = pri_b306_sr_2_floor_2
+on_info = {=actor_in_zone(pri_b306_sr_2_floor)} walker@pri_b306_zombied_3_5_norestr
+
+[walker@pri_b306_zombied_3_5_norestr]
+path_walk = zombied_3_5_walk
+
+
+;;zombied 1st floor
+[logic@pri_b306_zombied_2_1]
+active = walker@pri_b306_zombied_2_1
+suitable = {=target_squad_name(pri_b306_1_floor_zombied)}
+prior = 200
+
+[walker@pri_b306_zombied_2_1]
+path_walk = zombied_2_1_walk
+path_look = zombied_2_1_look
+;danger = danger@short_danger
+
+
+[logic@pri_b306_zombied_2_2]
+active = walker@pri_b306_zombied_2_2
+suitable = {=target_squad_name(pri_b306_1_floor_zombied)}
+prior = 200
+
+[walker@pri_b306_zombied_2_2]
+path_walk = zombied_2_2_walk
+path_look = zombied_2_1_look
+;danger = danger@short_danger
+
+
+[logic@pri_b306_zombied_2_3]
+active = walker@pri_b306_zombied_2_3
+suitable = {=target_squad_name(pri_b306_1_floor_zombied)}
+prior = 200
+
+[walker@pri_b306_zombied_2_3]
+path_walk = zombied_2_3_walk
+path_look = zombied_2_3_look
+;danger = danger@short_danger
+
+
+[logic@pri_b306_zombied_2_4]
+active = walker@pri_b306_zombied_2_4
+suitable = {=target_squad_name(pri_b306_1_floor_zombied)}
+prior = 200
+
+[walker@pri_b306_zombied_2_4]
+path_walk = zombied_2_4_walk
+path_look = zombied_2_3_look
+;danger = danger@short_danger
+
+
+[logic@pri_b306_zombied_2_5]
+active = walker@pri_b306_zombied_2_5
+suitable = {=target_squad_name(pri_b306_1_floor_zombied_2)}
+prior = 200
+
+[walker@pri_b306_zombied_2_5]
+path_walk = zombied_2_5_walk
+path_look = zombied_2_5_look
+;danger = danger@short_danger
+
+
+[logic@pri_b306_zombied_2_6]
+active = walker@pri_b306_zombied_2_6
+suitable = {=target_squad_name(pri_b306_1_floor_zombied_2)}
+prior = 200
+
+[walker@pri_b306_zombied_2_6]
+path_walk = zombied_2_6_walk
+path_look = zombied_2_6_look
+;danger = danger@short_danger
+
+
+[logic@pri_b306_zombied_2_7]
+active = walker@pri_b306_zombied_2_7
+suitable = {=target_squad_name(pri_b306_1_floor_zombied_2)}
+prior = 200
+
+[walker@pri_b306_zombied_2_7]
+path_walk = zombied_2_7_walk
+path_look = zombied_2_7_look
+;danger = danger@short_danger
+
+
+[logic@pri_b306_zombied_2_8]
+active = walker@pri_b306_zombied_2_8
+suitable = {=target_squad_name(pri_b306_1_floor_zombied_2)}
+prior = 200
+
+[walker@pri_b306_zombied_2_8]
+path_walk = zombied_2_8_walk
+path_look = zombied_2_8_look
+;danger = danger@short_danger
+
+
+;[danger@short_danger]
+;ignore_distance = 15
+;danger_inertion_time_grenade = 10000
+;danger_inertion_time_hit = 5000
+;danger_inertion_time_sound = 3000
+;danger_inertion_time_ricochet = 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     h\fcs0 \insrsid8025394 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15880973 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\fs22\lang1049\langfe1049\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8025394 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3
+\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid14486420 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1049\langfe1049\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \ab\af40\afs20 \ltrch\fcs0 
+\b\f40\fs20\lang1033\langfe1049\langnp1033\insrsid992083\charrsid992083 \hich\af40\dbch\af31505\loch\f40 License agreement for use of the program "7z SFX Constructor"}{\rtlch\fcs1 \ab\af40\afs20 \ltrch\fcs0 
+\b\f40\fs20\lang1033\langfe1049\langnp1033\insrsid992083 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid992083 {\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f40\fs20\insrsid14486420 
+\par }{\rtlch\fcs1 \ab\af40\afs20 \ltrch\fcs0 \b\f40\fs20\lang1033\langfe1049\langnp1033\insrsid992083\charrsid992083 \hich\af40\dbch\af31505\loch\f40 IMPORTANT:}{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 
+\f40\fs20\lang1033\langfe1049\langnp1033\insrsid992083\charrsid992083 \hich\af40\dbch\af31505\loch\f40  }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f40\fs20\insrsid14486420 
+\par }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f40\fs20\lang1033\langfe1049\langnp1033\insrsid992083\charrsid992083 \hich\af40\dbch\af31505\loch\f40 Please read this agreement carefully.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid14486420 {\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f40\fs20\lang1033\langfe1049\langnp1033\insrsid14486420 \hich\af40\dbch\af31505\loch\f40 Using our program}{\rtlch\fcs1 
+\af40\afs20 \ltrch\fcs0 \f40\fs20\lang1033\langfe1049\langnp1033\insrsid992083\charrsid992083 \hich\af40\dbch\af31505\loch\f40 
+ You agree to the terms of this license agreement. You are also agreeing that this agreement has the same legal effect as the agreement printed on paper and signed by You.
+\par \hich\af40\dbch\af31505\loch\f40 If You do not agree to this L\hich\af40\dbch\af31505\loch\f40 icense agreement, do not install or run program "7z SFX Constructor".
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid15880973 {\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f40\fs20\lang1033\langfe1049\langnp1033\insrsid992083\charrsid992083 \hich\af40\dbch\af31505\loch\f40 
+This License agreement (hereinafter "License") is a legal agreement between Joker-2013\\CryptoNick (hereinafter "Owner") and You, the end user program "7z SFX Constructor" (hereinafter "Y\hich\af40\dbch\af31505\loch\f40 
+ou", "User") and do from the moment You have downloaded, received, installed, copied or otherwise started to use the program "7z SFX Constructor" (hereinafter "Program").}{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 
+\f40\fs20\lang1033\langfe1049\langnp1033\insrsid992083\charrsid14486420 
+\par }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f40\fs20\lang1033\langfe1049\langnp1033\insrsid992083\charrsid992083 \hich\af40\dbch\af31505\loch\f40 The subject of this License is: The legal owner gives you, for each copy of the Progr
+\hich\af40\dbch\af31505\OggS                 \¥úàvorbis    D¬      €»      ¸OggS                 Y+œ=Iÿÿÿÿÿÿÿÿÿÿÿÿÿ2vorbis   Xiph.Org libVorbis I 20050304            @  ÈB  €?      BvorbisBCV   cT)F™RÒJ‰s”1F™b’J‰¥„BHsS©9×œk¬¹µ „SP)™RŽRic)™RKI%t:'c[IÁÖ˜k‹A¶„šRL)Ä”RŠBSŒ)Å”RJB%t:æSŽJ(A¸œs«µ––c‹©t’Jç$dLBH)…’J¥SNBH5–ÖR)sRRjAè „B¶ „‚ÐU   À@²
+ P  Š¡Š„†¬ 2   (Žâ(Ž#9’cI²
+     ÀpI‘É±$KÒ,KÓDQU}Õ6UUöu]×u]×u 4d   @H§™¥ ÂdY     F(ÂBCV    b(9ˆ&´æ|sŽƒf9h*Åætp"ÕæIn*ææœsÎ9'›sÆ8çœsŠrf1h&´æœsƒf)h&´æœsžÄæAkª´æœsÆ9§ƒqFçœsš´æAj6Öæœs´¦9j.Åæœs"åæIm.ÕæœsÎ9çœsÎ9çœsª§spN8çœs¢öæZnBçœs>§{sB8çœsÎ9çœsÎ9çœs‚ÐU    A6†q§ HŸ£EˆiÈ¤Ý£Ã$hr
+©G££‘Rê ”TÆI) 4d    !„RH!…RH!…Rˆ!†bÈ)§œ‚
+*©¤¢Š2Ê,³Ì2Ë,³Ì2ë°³Î:ì0ÄC­´KMµÕXc­¹çœkÒZi­µÖJ)¥”RJ)Y €  dAF!…Rˆ!¦œrÊ)¨ BCV €     <ÉsDGtDGtDGtDGtDÇs<G”DI”DI´LËÔLOUÕ•][ÖeÝömavÝ÷uß÷uã×…aY–eY–eY–eY–eY–eY‚ÐU    €B!…RH!¥cÌ1ç “PB 4d       ÀQÅq$Gr$É’,I“4K³<ÍÓ<MôDQMÓTEWtEÝ´EÙ”M×tMÙtUYµ]Y¶mÙÖm_–mß÷}ß÷}ß÷}ß÷}ß÷uY H  èHŽ¤HŠ¤HŽã8’$¡!«     (Š£8ŽãH’$I–¤IžåY¢fj¦gzª¨¡!«  @       (šâ)¦â)¢â9¢#J¢eZ¢¦j®(›²ëº®ëº®ëº®ëº®ëº®ëº®ëº®ëº®ëº®ëº®ëº®ëº.²
+   Ð‘É‘I‘I‘ÉBCV 2   pÇÉ±,KÓ<ÍÓ<MôDOôLO]ÑBCV €       0$ÃR,Gs4I”TKµTMµTKUOUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU5MÓ4M 4d%   ÀbÁå !%%åÞÂ“ž1&!µ^!‘’Þ1ƒž2¢rÞBãƒY D  Æ ÇsÈ9G©“9ç¨t”ç¥ŽRg)Å˜bÍ(•ØR¬sŽRG­£”b,-v”R©Æ    ,„BCV Q  „1H)¤bŒ9§œCŒ)ç˜s†1æsŽ9ç tR*çœtNJÄsŽ9§œsR:'•sNJ'¡  €  € ¡Ð@œ €A’<Oò4Q”4OESt]Q4]×ò<ÕôLSU=ÑTUSUmÙTUY–<Ï4=ÓTUÏ4UÕTUY6UU–EUÕmÓuuÛtUÝ–mÛ÷][vQUmÝT]Û7U×ö]Ùö}YÖucò<UõLÓu=ÓteÕum[u]]÷LS–M×•eÓumÛ•e]weÙ÷5Ót]ÓUeÙt]ÙveW·]Yö}Óu…ß•e_WeYv]÷…[×•åt]ÝWeW7VYö}[×…áÖua™<OU=Ót]Ï4]Wu]_W]×Ö5Ó”eÓumÙT]YveÙ÷]WÖuÏ4eÙt]Û6]W–]Yö}W–uÝt]_WeYøUWöuY×•áÖmá7]×÷UYö…W–uáÖua¹u]>Uõ}Sv…áteß×…ßYn]8–Ñu}a•máXeY9~áX–Ý÷•et]_XmÙVY†_øåö}ãxu]nÝçÌºïÇï¤ûÊÓÕmc™}ÝYf_wŽá:¿ðã©ª¯›®+§,¿íëÆ³û¾²Œ®ëûª,¿*ÛÂ±ë¾óü¾°,£ìúÂjËÂ°Ú¶1Ü¾n,¿pËkëÊ1ë¾Q¶u|_x
+Ãótu]yf]ÇöutãG8~Ê  € € Ê@¡!+€8 $‰¢dY¢(Y–(Š¦èº¢hº®¤i¦©ižiZšgš¦iª²)š®,išiZžfšš§™¦hš®kš¦¬Š¦)Ë¦jÊ²iš²ìº²m»®lÛ¢iÊ²iš²lš¦,»²«Û®ìêº¤Y¦©yžijžgš¦jÊ²iš®«yžjzžhªž(ªªjªª­ªª,[žgššè©¦'Šªjª¦­šª*Ë¦ªÚ²iª¶lªªm»ªìú²mëºiª²mª¦-›ªjÛ®ìê²,Ûº/išijžgššç™¦iš²lšª+[ž§šž(ªªæ‰¦jªª,›¦ªÊ–ç™ª'Šªê‰žkšª*Ë¦jÚªiš¶lªª-›¦*Ë®mû¾ëÊ²nªªl›ªjë¦jÊ²lË¾ïÊªîŠ¦)Ë¦ªÚ²iª²-Û²ïË²¬û¢iÊ²iª²mªª.Ë²m³lûºhš²mª¦-›ª*Û²-ûº,ÛºïÊ®o«ª¬ë²-ûºîú®pëº0¼²lûª¬úº+Ûºoë2Ûö}DÓ”eS5mÛTUYveÙöeÛö}Ñ4m[UU[6MÕ¶eYö}Y¶ma4MÙ6UUÖMÕ´mY–ma¶eáveÙ·e[öu×•u_×}ã×eÝæº²íË²­ûª«ú¶îûÂpë®ð
+  p  0¡² ˆ  ŒaŒ1RÎ9¡QÊ9ç dÎA!•Ì9!”’9¡””2ç ”’R¡””Z!””Rk  8  Ø )±8@¡!+€T  ƒãX–ç™¢jÚ²cIž'Šª©ª¶íH–ç‰¢iªªm[ž'Š¦©ª®ëëšç‰¢iªªëêºhš¦©ª®ëºº.š¢©ªªëº²®›¦ªª®+»²ìë¦ªªªëÊ®,ûÂªº®+Ë²mëÂ°ª®ëÊ²lÛ¶oÜº®ë¾ïûÂ‘­ëº.üÂ1G à	 @6¬ŽpR4XhÈJ   €0!ƒB!„RJ!¥”  0à  `B(4dE '  C)¤”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RH)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ©¤”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)•RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”RJ)¥”R
+ Šp z0¡² H  ŒQJ)Æœƒ1æcÐI()bÌ9Æ”’Rå„Ri-·Ê9!¤ÔRm™sRZ‹1æ3ç¤¤[Í9‡RR‹±æškî¤´Vk®5çZZ«5×œsÍ¹´k®9×œsË1×œsÎ9çsÎ9çœsÎ à48 €Ø°:ÂIÑX`¡!+€T  ¥sÎ9èRŒ9ç„"…sÎ9!TŒ9çtB¨sÌ9!„9ç„B!s:è „B„B¡”ÎA!„J(!„B!„:!„B!„B!„RJ!„B	¡”P  ` @€«#œ²   €– RÎ„AŽAAÊQ3BL9Ñ™bNj3S9tjAÙ^2  €   À (øBˆ1  AˆÌ	…U°À æÀD„D ˜ H»¸€.\ÐÅ]BB‚X@	88á†'Þð„œ STê       à à  ""š«°¸ÀÈÐØàèð      ø  8>€ˆˆæ*,.02468:<        €€€     @   €€OggS  @z             ñ¾! ‡Š‰ˆ~ƒ‚usvvnpywŽ„‡ŒŒ–ƒ‹”“–™Š šÈEx—,Ú5Zñý‹~uÙl#‹òrçwï>ùZžŒ®£%Ä‚‰&Š¬6šqcrµfß£½Ä;Æ<ŸZoLÏ#¶q×ç=Ð5:ÐÖ_þof«¯ê¬Y–eÅ "ÿ|GM×¦¤gÑNõ¿ové”ãàîæä¾o…(p¯iˆa0ÌÕD&[ß— Cyc0ÀÞÈåƒz·5ŠOö3‡úð¢mt™Øž/rÐE*!Ê:Â­$á~ˆsñÈPy½3;ÝF%]Kýj³+[jge	kM¢üVÅþîŠ][ódØœ©Ù%Ô}!Ç*fõì£Í¯pïª·DÖ¹iIyˆìvÝ/Ÿãuê (Íb¿æŽ˜§ ãm¼žæ‰œIQþÈÍØÓXW7ƒï»ÿ}ˆÝïòÃ5<Ï¢g¨ ^0êL5câÊßÿÅ\‡–µIÙbëîŸêÂÜKH`°áéhæTÜˆ1mLüÙË\5Ã•prà´¸‘<ON…ùtŠ,nTqŸl½…^s©yd§Jp'øÏ™Ù#–Õ¡c+#lU•¸¾ù¬öK--%øþ>ðYíBª>ÜA†ž€`QŒY"‹xOÆ¿iË¿_a3Bï†ª=B˜²8ß75© (ÊG}{Ûœ¥ð|Æ(ß¼¨4‰¡¸˜sbŒÅWý ÚÈ·^/Gr©ÑšooêÄ¸ŠÞ  ÐÕ¥ÜGã&³¬¨ H^&ö Z@b?¾Ú&¬Iòà“É~Gý5ÛVò™Ô‡v2P†@‹&„‘E úÄÎÚ>Ë~¯z7ÜSÁ‹Søöí`TWà;s«±˜hTÚå¤~ß6cÏ¬ Ï	•Çuš5Úr|)Ã+ßÛ…€
+×Óÿ”
+& ø›lýs’<ûÐi÷
+ Å…T:D5‰© ~+x–zÑÁr7ï/¯·^ÒÎ ß&0 Ô SWfg"@@ (9 ô ¸   ¸†šÉq1~ùúwCMÛ§ Ä×3 ?¹Ó±1²
+¦%.•kÎ§äc	^³V x8øiþå	%ï¿w
+ Ð•Ö  OFÓÔë&¹ER^ÁlÞ?üÊ§h;>IðËS`Ÿ <Ü Ð‹3ÐÀ²§„ l J , ìKsvÍÇƒov{oÛLJ½aÿ–X ¦ä!ÿhM8rzXÊ‚ž¢ˆ;|H“æ.@  ^x=õÞöo*³ì§õX,€c%Á@åÒLþÚFü,áÎNf³ä>…Ñ  ºì™•«.Â NÀê pÝ¸Íi¥ˆšïŸO`PõË+gÈwæÞïUwÀ-+  n±›¹óo è¯Pëáþ}~­––-®ÅÐ/­ &t‡iÑô¦\=`s­! X$0[Â-Ý@gIþúæÀ)qsRžÍÞQÿ› ÛñYz .z–Ê›ô'`³À¶ , øvy¨úÿqrê|®˜à 'ô`þ\ÇE‹  WÀí•§®ð¾%wì-Ï5{²/W†$ÃÄqÝÞ' sÝ)ÖvÖõgvjË—	·ÂœE¥‰­ÎÔ ~û¦h–”µfóŽá÷¿+°‡ò~£ ÏÐ•€uC…X+ ì×*O  ijð½ä,<îÛCyq8¶vó€ÐpluZ™Bš°æà÷1ƒ†ì”¥¢Àg‡î×9eNž¾í,4< `ú9Ñ>7÷|‘˜ûDä®ºÄ"qTÏ €ª@ƒ÷F‡‹¾€>/ $( +Àâú îàƒY,þ„ÎÚ§4qL½Ÿ‚Cdmýú)Vü|¼+ÖÄjï¦Æ× È®WsÜWðM‘+.ÚŸŠÀ° ¸™c^+Gh+)_‹mßÑÃ¹mØ¨?$¨K zCfˆEEMà•À? Ò‹ qýY  ö+ðy1A$d¶JlF®˜?D×Õ	Xr~Œ0×ÅÖÒ“ÂŽJ¡/Ò 1Án	`ºoå±Ï¬K–sÝšíŠ	‰çä›¾KGÄVjè -û/Tq—´¤”	:A€ƒd±)`Ü# g Y€uÀ¦  Ït {&à]†. ¿àö‘`p’< C|•ûÉ”e~Èfu6£“ýPÇÓî1€sÌ>*£?ÍF1?x
+@‹	P ^;çÉSªÊcˆž¡Ò/t•¸¤; @‡#˜ph i!6¡€
+¸Sš 
+à  ˜ ¸  (Š
+Ð¥vƒ˜*"^›à
+<  Ücký¬®
+'÷±:
+gL {õ<ÃgUî Ö.€ù$@WÁ)ÉØÁ’èù“ôK™z¨g àhŽ À èb¦€¸; :  D     "L7
+€Å·oàØ2(€þð	Œ#†äsß©
+’4!˜™R†¸EÇÍý m¨9€½™XÀ ^ûVà.Ñò´RÝÿJìO~”=ð¡€	à~Ä Ä¡3TÀÐ, þøj ”   &_d€Åí`.ˆaxú0 uÌNm‘œ­$àÑéƒ#l$Å ýwÍ;N 8Í & †T¬0Ì0–»}]¢ƒ=‚ðãI Þê¶áí¿á€ñ£‡W²GñÊô•À·@LS%#À¼ ÔÓ…®ð
+Àˆ¬DrHäÏ¦›› â1T¾KÌËB —xŽ‡Q|[=ÿ\=ÇR€Ïc)µu¤ë0ê§¼ýÿOËèP Ù˜˜eì
+ þ‰Þ€»ÿ.z0š{…¶¨Ä¥cs?cFg±”ô‚¢×l¯ãOóŒùMug³®>Û¹Næ+{gûÛßO÷„)`Î3Uƒ¶úš²'2¨õÀ˜"Ou­îšî©ª*^¾xìlý#¸OšÄ˜˜Á, ŽîKÕpÈê0õ iŽKÀ¸¹Á1sy² ~¾ŠNßÍ£8žéÿa¸¥áx[ _  0ÎPñU¦ò¸ùGyÐ5”ëÔn xKÚ	ž„ø±"¾¿ç¡0ó­–V:_ –Q&‘£0=þN‘gÔ+/@4#Ü&g)úM€<z¶^‹ƒpúq™IïÄ ûéÁ¢r  ½›Ý ~ZÞn²„›Ã(þÚ?÷fæX@ê¥·¶ÉÐC­pž©
+-òQ3y¿YNÕ¿UÌÏÊÝÂ]ì¬°CóRõË©“Ý³õZA_½·Y==ëOŽb°;&õqO‡9ï&Sd ˜úúÂÿœ®/…	Pr/à>ËPK8“fõD6 pYc`*~ZÎÓMz®/ÃÓÿ9CÍ¸SÔBžLëd[û $%¼È¢¢‘‘–‡­¯Ž¥:›´c¢¸ÿ/‘ÿIÑ{aÀ2J"#•%>e¦pF
+A8×zrl0Èªá¼i”’n àMgn˜!_ÎŒ,ê?‡íÁpE—dûf¬c†§D“*Ö›€9ë–òrT8q°À¾¹Þ(|>ÛÕH‘;xàNÊ–>;):H’¯WÓ  EÁ»T”
+£rÜuÿ‰&»Ò¨rv¤L9
+Âõ-SÿP2tmáñ.c`ƒÕúYW!Á ÃÀ¼åô†§_¼Ê®¤0óÇTu;¶Y·Ošl—Åx‹1ÞyV:~ï…Ù›É§{Øv	º4!(wO‚œmL :Æ÷«(þág¯–ä/á‰XÂ¼#¬ú ¨EÁ,Q	ÿÝòJWÒS¤õ>É—¦Í{Ù¶¦	ú‹ïª=µØ×³¾z¨D‰NîÂê#XÐ_¼r›1`ˆZ`mþÚÔÔÂÆ“•6°ÑCS5×\JŒ7L€=éôÒÚ¼ÖLí<€#Þ¸Ó]¯:®ú=÷@ >ŠÞ(Û$}.a#E¦j.¯Ôêc£~fÓHÞ…€•ÀFa˜+óÍúÏÍG3×tq‚ãÜé	 ^8ýÔ½u56±™hÜì9½ûî¾¹¢ÐSTŒ©`Œé?êæËw•¶NEX×¹'F·–Ñ[în¿¿R5ˆ¬†Ð £tFƒV+âI ºGJîÒ]ÉéD±›ÅŒIí6ÑžYÞ(ùØ6ˆá“‡ñÚÏZ(Â³IIM ¤È%ŒB?é¢!¸˜UiÍ¥ªXµ„Ž¡Ù‡íÊUZ§Ù»]Þ·ç‡Éüitïd2>wû\m‡i³´«ðÔÿõ‰Û“6¬Ä;aSØ|~*Ë»¨g À‚‘-çZÉŒ üˆR¯¯ >Z /kxˆ”ýô§ªH¯¨Ø³ÑEÊ¨ë†2 @-RQ?M>ì»O±MÒß^,ßðj7sì£µ”âHÝe<ãíÉ=J.¯¨3c/qÜ	ÿa„2qñkËˆ›7îý‹èÁž È¤³¼·
+ôú<¥ùB«Ð´äº›ýa”À–HÐUêÒ‡â%·Ê": oèxÿ(þ·èá6™ÀYÜÃ'I´®eÞ	h EV86JÝðm¯:ö#¼AÞ&Uá×°Å†ª·Ñ¨žº²–xé¬"¡bMÚ+>ž^ä5Ù/G3.ôž}66¾Žü“D,´ÄóU<Ö˜lq@¹r„˜ŸGÚÍm*•'Ù%ÁŒk[ÖŠ$ðåZ 9ì°r¹˜­„aâï'~ÙÕÆ¹S¢?ÁC1˜QÔ_»Ê›±‹Rºb%,²Êå›[ôØRòãå}‡¥RUU±¾ë­ç6Åt”ÛOfn*ïfâñæ/îª•UæË ¹Æ²mGÜÈ[JÑ QŽO&Ã†úÈêéI¼zõ àö£?¸NDÅucXÍÇô
+³ÂÏÌ¨¦¡è1
+àúœ×³+à€Ú³² >©Í‘+÷d7?}öPøí¨Ñí²Yt/ó|Ò)–YeZ[Ö»™û<ÿ}}_3Ÿ}V}VÆñÙøtQç´Å5Éð#"¹4Aú”†V›ñóOÎˆÆk'K[dIõW8A³Í¾L½‹IÑ¸ŸqË© €¾êŸÚôÔ»^¤4û§y¡^tpkIBÞc;`íÐ„ã‘Ô ˆv™áÃ~˜ÁOÇ˜i¬¡ór2´d~é,¡+…Ë,2•U‘5ŸêÚÌMœê÷Ü›wÔ1#~“Ú ]N®åëÒ3¡5‚”aý¥É»÷˜a  …è]Ñ¨i¦`×	g¬CõÜ:7ù( Et_V\' ­#Å3Jjà
+ù‘3ÏÜþmcñ`Ð³n•†(u—ªÍîÀÉ¶mHÌè9ÂÒ!?ž˜ÍóÏ‹ãßEŸcÀö²"Q‹ú‚b¶P^µb~Û³Ï8³BrÓsœ†ÓÁ™Ó5’—Ëíù·•3l0”ÎžÙî¿Ò/·¡M8n¢­š<·Û/qÕT¢e>0š>°õ¿Ê Àñzø ôŽ‹èGÇœj(0b&S©pl}køNñ÷dµ `ð S……OggS -»             ÎÅŒˆŒ’Š€„ˆˆŠ†¾˜Í ™ÊŸ™ü\Âõ™µ—>sMÝ¸€ÒA1*Íxx?-ÿáA…Â~ugoO9O]¬­H.Dàú&‰vþ.yÈ*4ž·³1=ÜcæÎÕ½ï—sµ5(Å†›WV³žîzA pð	l…µ³Ôv?)m«§´YZ›éÂfsãòa©'XP&PÙÑ]&>™åÈq¤…´è}uú‡Jÿ—¾¨»¯~ ¾,…Ì,Ê¦Çv«#zý½ËÇãnž
+
+CwõmÒ¾ÕM%1+“šÂ´üç-`@?sHÜç!@ž-jsaÕ¼²É‡å=„Ã©m@Ò­r•[Ùû‡uà‚‘¤æ˜ì±	À¥jÛy? úI Fcv½ÕÜš&™åA_©9³øéý3ÖË\g¤öa@ç4=“E0"ñYS‘g´[ØÒ—×ysl®ç´lƒÛñ4‚K¤gE1ý£x©§ëäfÓËbÕ=]qb·Yârç1½Žuæ6 s'ÌæØù¥-*#€šhÐöZyÊäÀøÅ'N6»‡:ÎXd]•í­ þ˜E¨&ïÎ=<WrY)®…¥ÏîèV©LÃëŽ-ëÕ`C
+ÏÓítÚºzª{#+žóå®g™60‘“tŒ÷Žä1Hg;=F¸såéy\Úº¨°7Évp;«9÷Õ,«i±aÔ9Š‰ål Ã¼5g\Ö 6Ÿ·Ü8ûMbjùE¿¿0>XõM²ß§|æ„>ei ž˜%À”,³ùW«³ñŸ.
+ËÈŒ¨¡t¶âŒ‘™°æ¿]#Ç;ÿ=äòàÎ½³Þ}*èl¶ã\šðä§ƒ”MÂÊø€ûÀáÛ—|ƒfY(T! —c­·|9É4¶³
+h.Äª öbÛ}_qÞ×¹a–Û60•¿SéÈ›Ý¦#ê@­cØQW €·µU¾ ~ÈåÀ’¬/Í<à-pV4g#—Ì¦UÌHEêdxœqõ?éw
+†»S}ŠI1…ùN;fZ³¨ŸÍI˜·yÔ‘G*37@o/ÏÂP,MÆLkZ‘¢VJÜm{Q:yÌB±bº$€s¿)jî­Ãç½’ŸËæP§'Çë¦] 7ÁAG‘À}¬f ÞÈ¥r¿Æ¶ìá<,ÌE±Ý-67aØVS(þö}DÉ³¤ï[YÃprù|LBl“ý§_!¯i%Ô(ŠÌÝ0÷dÍcø?€'1t]ù¨ýPÐë« ž„4ƒà¤YÞ.‡+\ðHNèËxûÄˆ†ö0±d1…­r†i^qß%«ú€cÅTŽÐûºvSÞÈ%Ìí“íË˜á÷7ß}¸lÝ¶îŒúÐ¥\¹•!­?6OÉsE©ËÇU7G
+c†ë­5y—V&›oæwsçî(ÄPÏuï«¿`žÉÐ•íe7‡ ­ÇKÌó?i3ÃŠ«á*Ck ²bÞšºàfr({ø¾UÙrn©ˆ‰«[ê}ä®`ÊgÝ¤èU˜üÓ³¯ÅD þÈuûW‹»DæþÃPÛõ"[æ½#•ÌÊFÅJÜß×—šÜÃãTº>ŸM.Ÿ3×ó&cHÓ~N_†IÐ†+ƒo¸bëæ ùííÞõ€|%oRm•Ki¨ðd^Úµ®ŽùvíÀStTÔý¼Ø4QrÞÕXLÞÿçÀ.‡„¦rÖ™‰NDÐ¼a@k þ˜ÅåúM«Ù)²êÃU2íøäiØî6#	 ZáÖ Jîï}Ž–ê]Æ¬wìä@ J¶mØàöúz>‚æä•²›Vlýsœ<syØR`ëíÓ0ŒTY8*3—ŸžÑ^ŸcÙçÐŠ/l+æò#’ÜËl×(À±jÁñ¡	 £  %ÞÈÅõöIw3Jx—B¦çyŸ˜œ³v  t>¡Féí´®nÍ~ÛC?F÷»!Ñ½+ÊD˜oWÕ{óÜÌ©úfª÷ïNáyøE/{h7 kd¼ž÷³=';ÑRÙOušmhó€(¼ýš¬
+Î(û@ÎÅl‡3 7,Þ5ÞÈeÓõ=üM‰‘Ë”Ë{IrÞË©Yóžt ´À`dYsøÝÂQqwÏúšÊ?¿ßéÙMvÖg½y¤	Éì3Í÷74ƒj$«F\·ijwU}ÑA1 \ÿMË:E‡·»¾x2	‰úKÑ1gèunâG°{ÛãÐ(Ùæ\'Uí¤R<S“„(ã¥£nö§ƒžÈ¥õñä_Š}ð€v¹îKZS{KÅR$ˆ²¼öØúï»½ÖL²ò=ÄßB)æiçøWÎÄîšÌç˜R9™SÜ´É¬´ã›•N¦”€ŒC}…%’ºPÈÄ*£˜ÍyPó¬xÀ›ó</Œm@dšZ÷#†ògéà1ÃæNäô€Þµ¥	¢¾ÈõùI‘BÐ”;»íz©/ SH•• 2KýÁs­a²Î9ýö|!nŠO9¬n7ÅÜÉê—T*måÊ¯=ww¼ém¥³Ì!ý ˜îþ£	¹ÅhèoÓøæÅP:pËz[@Q1åÙf±(…œ½t†m×yÏ;&g¾Æ¹,!T2×œÓ^ÈåÝsø·žiõß×/ì—K#Å¼ZYf©Í¦ÓÜûøÚŸ!¯VžòrÌUA\ûìÎ5snA?½Ò‚†k8
+«–{U%‘;ðr5Ûê¼få@‘S¦®…ö£ ŒÔw^l’vÏË8ªÇü—ö€äÝÀêfÕ5Ñt"æ\ûµ¦ÌÁ‹R6K×dk&ˆç;Ñlt ž˜5óíÃ“¶>ØŽÞ±ÒñDÎÑ`<JhMÁaåÉ»üØÃoí—Å»í¹P½ê¹7±¬+<)kƒ©_žO`šbQX__ß=1½'üî§°K=1 ÖïVtÑµu–u–Ý[m]WÎ[¹bû œ·ó&$ ÞR€e½˜E= eÍ^Ãp‡À^@ H                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ca481a3d23441f49ba1d0b184d6ed74e088c67fd78e
+19857e6c73e0fcda3134c0e75f3e2cc8ac37b511afc19e5454091b47daef71b8a34db7c9459fbef93d771d0fe32d02693ebbf1bc6db96f5baef79f6fb9c7d5f3
+691bedb4b742dbd573831d92cdc81c9d7a621e50c63a6ac4c83569866609fb46bf0d8b9a8f395092c9892a09e16bdae71d5c20b0a14182ab0fa80a3b214e60e0
+2e7b9a492053d68144099770f033cb85bc351e8676658f8d557da0b0fd4162b5c9fb7679412f67e786091bb3fb04e6b09a095ad00c4e2b6ce152ca14cc7e1561
+65add4a9a5958d6aa6f539d22626434c674d83c5893761204130c6809717e148af45c3410533d2d77eb77b7116161385f30c910c719fa431d276cfc6a86c8294
+e58ab93980dc2988913e049ee0b59cb49a66fb1ad24e13a4bcb8ca31e2b2e8bd4e94b20c9e4649d7f191726471be38598cf6ea5ead3a5ff5908f93ba3780332e
+7c8d1288bad433206601dc25f94ad8b43fb1984d954fa359cb0c738ba00cd718d6ef33063b7d201152ad6319dad430afd21460b19664f59faf825bcfcb009be9
+afa0c5c21224c3bfa605f8d10d2d190c88aff2c1cead68dfd9c7b495f2a122a213f6f7508f0dc53686f0eb54057bfa54c25585e908fa01eed9b4b7cd2bb739a7
+4597bfdd3238bb8e5912e2b4ddea12cd2ad9c24d1d4f74304f39f5c0b642dd8d716737c594fc3999924fe3ff99297a3f819b8385be8e800f37bf02235daf758f
+0b1572e8424948fdb68041c2f40ec816b8ab85d7905470ff6c3e05d9d59fb6e62c0f53d6700054db344082c27ea44241c816b425937d27302ba77b9765c95246
+26a372eacac4aadd23bb8475750f5cd47bbb87424875d34dd236607047f3cf7d4e2ba817e821275f6f4e0f99ecbdb606fee9c9c7163318e5f66133d064fe9fa8
+58b0ab5a7a439eedbd7943f48be99855c9aa0284e5b6825a5af6afa8c219b75adbb1662c9eaf66ca4114672d86c5c94094c0fd0fd2ff60ffa3c267f6970cbda1
+76f936f456043f446866903690d517ece0817483b48b3d189ceca24d26cdcaba361d9db4d7b2cdfa9c27dd89dc23ced69a9d26de6774f6643873c539b5789ece
+4e3decf8daae1deb6a88ecd11285a54176b0318131bf82e57fa5e2bd3b10e875b8ef1f32254d32c16f4e02c3e8d9317500c56f251ad2d5bf000000ffff030050
+4b0304140006000800000021000dd1909fb60000001b010000270000007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e
+72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d363f2451eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae9
+95719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e3198720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757d
+a0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d9850528a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d00
+14000600080000002100e9de0fbfff0000001c0200001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d
+0014000600080000002100a5d6a7e7c0000000360100000b00000000000000000000000000300100005f72656c732f2e72656c73504b01022d00140006000800
+000021006b799616830000008a0000001c00000000000000000000000000190200007468656d652f7468656d652f7468656d654d616e616765722e786d6c504b
+01022d0014000600080000002100a0bc18c6b5060000831b00001600000000000000000000000000d60200007468656d652f7468656d652f7468656d65312e78
+6d6c504b01022d00140006000800000021000dd1909fb60000001b0100002700000000000000000000000000bf0900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000ba0a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax371\lsdlockeddef0\lsdsemihiddendef0\lsdunhideuseddef0\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 2;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 3;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 5;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 6;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 7;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 8;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 9;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority35 \lsdlocked0 caption;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 5;\lsdqformat1 \lsdpriority10 \lsdlocked0 Title;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority1 \lsdlocked0 Default Paragraph Font;\lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Salutation;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Date;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent;\lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;\lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;\lsdpriority59 \lsdlocked0 Table Grid;\lsdsemihidden1 \lsdlocked0 Placeholder Text;
+\lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;\lsdpriority60 \lsdlocked0 Light Shading;\lsdpriority61 \lsdlocked0 Light List;\lsdpriority62 \lsdlocked0 Light Grid;\lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdpriority64 \lsdlocked0 Medium Shading 2;
+\lsdpriority65 \lsdlocked0 Medium List 1;\lsdpriority66 \lsdlocked0 Medium List 2;\lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdpriority68 \lsdlocked0 Medium Grid 2;\lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdpriority70 \lsdlocked0 Dark List;
+\lsdpriority71 \lsdlocked0 Colorful Shading;\lsdpriority72 \lsdlocked0 Colorful List;\lsdpriority73 \lsdlocked0 Colorful Grid;\lsdpriority60 \lsdlocked0 Light Shading Accent 1;\lsdpriority61 \lsdlocked0 Light List Accent 1;
+\lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;\lsdsemihidden1 \lsdlocked0 Revision;
+\lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;
+\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;\lsdpriority72 \lsdlocked0 Colorful List Accent 1;
+\lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdpriority60 \lsdlocked0 Light Shading Accent 2;\lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdpriority62 \lsdlocked0 Light Grid Accent 2;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;
+\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;
+\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;\lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;\lsdpriority72 \lsdlocked0 Colorful List Accent 2;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;
+\lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdpriority61j"”ŸDXBCïÚï­pÓÑûÈàÃïÇ.   Hc     4   ü  l  ¸  Ìb  RDEFÀ     x         ÿÿ    Ü                            é                           ö                                                                                         ÿÿÿÿ         $                       .                       <        	   ÿÿÿÿ         C        	   ÿÿÿÿ         J           ÿÿÿÿ         W           ÿÿÿÿ         _                             h                            smp_nofilter smp_rtlinear smp_material smp_jitter s_position s_material s_diffuse s_accumulator env_s0 env_s1 s_half_depth jitter0 $Globals static_globals «_     ¨  P           h     x  `                            $     0      ,      <  @         T      d  D         T      env_color ««            m_v2w ««            ssao_noise_tile_factor «             ssao_kernel_size «««È      0       ,      Ì  0   @       Ð      à  p   @       Ð      å  °                ì  À                ö  Ð                 à                 ð                           $      4           $      @                  M  0         $      Z  @              s  P               m_V m_P             m_VP timers fog_plane fog_params fog_color L_ambient L_sun_color «««            L_sun_dir_w L_hemi_color eye_position pos_decompression_params pos_decompression_params2 Microsoft (R) HLSL Shader Compiler 9.27.952.3022 ««ISGNh         P                    P                   Y                  TEXCOORD SV_Position «««OSGND         8                     8                   SV_Target ««SHDR\  @     Y  FŽ         Y  FŽ        Z   `     Z   `    Z   `    Z   `    X  p     UU  X(  p    UU  X  p    UU  X  p    UU  X0  p    UU  X0  p    UU  X  p    UU  X  p    UU  b ²     d  2       e  ò      e  ò     h  	   6  ‚      @    €?2  2     F    æŠ        F€ €A           2     F    6  Â     @                  .  	ò     F    –|     @     8  2      F     V    6  B                  FŽ         F       "     FŽ         F       B     FŽ         F     8  r     F    €            2     V    †     E  	ò     F     F~     `    8  
+ò     F    @   ÒôF€0G ÒôF€0G  ò     F    8  
+â     V    @      ùI? ÒôF€0G2  	‚      
+     @  *û>@  ¸…>M                   ò     æ    8       :      
+     8  "     :      
+     8  2     V…         @     :«ª*:        4  ‚      *      @  ff¦?1  
+Â         @              
+×#<7  	‚      :     @   PÃG:      7  	B     *     @    €¿@    €?  2     F     ö     2  	2     F     F     F     2  Â         @             @   @@            €¿  €¿H  ò     F     –|     `     @      8  2     æ
+    F€        8  2     ¦
+    F        r     F€A       F      ‚      F    F    K  ‚     :      D  ‚      :      8  r     ö     F    2  
+‚      : €A      @     ?@    €?3  ‚     :     @    €?   ‚     :     @    €¿4  ‚      :      @      2  2     F     @  *û>ùI?        @  ¸…>ùI?        8  
+Â     ¦    @           ÒôF€0G  ò     æ    M                 8       
+     
+     8  "     
+     
+     2  	2     F     F     F     2  Â         @             @   @@            €¿  €¿H  ò     F     –|     `     @      8  2     æ
+    F€        8  2     ¦
+    F        r     F€A       F      ‚     F    F    K  ‚     :     D  ‚     :     8  r     ö    F    2  
+‚     : €A      @     ?@    €?3  ‚     :     @    €?   ‚     :     @    €¿4  ‚     :     @      2  
+     
+ €      @     @@    €¿2  
+     
+ €A      
+     @    €?2  
+     * €A      *     
+     K       
+ €      8  "     *     
+       B     F    F    2  	     *     :     @    €?   B     *     @  
+×#<8       
+     *     8  B     :     *     8  ‚     :     
+            F    F    2  	‚     
+     :     @    €?        
+     @  
+×#<8  ‚     :     
+     2  	B     
+     :      *     2  	‚      :     :      :     2  2     F     @  *û>ùI?        @  ¸…>ùÉ?        8  
+Â     ¦    @           ÒôF€0G  ò     æ    M                 8       
+     
+     8  "     
+     
+     2  	2     F     F     F     2  Â         @             @   @@            €¿  €¿H  ò     F     –|     `     @      8  2     æ
+    F€        8  2     ¦
+    F        r     F€A       F      ‚     F    F    K  ‚     :     D  ‚     :     8  r     ö    F      ‚     F    F    2  
+     : €A      @     ?@    €?3  "     :     @    €?   "          @    €¿2  	"     :          @    €?   ‚     :     @  
+×#<8  "          :     4       
+     @      2  	‚           
+     :      2  	B     :     
+     *     2  2     F     @  *û>ùI?        @  ¸…>ûË@        8  
+Â     ¦    @           ÒôF€0G  ò     æ    M                 8       
+     
+     8  "     
+     
+     2  	2     F     F     F     2  Â         @             @   @@            €¿  €¿H  ò     F     –|     `     @      8  2     æ
+    F€        8  2     ¦
+    F        r     F€A       F      ‚     F    F    K  ‚     :     D  ‚     :     8  r     ö    F      ‚     F    F    2  
+     : €A      @     ?@    €?3  "     :     @    €?   "          @    €¿2  	"     :          @    €?   ‚     :     @  
+×#<8  "          :     4       
+     @      2  	‚           
+     :      2  	B     :     
+     *     2  2     F     @  *û>PüH?        @  ¸…>ùI@        8  
+Â     ¦    @           ÒôF€0G  ò     æ    M                 8       
+     
+     8  "     
+     
+     2  	2     F     F     F     2  Â         @             @   @@            €¿  €¿H  ò     F     –|     `     @      8  2     æ
+    F€        8  2     ¦
+    F        r     F€A       F      ‚     F    F    K  ‚     :     D  ‚     :     8  r     ö    F      ‚     F    F    2  
+     : €A      @     ?@    €?3  "     :     @    €?   "          @    €¿2  	"     :          @    €?   ‚     :     @  
+×#<8  "          :     4       
+     @      2  	‚           
+     :      2  	B     :     
+     *     2  2     F     @  *û>£#I?        @  ¸…>O{@        8  
+Â     ¦    @           ÒôF€0G  ò     æ    M                 8       
+     
+     8  "     
+     
+     2  	2     F     F     F     2  Â         @             @   @@            €¿  €¿H  ò     F     –|     `     @      8  2     æ
+    F€        8  2     ¦
+    F        r     F€A       F      ‚     F    F    K  ‚     :     D  ‚     :     8  r     ö    F      ‚     F    F    2  
+     : €A      @     ?@    €?3  "     :     @    €?   "          @    €¿2  	"     :          @    €?   ‚     :     @  
+×#<8  "          :     4       
+     @      2  	‚           
+     :      2  	B     :     
+     *     2  2     F     @  *û>ùI?        @  ¸…>ûË–@        8  
+Â     ¦    @           ÒôF€0G  ò     æ    M                 8       
+     
+     8  "     
+     
+     2  	2     F     F     F     2  Â         @             @   @@            €¿  €¿H  ò     F     –|     `     @      8  2     æ
+    F€        8  2     ¦
+    F        r     F€A       F      ‚     F    F    K  ‚     :     D  ‚     :     8  r     ö    F      ‚     F    F    2  
+     : €A      @     ?@    €?3  "     :     @    €?   "          @    €¿2  	"     :          @    €?   ‚     :     @  
+×#<8  "          :     4       
+     @      2  	‚           
+     :      2  	B     :     
+     *     2  2     F     @  *û>ùI?        @  ¸…>úí¯@        8  
+Â     ¦    @           ÒôF€0G  ò     æ    M                 8       
+     
+     8  "     
+     
+     2  	2     F     F     F     2  Â         @             @   @@            €¿  €¿H  ò     F     –|     `     @      8  2     æ
+    F€        8  2     ¦
+    F        r     F€A       F      ‚     F    F    K  ‚     :     D  ‚     :     8  r     ö    F      ‚     F    F    2  
+     : €A      @     ?@    €?3  "     :     @    €?   "          @    €¿2  	"     :          @    €?   ‚     :     @  
+×#<8  "          :     4       
+     @      2  	‚           
+     :      2  	B     :     
+     *     8  
+r     –    @  ùI? ÒôF€0G    2  	‚     
+     @  ¡-Ÿ>@  _$@?M            
+       ò     –	    8       :     
+     8  "     :     
+     2  	2     F     F     F     2  Â         @             @   @@            €¿  €¿H  ò     F     –|     `     @      8  2     æ
+    F€        8  2     ¦
+    F        r     F€A       F      ‚     F    F    K  ‚     :     D  ‚     :     8  r     ö    F      ‚     F    F    2  
+     : €A      @     ?@    €?3  "     :     @    €?   "          @    €¿2  	"     :          @    €?   ‚     :     @  
+×#<8  "          :     4       
+     @      2  	‚           
+     :      2  	B     :     
+     *     2  2     F     @  ¡-Ÿ>ùI?        @  _$@?ùI?        8  
+Â     ¦    @           ÒôF€0G  ò     æ    M                 8       
+     
+     8  "     
+     
+     2  	2     F     F     F     2  Â         @             @   @@            €¿  €¿H  ò     F     –|     `     @      8  2     æ
+    F€        8  2     ¦
+    F        r     F€A       F      ‚     F    F    K  ‚     :     D  ‚     :     8  r     ö    F      ‚     F    F    2  
+     : €A      @     ?@    €?3  "     :     @    €?   "          @    €¿2  	"     :          @    €?   ‚     :     @  
+×#<8  "          :     4       
+     @      2  	‚           
+     :      2  	B     :     
+     *     2  2     F     @  ¡-Ÿ>ùI?        @  _$@?ùÉ?        8  
+Â     ¦    @           ÒôF€0G  ò     æ    M                 8       
+     
+     8  "     
+     
+     2  	2     F     F     F     2  Â         @             @   @@            €¿  €¿H  ò     F     –|     `     @      8  2     æ
+    F€        8  2     ¦
+    F        r     F€A       F      ‚     F    F    K  ‚     :     D  ‚     :     8  r     ö    F      ‚ 

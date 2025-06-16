@@ -1,0 +1,50 @@
+Android\
+Battle.net\
+Bignox\
+Common Files\BattlEye\
+Common Files\DVDVideoSoft\
+Common Files\Java\
+Common Files\NetSarang\
+Common Files\Oracle\
+Common Files\VMware\
+Common Files\Microsoft\
+Common Files\microsoft shared\
+Comodo\
+EasyAntiCheat\
+Epic Games\
+FFDec\
+FormatFactory\
+GECK Script Editor\
+GeMM\
+Google\Chrome\
+Google\Update\
+GTK2-Runtime\
+GTK2-Runtime2\
+GtkSharp\
+ICE Book Reader Professional Russian\
+Java\
+KMPlayer\
+LOOT\
+Microsoft\Skype for Desktop\
+Mozilla Firefox\
+Mozilla Maintenance Service\
+Mozilla Thunderbird\
+MSI Afterburner\
+NCH Software\
+NetSarang\
+Nox\
+obs-studio\
+OpenOffice 4\
+Opera\
+PremiumSoft\
+Steam\config\
+Steam\steamapps\*.acf
+Steam\steamapps\*.vdf
+Steam\steamapps\workshop\
+Steam\userdata\
+TeamViewer\
+Ubisoft\
+Universal Extractor\
+VMware\
+Vuze\
+WinRAR\

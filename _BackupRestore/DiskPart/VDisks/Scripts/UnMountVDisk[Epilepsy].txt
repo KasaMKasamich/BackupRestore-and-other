@@ -1,0 +1,2 @@
+select vdisk file="I:\Epilepsy.vhd"
+detach vdisk

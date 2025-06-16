@@ -1,0 +1,37 @@
+﻿;!@Install@!UTF-8!
+InstallPath	= "%ProgramFiles%\\#FolderName"
+
+SetEnvironment	= "INF_File=#FolderName.inf"
+SetEnvironment	= "INF_Sect=DefaultInstall"
+
+
+RunProgram	= "fm10:\"%SystemRoot%\\System32\\RunDLL32.exe\" advpack.dll,LaunchINFSectionEx %%T\\%INF_File%,%INF_Sect%,,4,N"
+RunProgram	= "hidcon:\"%ComSpec%\" /c Move /y \"%%T\\%INF_File%\" \"%SystemRoot%\\Inf\""
+
+GUIFlags="2+8+32+256"
+MiscFlags="4"
+GUIMode="1"
+OverwriteMode="0"
+
+HelpText	= "Telepítő indításához szükséges paraméterek:
+ -y	    telepítés előtt nincs kérdés
+ -fm0	telepítés befejeztéről nincs üzenet
+ -gm2	nincs kicsomagolás párbeszédpanel
+"
+
+Title		= "Telepítés #FolderName #Version"
+ExtractTitle	= "Telepítés #FolderName #Version"
+ExtractPathTitle= "Telepítés #FolderName #Version"
+PasswordTitle	= "Telepítés #FolderName #Version"
+WarningTitle	= "Telepítés #FolderName #Version - figyelmeztetés"
+ErrorTitle	= "Telepítés #FolderName #Version - hiba"
+
+BeginPrompt	= "Elvégzi a #FolderName #Version telepítését?"
+CancelPrompt	= "Megszakítja a #FolderName #Version telepítését?"
+FinishMessage	= "#FolderName #Version telepítése sikeresen befejeződött!"
+
+PasswordText	= "Adja meg a jelszót:"
+ExtractPathText	= "Válassza ki a #FolderName telepítési útvonalát:"
+ExtractDialogText="Kicsomagolás folyamatban..."
+ExtractCancelText="Mégse"
+;!@InstallEnd@!

@@ -1,0 +1,113 @@
+
+rmdir /S /Q "Application Data"
+rmdir /S /Q "Microsoft"
+rmdir /S /Q "Opera Software"
+rmdir /S /Q "History"
+rmdir /S /Q "Temp"
+rmdir /S /Q "Temporary Internet Files"
+rmdir /S /Q "BolideLog"
+rmdir /S /Q "speech"
+rmdir /S /Q "TechSmith"
+rmdir /S /Q "TileDataLayer""
+rmdir /S /Q "Wondershare"
+rmdir /Q "Comms"
+rmdir /Q "CrashDumps"
+rmdir /Q "Packages"
+
+F:\_BackupRestore\TestFullBackup.cmd
+powershell -Command "Start-Process F:\_BackupRestore\TestFullBackup.cmd -Verb RunAs"
+
+Для того, что бы запустить PowerShell c повышенными правами, можно использовать команду:
+powershell start-process powershell –verb runAs
+
+Скачать справку по командам PowerShell: 
+powershell "Start-Process powershell Update-Help -Verb RunAs"
+
+Создать список содержимого папки: 
+cd -path C:\_BR\Temp2
+Get-ChildItem -path C:\_BR\Temp2 -Name | Out-File -FilePath F:\_BackupRestore\__Lists\PS_DeleteD.txt
+или
+Get-ChildItem -Name > F:\_BackupRestore\__Lists\PS_DeleteD.txt
+
+
+
+Remove-Item -path c:\testfolder -recurse
+Remove-Item c:\Tmp\* -Recurse -Force
+Get-ChildItem -Path C:\_BR\Temp2 -Include * -File -Recurse | foreach { $_.Delete()}
+Get-ChildItem -Path "C:\_BR\Temp2\*" -Directory  | foreach { $_.Delete()}
+Remove-Item -path "C:\_BR\Temp2\*" -Directory -Force
+Get-ChildItem -Path "C:\_BR\Temp2\*" -Directory  | foreach { $_.Delete()}
+
+powershell -Command "Get-ChildItem -Path "C:\_BR\Temp2\*" -Directory  | foreach { $_.Delete()}"
+
+	powershell -Command "Get-ChildItem -Path "%TempSourceBackupDir%2\*" -Directory -Include somefile.txt  | foreach { $_.Delete()}"
+
+
+Get-ChildItem -path C:\_BR\Temp\* -Exclude C:\_BackupRestore\__Lists\PS_DeleteLocal.txt -Name > F:\_BackupRestore\__Lists\PS_DeleteD.txt
+
+
+Get-ChildItem -LiteralPath C:\_BR\Temp2 -Directory -Exclude C:\_BackupRestore\__Lists\PS_DeleteLocal.txt | foreach { $_.Delete()}
+
+
+rem  '-xr0!*.tmp' '-xr0!*.dmp' '-xr0!*.cookie' '-xr0!*.log' '-xr0!*.vbs' '-xr0!*.7z' '-xr0!Logs' '-xr0!Temp' '-xr0!Crash' '-xr0!IceDragon'
+
+rem !7za! u -y -r- !7zaKeyString! "%TempBackupDir%\Local.7z" "%TempSourceBackupDir%\*" -w"%Temp%" -x@"%ListLocalExclude%" -xr0@"%ListRecurseExclude%"
+
+For /D %%A In ("%TempSourceBackupDir%\*") Do (
+	For /F "delims=" %%B In ('CScript //Nologo %TempSourceBackupDir%\GetDirSize.vbs "%%A"') Do (
+		if %%B geq !MB! !7za! u -y -r !7zaKeyString! "!TempBackupDir!\%%~nxA.7z" "%%A" '-xr!*.tmp' '-xr!*.dmp' '-xr!*.cookie' '-xr!*.log' '-xr!*.vbs' '-xr!*.7z'
+	)
+)
+
+@timeout /t 91 >nul
+
+
+start /b /wait F:\_BackupRestore\7za\7za.exe a -t7z -ssw -mx9 -slp -scsWIN -mmt=4 -ms=off "%TempBackupDir%\Yandex.7z" "%Dir001%\Yandex" -r0 -x@"%ListLocalExclude%" -xr@"%ListRecurseExclude%"
+For /D %%A In ("%TempSourceBackupDir%\*") Do (
+		rem if %%B leq !MB! start /b /wait F:\_BackupRestore\7za\7za.exe a -t7z -ssw -mx9 "%TempBackupDir%\%%~nxA.7z" "%%A" -r0 -w"%TempBackupDir%" -i@"%ListLocalInclude%" -x@"%ListLocalExclude%" -xr@"%ListRecurseExclude%"
+		rem if %%B geq !MB! start /b /wait F:\_BackupRestore\7za\7za.exe a -t7z -ssw -mx9 "%TempBackupDir%\%%~nxA.7z" "%%A" -r0 -w"%TempBackupDir%" -i@"%ListLocalInclude%" -x@"%ListLocalExclude%" -xr@"%ListRecurseExclude%"
+	For /F "delims=" %%B In ('CScript //Nologo %TempSourceBackupDir%\GetDirSize.vbs "%%A"') Do (
+	)
+)
+:: 
+
+
+NVIDIA*\
+rmdir /Q "NVIDIA"
+
+
+::	rmdir /S /Q "NVIDIA"
+
+
+
+:StepPack1
+echo Step = %isStep% (Pack 1)
+@timeout 2 >nul
+start /B /REALTIME /wait F:\_BackupRestore\7z\1900\x64\7za.exe a -ssw "%TempBackupDir%\2.7z" "%TempSourceBackupDir%\*" -r0 -w"%TempBackupDir%" -i@"%ListLocalInclude%" -x@"%ListLocalExclude%" -xr@"%ListRecurseExclude%" -bsp2 -slp -scsWIN -mmt=on -mx9 -ms=off
+if %isStep% == 0 (set isStep=1)
+if %isStep% == 1 (goto :ReCreate)
+:: 
+:StepPack2
+@timeout 2 >nul
+echo Step = %isStep% (Pack 2)
+
+For /D %%A In ("%Dir001%\*") Do (
+	For /F "delims=" %%B In ('CScript //Nologo %Dir001%\GetDirSize.vbs "%%A"') Do (
+		Set Bytes=%%B
+		Set /A KB=50*1024
+		Set /A MB=200*1048576
+		Set /A FloatMB=!Bytes!%%1048576/10000
+		Set /A FloatKB=!Bytes!%%1024/10
+		if %%B geq !MB! start /B /REALTIME /wait F:\_BackupRestore\7z\1900\x64\7za.exe a -ssw "%TempBackupDir%\%%~nxA.7z" "%TempSourceBackupDir%\*" -r0 -w"%TempBackupDir%" -i@"%ListLocalInclude%" -x@"%ListLocalExclude%" -xr@"%ListRecurseExclude%" -bsp2 -slp -scsWIN -mmt=on -mx9 -ms=off
+	)
+)
+@timeout 2 >nul
+if %isStep% == 1 (set isStep=2)
+if %isStep% == 2 (goto :End)
+:: 
+
+
+
+
+
+

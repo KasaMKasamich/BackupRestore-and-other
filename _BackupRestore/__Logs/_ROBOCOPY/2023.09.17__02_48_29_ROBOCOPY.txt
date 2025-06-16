@@ -1,0 +1,1922 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 17  2023 . 2:48:34
+   Source : F:\ProgramFiles\_Archivers\
+     Dest : H:\_TempDestDirectoryCopying\_Archivers\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DAT /COPY:DAT /Z /MT:8 /R:3 /W:2 
+
+------------------------------------------------------------------------------
+
+	    New File  		  33.6 m	F:\ProgramFiles\_Archivers\PowerArchiver.7z  2%   11%   23%   32%   41%   50%   56%   62%   71%   77%   86%  100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\ExtractNow\7z.dll100%  
+	    New File  		   38935	F:\ProgramFiles\_Archivers\ExtractNow\changelog.txt100%  
+	    New File  		  126976	F:\ProgramFiles\_Archivers\ExtractNow\classic.icl100%  
+	    New File  		    2334	F:\ProgramFiles\_Archivers\ExtractNow\complete.wav100%  
+	    New File  		  126976	F:\ProgramFiles\_Archivers\ExtractNow\dbljdesign.icl100%  
+	    New File  		   97280	F:\ProgramFiles\_Archivers\ExtractNow\extractmenu.dll100%  
+	    New File  		  262144	F:\ProgramFiles\_Archivers\ExtractNow\extractmenu64.dll100%  
+	    New File  		  260608	F:\ProgramFiles\_Archivers\ExtractNow\extractnow.exe100%  
+	    New File  		      72	F:\ProgramFiles\_Archivers\ExtractNow\extractnow.htm100%  
+	    New File  		  286720	F:\ProgramFiles\_Archivers\ExtractNow\extractnow.icl100%  
+	    New File  		    3281	F:\ProgramFiles\_Archivers\ExtractNow\extractnow.lua-sample100%  
+	    New File  		   27730	F:\ProgramFiles\_Archivers\ExtractNow\incomplete.wav100%  
+	    New File  		  139264	F:\ProgramFiles\_Archivers\ExtractNow\lua52.dll100%  
+	    New File  		  286208	F:\ProgramFiles\_Archivers\ExtractNow\stuffit5.engine-5.1.dll100%  
+	    New File  		  528384	F:\ProgramFiles\_Archivers\ExtractNow\tango.icl100%  
+	    New File  		   77312	F:\ProgramFiles\_Archivers\ExtractNow\unacev2.dll100%  
+	    New File  		  258352	F:\ProgramFiles\_Archivers\ExtractNow\unicows.dll100%  
+	    New File  		  108908	F:\ProgramFiles\_Archivers\ExtractNow\uninstall.exe100%  
+	    New File  		  267936	F:\ProgramFiles\_Archivers\ExtractNow\unrar.dll100%  
+	    New File  		  108058	F:\ProgramFiles\_Archivers\7-Zip\7-zip.chm100%  
+	    New File  		   75776	F:\ProgramFiles\_Archivers\7-Zip\7-Zip.dll100%  
+	    New File  		   49664	F:\ProgramFiles\_Archivers\7-Zip\7-zip32.dll100%  
+	    New File  		  129536	F:\ProgramFiles\_Archivers\7-Zip\7-zipn.dll100%  
+	    New File  		   1.6 m	F:\ProgramFiles\_Archivers\7-Zip\7z.dll100%  
+	    New File  		  461824	F:\ProgramFiles\_Archivers\7-Zip\7z.exe100%  
+	    New File  		  205824	F:\ProgramFiles\_Archivers\7-Zip\7z.sfx100%  
+	    New File  		  488960	F:\ProgramFiles\_Archivers\7-Zip\7za.exe100%  
+	    New File  		   78848	F:\ProgramFiles\_Archivers\7-Zip\7zC.sfx100%  
+	    New File  		  186368	F:\ProgramFiles\_Archivers\7-Zip\7zCon.sfx100%  
+	    New File  		  863232	F:\ProgramFiles\_Archivers\7-Zip\7zFM.exe100%  
+	    New File  		  245760	F:\ProgramFiles\_Archivers\7-Zip\7zFMn.exe100%  
+	    New File  		  576000	F:\ProgramFiles\_Archivers\7-Zip\7zg.exe100%  
+	    New File  		  162304	F:\ProgramFiles\_Archivers\7-Zip\7zgn.exe100%  
+	    New File  		    5499	F:\ProgramFiles\_Archivers\7-Zip\7zip_pad.xml100%  
+	    New File  		   26948	F:\ProgramFiles\_Archivers\7-Zip\copying.txt100%  
+	    New File  		     366	F:\ProgramFiles\_Archivers\7-Zip\descript.ion100%  
+	    New File  		     440	F:\ProgramFiles\_Archivers\7-Zip\file_id.diz100%  
+	    New File  		   48215	F:\ProgramFiles\_Archivers\7-Zip\History.txt100%  
+	    New File  		    3990	F:\ProgramFiles\_Archivers\7-Zip\License.txt100%  
+	    New File  		    1698	F:\ProgramFiles\_Archivers\7-Zip\readme.txt100%  
+	    New File  		   14848	F:\ProgramFiles\_Archivers\7-Zip\Uninstall.exe100%  
+	    New File  		      46	F:\ProgramFiles\_Archivers\PowerArchiver_2014\desktop.ini100%  
+	    New File  		  115546	F:\ProgramFiles\_Archivers\PowerArchiver\2022_09_10_Settings.reg100%  
+	    New File  		   1.1 m	F:\ProgramFiles\_Archivers\PowerArchiver\7Z.DLL100%  
+	    New File  		   1.6 m	F:\ProgramFiles\_Archivers\PowerArchiver\7Z64.DLL100%  
+	    New File  		  103016	F:\ProgramFiles\_Archivers\PowerArchiver\CABINET.DLL100%  
+	    New File  		  108720	F:\ProgramFiles\_Archivers\PowerArchiver\cabinet64.dll100%  
+	    New File  		   72656	F:\ProgramFiles\_Archivers\PowerArchiver\cdm_x32.dll100%  
+	    New File  		  115152	F:\ProgramFiles\_Archivers\PowerArchiver\cdm_x64.dll100%  
+	    New File  		   36016	F:\ProgramFiles\_Archivers\PowerArchiver\crc32_x32.dll100%  
+	    New File  		   30896	F:\ProgramFiles\_Archivers\PowerArchiver\crc32_x64.dll100%  
+	    New File  		  201680	F:\ProgramFiles\_Archivers\PowerArchiver\divsufsort.dll100%  
+	    New File  		   82384	F:\ProgramFiles\_Archivers\PowerArchiver\divsufsort32.dll100%  
+	    New File  		  197808	F:\ProgramFiles\_Archivers\PowerArchiver\jojpeg_dll_x32_ia32.dll100%  
+	    New File  		  199856	F:\ProgramFiles\_Archivers\PowerArchiver\jojpeg_dll_x32_SSE4.dll100%  
+	    New File  		  136368	F:\ProgramFiles\_Archivers\PowerArchiver\jojpeg_dll_x64_SSE2.dll100%  
+	    New File  		  136368	F:\ProgramFiles\_Archivers\PowerArchiver\jojpeg_dll_x64_SSE4.dll100%  
+	    New File  		  182464	F:\ProgramFiles\_Archivers\PowerArchiver\l32gomp-1.dll100%  
+	    New File  		   54224	F:\ProgramFiles\_Archivers\PowerArchiver\l32winpthread-1.dll100%  
+	    New File  		   1.3 m	F:\ProgramFiles\_Archivers\PowerArchiver\libeay32.dll100%  
+	    New File  		  124384	F:\ProgramFiles\_Archivers\PowerArchiver\libgcc_s_dw2-1.dll100%  
+	    New File  		   90064	F:\ProgramFiles\_Archivers\PowerArchiver\libgcc_s_seh-1.dll100%  
+	    New File  		  174048	F:\ProgramFiles\_Archivers\PowerArchiver\libgomp-1.dll100%  
+	    New File  		   89552	F:\ProgramFiles\_Archivers\PowerArchiver\libwinpthread-1.dll100%  
+	    New File  		  770384	F:\ProgramFiles\_Archivers\PowerArchiver\msvcr100.dll100%  
+	    New File  		   1.9 m	F:\ProgramFiles\_Archivers\PowerArchiver\PA.DLL100%  
+	    New File  		   2.7 m	F:\ProgramFiles\_Archivers\PowerArchiver\pa64.dll100%  
+	    New File  		  10.3 m	F:\ProgramFiles\_Archivers\PowerArchiver\PABACKUP.EXE100%  
+	    New File  		   2.9 m	F:\ProgramFiles\_Archivers\PowerArchiver\PABURNER16.DLL100%  
+	    New File  		   8.6 m	F:\ProgramFiles\_Archivers\PowerArchiver\PABURNTOOLS.EXE100%  
+	    New File  		  328880	F:\ProgramFiles\_Archivers\PowerArchiver\packmp3c_dll_x32.dll100%  
+	    New File  		  295088	F:\ProgramFiles\_Archivers\PowerArchiver\packmp3c_dll_x64.dll100%  
+	    New File  		  301232	F:\ProgramFiles\_Archivers\PowerArchiver\packmp3d_dll_x32.dll100%  
+	    New File  		  266416	F:\ProgramFiles\_Archivers\PowerArchiver\packmp3d_dll_x64.dll100%  
+	    New File  		  307376	F:\ProgramFiles\_Archivers\PowerArchiver\PACLIB.DLL100%  
+	    New File  		  317616	F:\ProgramFiles\_Archivers\PowerArchiver\paclib64.dll100%  
+	    New File  		  536240	F:\ProgramFiles\_Archivers\PowerArchiver\paclib64_0.dll100%  
+	    New File  		  346800	F:\ProgramFiles\_Archivers\PowerArchiver\PACLIB_0.DLL100%  
+	    New File  		  664752	F:\ProgramFiles\_Archivers\PowerArchiver\PACLIB_zstd32.DLL100%  
+	    New File  		  760952	F:\ProgramFiles\_Archivers\PowerArchiver\paclib_zstd64.dll100%  
+	    New File  		  10.2 m	F:\ProgramFiles\_Archivers\PowerArchiver\PACLOUD.EXE100%  
+	    New File  		   1.2 m	F:\ProgramFiles\_Archivers\PowerArchiver\PACONTEXT.DLL100%  
+	    New File  		  13.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\PAES.EXE100%  
+	    New File  		    1073	F:\ProgramFiles\_Archivers\PowerArchiver\PAExtLogo.altform-unplated_targetsize-32.png100%  
+	    New File  		    1798	F:\ProgramFiles\_Archivers\PowerArchiver\PAExtLogo.altform-unplated_targetsize-48.png100%  
+	    New File  		    2757	F:\ProgramFiles\_Archivers\PowerArchiver\PAExtLogo.altform-unplated_targetsize-64.png100%  
+	    New File  		   27312	F:\ProgramFiles\_Archivers\PowerArchiver\PAISO.DLL100%  
+	    New File  		  122544	F:\ProgramFiles\_Archivers\PowerArchiver\PAJPEG.DLL100%  
+	    New File  		  154288	F:\ProgramFiles\_Archivers\PowerArchiver\PAJPEG64.DLL100%  
+	    New File  		  122544	F:\ProgramFiles\_Archivers\PowerArchiver\PAPMP.DLL100%  
+	    New File  		  154288	F:\ProgramFiles\_Archivers\PowerArchiver\PAPMP64.DLL100%  
+	    New File  		   20144	F:\ProgramFiles\_Archivers\PowerArchiver\PARAR.DLL100%  
+	    New File  		   84144	F:\ProgramFiles\_Archivers\PowerArchiver\parar64.dll100%  
+	    New File  		   1.1 m	F:\ProgramFiles\_Archivers\PowerArchiver\PASHLEXT.DLL100%  
+	    New File  		   1.7 m	F:\ProgramFiles\_Archivers\PowerArchiver\pashlext64.dll100%  
+	    New File  		   4.8 m	F:\ProgramFiles\_Archivers\PowerArchiver\PASHLEXTe.DLL100%  
+	    New File  		     247	F:\ProgramFiles\_Archivers\pZLib\arc.ini  0%  100%  
+	    New File  		   7.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\pashlexte64.dll100%  
+	    New File  		   2.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\PASHLUTIL.EXE100%  
+	    New File  		    1228	F:\ProgramFiles\_Archivers\PowerArchiver\PASHLUTIL.EXE.MANIFEST100%  
+	    New File  		   3.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\PASTARTER.EXE100%  
+	    New File  		  453808	F:\ProgramFiles\_Archivers\PowerArchiver\PAUAC.DLL100%  
+	    New File  		   3.4 m	F:\ProgramFiles\_Archivers\PowerArchiver\PAUAC64.DLL100%  
+	    New File  		  324784	F:\ProgramFiles\_Archivers\PowerArchiver\PAUNRAR5.DLL100%  
+	    New File  		  420016	F:\ProgramFiles\_Archivers\PowerArchiver\PAUNRAR564.DLL100%  
+	    New File  		   1.3 m	F:\ProgramFiles\_Archivers\PowerArchiver\pazpaq.dll100%  
+	    New File  		   1.8 m	F:\ProgramFiles\_Archivers\PowerArchiver\pazpaq64.dll100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\pa_lang2.dll100%  
+	    New File  		   1.3 m	F:\ProgramFiles\_Archivers\PowerArchiver\pa_lang2_x64.dll100%  
+	    New File  		   3.5 m	F:\ProgramFiles\_Archivers\PowerArchiver\pdfium32.dll100%  
+	    New File  		   3.9 m	F:\ProgramFiles\_Archivers\PowerArchiver\pdfium64.dll100%  
+	    New File  		  190416	F:\ProgramFiles\_Archivers\PowerArchiver\plzma4_x32.dll100%  
+	    New File  		  209872	F:\ProgramFiles\_Archivers\PowerArchiver\plzma4_x64.dll100%  
+	    New File  		  116912	F:\ProgramFiles\_Archivers\PowerArchiver\POWERARC-DEJPG.EXE100%  
+	    New File  		  596144	F:\ProgramFiles\_Archivers\PowerArchiver\POWERARC-DEPMP32.EXE100%  
+	    New File  		  596144	F:\ProgramFiles\_Archivers\PowerArchiver\POWERARC-DEPMP64.EXE100%  
+	    New File  		   1.8 m	F:\ProgramFiles\_Archivers\PowerArchiver\POWERARC-LEPTON2_32.EXE100%  
+	    New File  		   1.9 m	F:\ProgramFiles\_Archivers\PowerArchiver\POWERARC-LEPTON2_64.EXE100%  
+	    New File  		   1.8 m	F:\ProgramFiles\_Archivers\PowerArchiver\POWERARC-LEPTON32.EXE100%  
+	    New File  		   1.9 m	F:\ProgramFiles\_Archivers\PowerArchiver\POWERARC-LEPTON64.EXE100%  
+	    New File  		  39.2 m	F:\ProgramFiles\_Archivers\PowerArchiver\powerarc.exe 35%   40%   48%   55%   66%   73%   81%   86%   94%  100%  
+	    New File  		   16335	F:\ProgramFiles\_Archivers\PowerArchiver\POWERARCHIVER.MSIX100%  
+	    New File  		     514	F:\ProgramFiles\_Archivers\PowerArchiver\PowerARCRegister.reg100%  
+	    New File  		  134096	F:\ProgramFiles\_Archivers\PowerArchiver\reflateN_x32.dll100%  
+	    New File  		  176592	F:\ProgramFiles\_Archivers\PowerArchiver\reflateN_x64.dll100%  
+	    New File  		    1608	F:\ProgramFiles\_Archivers\PowerArchiver\RESOURCES.PRI100%  
+	    New File  		  351856	F:\ProgramFiles\_Archivers\PowerArchiver\ssleay32.dll100%  
+	    New File  		  777320	F:\ProgramFiles\_Archivers\PowerArchiver\STARBURN.DLL100%  
+	    New File  		    1405	F:\ProgramFiles\_Archivers\PowerArchiver\TUTOR1.ZIP100%  
+	    New File  		  498262	F:\ProgramFiles\_Archivers\PowerArchiver\unins000.dat100%  
+	    New File  		   1.1 m	F:\ProgramFiles\_Archivers\PowerArchiver\unins000.exe100%  
+	    New File  		   24007	F:\ProgramFiles\_Archivers\PowerArchiver\unins000.msg100%  
+	    New File  		   43184	F:\ProgramFiles\_Archivers\PowerArchiver\vss_2k3.exe100%  
+	    New File  		   19560	F:\ProgramFiles\_Archivers\PowerArchiver\vss_ctrl.dll100%  
+	    New File  		   70320	F:\ProgramFiles\_Archivers\PowerArchiver\vss_ctrl64.dll100%  
+	    New File  		   42672	F:\ProgramFiles\_Archivers\PowerArchiver\vss_x64.exe100%  
+	    New File  		   43184	F:\ProgramFiles\_Archivers\PowerArchiver\vss_xp.exe100%  
+	    New File  		   1.7 m	F:\ProgramFiles\_Archivers\PowerArchiver\WnASPI32.dll100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\wodCertificate.dll100%  
+	    New File  		   1.6 m	F:\ProgramFiles\_Archivers\PowerArchiver\wodCertificate64.dll100%  
+	    New File  		   1.8 m	F:\ProgramFiles\_Archivers\PowerArchiver\wodFtpDLX.dll100%  
+	    New File  		   2.6 m	F:\ProgramFiles\_Archivers\PowerArchiver\wodFtpDLX64.dll100%  
+	    New File  		      22	F:\ProgramFiles\_Archivers\PowerArchiver\ZIPNEW.DAT100%  
+	    New File  		   6.5 m	F:\ProgramFiles\_Archivers\PowerArchiver\_pasHLEXT(1).DLL100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\_pasHLEXT(2).DLL100%  
+	    New File  		   2.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\_pasHLEXT(3).DLL100%  
+	    New File  		   3.5 m	F:\ProgramFiles\_Archivers\PowerArchiver\_pasHLEXT64(1).DLL100%  
+	    New File  		   1.5 m	F:\ProgramFiles\_Archivers\PowerArchiver\_pasHLEXT64(2).DLL100%  
+	    New File  		   3.2 m	F:\ProgramFiles\_Archivers\PowerArchiver\_pasHLEXT64(3).DLL100%  
+	    New File  		   1.3 m	F:\ProgramFiles\_Archivers\PowerArchiver\_pautil.exe100%  
+	    New File  		   22528	F:\ProgramFiles\_Archivers\pZLib\b2p.dll100%  
+	    New File  		   37888	F:\ProgramFiles\_Archivers\pZLib\botva2.dll100%  
+	    New File  		    4096	F:\ProgramFiles\_Archivers\pZLib\CallbackCtrl.dll100%  
+	    New File  		   87552	F:\ProgramFiles\_Archivers\pZLib\CLS-srep.dll100%  
+	    New File  		     131	F:\ProgramFiles\_Archivers\pZLib\CLS.ini100%  
+	    New File  		   15678	F:\ProgramFiles\_Archivers\pZLib\English.ini100%  
+	    New File  		  168960	F:\ProgramFiles\_Archivers\pZLib\facompress.dll100%  
+	    New File  		   74752	F:\ProgramFiles\_Archivers\pZLib\hif2raw_dll.dll100%  
+	    New File  		  463360	F:\ProgramFiles\_Archivers\pZLib\ISDone.dll100%  
+	    New File  		  395184	F:\ProgramFiles\_Archivers\pZLib\isskin.dll100%  
+	    New File  		   1.2 m	F:\ProgramFiles\_Archivers\pZLib\pZLib.exe100%  
+	    New File  		   86016	F:\ProgramFiles\_Archivers\pZLib\raw2hif_dll.dll100%  
+	    New File  		     108	F:\ProgramFiles\_Archivers\pZLib\records.inf100%  
+	    New File  		   15632	F:\ProgramFiles\_Archivers\pZLib\Russian.ini100%  
+	    New File  		  656384	F:\ProgramFiles\_Archivers\pZLib\skin.tm100%  
+	    New File  		  341504	F:\ProgramFiles\_Archivers\pZLib\unarc.dll100%  
+	    New File  		  321024	F:\ProgramFiles\_Archivers\pZLib\unarc.exe100%  
+	    New File  		   16887	F:\ProgramFiles\_Archivers\Universal Extractor\changelog.txt100%  
+	    New File  		    9130	F:\ProgramFiles\_Archivers\Universal Extractor\English.ini100%  
+	    New File  		   18351	F:\ProgramFiles\_Archivers\Universal Extractor\license.txt100%  
+	    New File  		  355909	F:\ProgramFiles\_Archivers\Universal Extractor\UniExtract.exe100%  
+	    New File  		   25214	F:\ProgramFiles\_Archivers\Universal Extractor\UniExtract.ico100%  
+	    New File  		     210	F:\ProgramFiles\_Archivers\Universal Extractor\UniExtract.ini100%  
+	    New File  		   88357	F:\ProgramFiles\_Archivers\Universal Extractor\unins000.dat100%  
+	    New File  		   1.1 m	F:\ProgramFiles\_Archivers\Universal Extractor\unins000.exe100%  
+	    New File  		      79	F:\ProgramFiles\_Archivers\Universal Extractor\uninsTasks.txt100%  
+	    New File  		    7639	F:\ProgramFiles\_Archivers\peazip_portable\copying.txt100%  
+	    New File  		   6.8 m	F:\ProgramFiles\_Archivers\peazip_portable\peazip.exe100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\peazip_portable\peazip_help.pdf100%  
+	    New File  		    1576	F:\ProgramFiles\_Archivers\peazip_portable\readme_Win64_standalone.txt100%  
+	    New File  		    2098	F:\ProgramFiles\_Archivers\peazip_portable\SendTo.7z100%  
+	    New File  		  209408	F:\ProgramFiles\_Archivers\WinRAR\7zxa.dll100%  
+	    New File  		  317440	F:\ProgramFiles\_Archivers\WinRAR\Default.SFX100%  
+	    New File  		  368128	F:\ProgramFiles\_Archivers\WinRAR\Default64.SFX100%  
+	    New File  		  316928	F:\ProgramFiles\_Archivers\WinRAR\DefaultEn.SFX100%  
+	    New File  		  367616	F:\ProgramFiles\_Archivers\WinRAR\DefaultEn64.SFX100%  
+	    New File  		  633496	F:\ProgramFiles\_Archivers\WinRAR\Rar.exe100%  
+	    New File  		  247750	F:\ProgramFiles\_Archivers\WinRAR\Rar.txt100%  
+	    New File  		  571544	F:\ProgramFiles\_Archivers\WinRAR\RarExt.dll100%  
+	    New File  		  496792	F:\ProgramFiles\_Archivers\WinRAR\RarExt32.dll100%  
+	    New File  		    2130	F:\ProgramFiles\_Archivers\WinRAR\RarFiles.lst100%  
+	    New File  		  971776	F:\ProgramFiles\_Archivers\WinRAR\RarLng.dll100%  
+	    New File  		      24	F:\ProgramFiles\_Archivers\WinRAR\rarnew.dat100%  
+	    New File  		     478	F:\ProgramFiles\_Archivers\WinRAR\rarreg.key100%  
+	    New File  		  422552	F:\ProgramFiles\_Archivers\WinRAR\UnRAR.exe100%  
+	    New File  		  333456	F:\ProgramFiles\_Archivers\WinRAR\WhatsNew.txt100%  
+	    New File  		  286720	F:\ProgramFiles\_Archivers\WinRAR\WinCon.SFX100%  
+	    New File  		  336896	F:\ProgramFiles\_Archivers\WinRAR\WinCon64.SFX100%  
+	    New File  		  282624	F:\ProgramFiles\_Archivers\WinRAR\WinConEn.SFX100%  
+	    New File  		  332800	F:\ProgramFiles\_Archivers\WinRAR\WinConEn64.SFX100%  
+	    New File  		  396814	F:\ProgramFiles\_Archivers\WinRAR\WinRAR.chm100%  
+	    New File  		   2.5 m	F:\ProgramFiles\_Archivers\WinRAR\WinRAR.exe100%  
+	    New File  		  271360	F:\ProgramFiles\_Archivers\WinRAR\Zip.SFX100%  
+	    New File  		  303104	F:\ProgramFiles\_Archivers\WinRAR\Zip64.SFX100%  
+	    New File  		  270848	F:\ProgramFiles\_Archivers\WinRAR\ZipEn.SFX100%  
+	    New File  		  302592	F:\ProgramFiles\_Archivers\WinRAR\ZipEn64.SFX100%  
+	    New File  		  919928	F:\ProgramFiles\_Archivers\_PowerArchiver2014\7Z.DLL100%  
+	    New File  		   95040	F:\ProgramFiles\_Archivers\_PowerArchiver2014\CABINET.DLL100%  
+	    New File  		     220	F:\ProgramFiles\_Archivers\_PowerArchiver2014\desktop.ini100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\_PowerArchiver2014\libeay32.dll100%  
+	    New File  		   4.8 m	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PABackup.exe 61%  100%  
+	    New File  		   2.7 m	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PABURNER120.DLL100%  
+	    New File  		   2.9 m	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PABURNTOOLS.EXE100%  
+	    New File  		  299328	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PACLIB.DLL100%  
+	    New File  		   8.9 m	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PACLOUD.EXE 55%  100%  
+	    New File  		  13.6 m	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PAES.EXE 43%   58%   73%  100%  
+	    New File  		   18472	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PAISO.DLL100%  
+	    New File  		   11224	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PARAR.DLL100%  
+	    New File  		   4.6 m	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PASHLEXT.DLL100%  
+	    New File  		   2.2 m	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PASHLEXT64.DLL100%  
+	    New File  		   1.4 m	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PASTARTER.EXE100%  
+	    New File  		  444792	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PAUAC.DLL100%  
+	    New File  		  387064	F:\ProgramFiles\_Archivers\_PowerArchiver2014\PAUNRAR5.DLL100%  
+	    New File  		   57336	F:\ProgramFiles\_Archivers\_PowerArchiver2014\pautil2.dll100%  
+	    New File  		  10.9 m	F:\ProgramFiles\_Archivers\_PowerArchiver2014\POWERARC.EXE100%  
+	    New File  		  221184	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ssleay32.dll100%  
+	    New File  		  769496	F:\ProgramFiles\_Archivers\_PowerArchiver2014\STARBURN.DLL100%  
+	    New File  		    1405	F:\ProgramFiles\_Archivers\_PowerArchiver2014\TUTOR1.ZIP100%  
+	    New File  		   82984	F:\ProgramFiles\_Archivers\_PowerArchiver2014\UNACEV2.DLL100%  
+	    New File  		   34168	F:\ProgramFiles\_Archivers\_PowerArchiver2014\vss_2k3.exe100%  
+	    New File  		   10616	F:\ProgramFiles\_Archivers\_PowerArchiver2014\vss_ctrl.dll100%  
+	    New File  		   33656	F:\ProgramFiles\_Archivers\_PowerArchiver2014\vss_x64.exe100%  
+	    New File  		   34168	F:\ProgramFiles\_Archivers\_PowerArchiver2014\vss_xp.exe100%  
+	    New File  		   1.7 m	F:\ProgramFiles\_Archivers\_PowerArchiver2014\WnASPI32.dll100%  
+	    New File  		  854912	F:\ProgramFiles\_Archivers\_PowerArchiver2014\wodCertificate.dll100%  
+	    New File  		   1.3 m	F:\ProgramFiles\_Archivers\_PowerArchiver2014\wodFtpDLX.dll100%  
+	    New File  		      22	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ZIPNEW.DAT100%  
+	    New File  		  122872	F:\ProgramFiles\_Archivers\_PowerArchiver2014\_PAUTIL.EXE100%  
+	    New File  		   12800	F:\ProgramFiles\_Archivers\7-Zip\Codecs\7zAES.dll100%  
+	    New File  		   30208	F:\ProgramFiles\_Archivers\7-Zip\Codecs\AES.dll100%  
+	    New File  		   19968	F:\ProgramFiles\_Archivers\7-Zip\Codecs\Branch.dll100%  
+	    New File  		   22016	F:\ProgramFiles\_Archivers\7-Zip\Codecs\BZip2.dll100%  
+	    New File  		    5632	F:\ProgramFiles\_Archivers\7-Zip\Codecs\Copy.dll100%  
+	    New File  		   27136	F:\ProgramFiles\_Archivers\7-Zip\Codecs\Deflate.dll100%  
+	    New File  		   73728	F:\ProgramFiles\_Archivers\7-Zip\Codecs\LZMA.dll100%  
+	    New File  		   24064	F:\ProgramFiles\_Archivers\7-Zip\Codecs\PPMd.dll100%  
+	    New File  		   46080	F:\ProgramFiles\_Archivers\7-Zip\Codecs\Rar29.dll100%  
+	    New File  		    5632	F:\ProgramFiles\_Archivers\7-Zip\Codecs\Swap.dll100%  
+	    New File  		  140288	F:\ProgramFiles\_Archivers\7-Zip\Formats\7z.dll100%  
+	    New File  		   26112	F:\ProgramFiles\_Archivers\7-Zip\Formats\arj.dll100%  
+	    New File  		   20480	F:\ProgramFiles\_Archivers\7-Zip\Formats\bz2.dll100%  
+	    New File  		   35328	F:\ProgramFiles\_Archivers\7-Zip\Formats\cab.dll100%  
+	    New File  		   17920	F:\ProgramFiles\_Archivers\7-Zip\Formats\cpio.dll100%  
+	    New File  		   18432	F:\ProgramFiles\_Archivers\7-Zip\Formats\deb.dll100%  
+	    New File  		   26624	F:\ProgramFiles\_Archivers\7-Zip\Formats\gz.dll100%  
+	    New File  		   57856	F:\ProgramFiles\_Archivers\7-Zip\Formats\rar.dll100%  
+	    New File  		   12800	F:\ProgramFiles\_Archivers\7-Zip\Formats\rpm.dll100%  
+	    New File  		   22016	F:\ProgramFiles\_Archivers\7-Zip\Formats\split.dll100%  
+	    New File  		   28672	F:\ProgramFiles\_Archivers\7-Zip\Formats\tar.dll100%  
+	    New File  		   15360	F:\ProgramFiles\_Archivers\7-Zip\Formats\z.dll100%  
+	    New File  		   66048	F:\ProgramFiles\_Archivers\7-Zip\Formats\zip.dll100%  
+	    New File  		    5176	F:\ProgramFiles\_Archivers\7-Zip\Lang\af.txt100%  
+	    New File  		    7885	F:\ProgramFiles\_Archivers\7-Zip\Lang\an.txt  0%  100%  
+	    New File  		   12595	F:\ProgramFiles\_Archivers\7-Zip\Lang\ar.txt100%  
+	    New File  		    5441	F:\ProgramFiles\_Archivers\7-Zip\Lang\ast.txt100%  
+	    New File  		    9625	F:\ProgramFiles\_Archivers\7-Zip\Lang\az.txt100%  
+	    New File  		   11261	F:\ProgramFiles\_Archivers\7-Zip\Lang\ba.txt100%  
+	    New File  		   12193	F:\ProgramFiles\_Archivers\7-Zip\Lang\be.txt100%  
+	    New File  		   13231	F:\ProgramFiles\_Archivers\7-Zip\Lang\bg.txt100%  
+	    New File  		   15062	F:\ProgramFiles\_Archivers\7-Zip\Lang\bn.txt100%  
+	    New File  		    5481	F:\ProgramFiles\_Archivers\7-Zip\Lang\br.txt100%  
+	    New File  		    9375	F:\ProgramFiles\_Archivers\7-Zip\Lang\ca.txt100%  
+	    New File  		   10395	F:\ProgramFiles\_Archivers\7-Zip\Lang\co.txt100%  
+	    New File  		    7691	F:\ProgramFiles\_Archivers\7-Zip\Lang\cs.txt100%  
+	    New File  		    5278	F:\ProgramFiles\_Archivers\7-Zip\Lang\cy.txt100%  
+	    New File  		    8365	F:\ProgramFiles\_Archivers\7-Zip\Lang\da.txt100%  
+	    New File  		    9638	F:\ProgramFiles\_Archivers\7-Zip\Lang\de.txt100%  
+	    New File  		   17042	F:\ProgramFiles\_Archivers\7-Zip\Lang\el.txt100%  
+	    New File  		    7628	F:\ProgramFiles\_Archivers\7-Zip\Lang\en.ttt100%  
+	    New File  		    5314	F:\ProgramFiles\_Archivers\7-Zip\Lang\eo.txt100%  
+	    New File  		    9797	F:\ProgramFiles\_Archivers\7-Zip\Lang\es.txt100%  
+	    New File  		    7214	F:\ProgramFiles\_Archivers\7-Zip\Lang\et.txt100%  
+	    New File  		    8894	F:\ProgramFiles\_Archivers\7-Zip\Lang\eu.txt100%  
+	    New File  		    7791	F:\ProgramFiles\_Archivers\7-Zip\Lang\ext.txt100%  
+	    New File  		   10768	F:\ProgramFiles\_Archivers\7-Zip\Lang\fa.txt100%  
+	    New File  		    8734	F:\ProgramFiles\_Archivers\7-Zip\Lang\fi.txt100%  
+	    New File  		    9910	F:\ProgramFiles\_Archivers\7-Zip\Lang\fr.txt100%  
+	    New File  		    7679	F:\ProgramFiles\_Archivers\7-Zip\Lang\fur.txt100%  
+	    New File  		    6498	F:\ProgramFiles\_Archivers\7-Zip\Lang\fy.txt100%  
+	    New File  		    8394	F:\ProgramFiles\_Archivers\7-Zip\Lang\ga.txt100%  
+	    New File  		    9246	F:\ProgramFiles\_Archivers\7-Zip\Lang\gl.txt100%  
+	    New File  		   18258	F:\ProgramFiles\_Archivers\7-Zip\Lang\gu.txt100%  
+	    New File  		    9638	F:\ProgramFiles\_Archivers\7-Zip\Lang\he.txt100%  
+	    New File  		   18290	F:\ProgramFiles\_Archivers\7-Zip\Lang\hi.txt100%  
+	    New File  		    8620	F:\ProgramFiles\_Archivers\7-Zip\Lang\hr.txt100%  
+	    New File  		    8134	F:\ProgramFiles\_Archivers\7-Zip\Lang\hu.txt100%  
+	    New File  		   14158	F:\ProgramFiles\_Archivers\7-Zip\Lang\hy.txt100%  
+	    New File  		    8426	F:\ProgramFiles\_Archivers\7-Zip\Lang\id.txt100%  
+	    New File  		    5074	F:\ProgramFiles\_Archivers\7-Zip\Lang\io.txt100%  
+	    New File  		    8167	F:\ProgramFiles\_Archivers\7-Zip\Lang\is.txt100%  
+	    New File  		    9712	F:\ProgramFiles\_Archivers\7-Zip\Lang\it.txt100%  
+	    New File  		   11467	F:\ProgramFiles\_Archivers\7-Zip\Lang\ja.txt100%  
+	    New File  		   18205	F:\ProgramFiles\_Archivers\7-Zip\Lang\ka.txt100%  
+	    New File  		    8102	F:\ProgramFiles\_Archivers\7-Zip\Lang\kaa.txt100%  
+	    New File  		    8592	F:\ProgramFiles\_Archivers\7-Zip\Lang\kab.txt100%  
+	    New File  		   10732	F:\ProgramFiles\_Archivers\7-Zip\Lang\kk.txt100%  
+	    New File  		    9900	F:\ProgramFiles\_Archivers\7-Zip\Lang\ko.txt100%  
+	    New File  		   12360	F:\ProgramFiles\_Archivers\7-Zip\Lang\ku-ckb.txt100%  
+	    New File  		    5841	F:\ProgramFiles\_Archivers\7-Zip\Lang\ku.txt100%  
+	    New File  		   12614	F:\ProgramFiles\_Archivers\7-Zip\Lang\ky.txt100%  
+	    New File  		    7882	F:\ProgramFiles\_Archivers\7-Zip\Lang\lij.txt100%  
+	    New File  		    9607	F:\ProgramFiles\_Archivers\7-Zip\Lang\lt.txt100%  
+	    New File  		    5490	F:\ProgramFiles\_Archivers\7-Zip\Lang\lv.txt100%  
+	    New File  		    8934	F:\ProgramFiles\_Archivers\7-Zip\Lang\mk.txt100%  
+	    New File  		    8680	F:\ProgramFiles\_Archivers\7-Zip\Lang\mn.txt100%  
+	    New File  		   20722	F:\ProgramFiles\_Archivers\7-Zip\Lang\mng.txt100%  
+	    New File  		   22220	F:\ProgramFiles\_Archivers\7-Zip\Lang\mng2.txt100%  
+	    New File  		   10948	F:\ProgramFiles\_Archivers\7-Zip\Lang\mr.txt100%  
+	    New File  		    5244	F:\ProgramFiles\_Archivers\7-Zip\Lang\ms.txt100%  
+	    New File  		    6116	F:\ProgramFiles\_Archivers\7-Zip\Lang\nb.txt100%  
+	    New File  		   13609	F:\ProgramFiles\_Archivers\7-Zip\Lang\ne.txt  0%  100%  
+	    New File  		    9170	F:\ProgramFiles\_Archivers\7-Zip\Lang\nl.txt100%  
+	    New File  		    5987	F:\ProgramFiles\_Archivers\7-Zip\Lang\nn.txt100%  
+	    New File  		   10354	F:\ProgramFiles\_Archivers\7-Zip\Lang\no.txt100%  
+	    New File  		   15022	F:\ProgramFiles\_Archivers\7-Zip\Lang\pa-in.txt100%  
+	    New File  		    8951	F:\ProgramFiles\_Archivers\7-Zip\Lang\pl.txt100%  
+	    New File  		    8671	F:\ProgramFiles\_Archivers\7-Zip\Lang\ps.txt100%  
+	    New File  		    9493	F:\ProgramFiles\_Archivers\7-Zip\Lang\pt-br.txt100%  
+	    New File  		    9444	F:\ProgramFiles\_Archivers\7-Zip\Lang\pt.txt100%  
+	    New File  		    7675	F:\ProgramFiles\_Archivers\7-Zip\Lang\ro.txt100%  
+	    New File  		   14667	F:\ProgramFiles\_Archivers\7-Zip\Lang\ru.txt100%  
+	    New File  		   19628	F:\ProgramFiles\_Archivers\7-Zip\Lang\sa.txt100%  
+	    New File  		   16972	F:\ProgramFiles\_Archivers\7-Zip\Lang\si.txt100%  
+	    New File  		    9372	F:\ProgramFiles\_Archivers\7-Zip\Lang\sk.txt100%  
+	    New File  		    6507	F:\ProgramFiles\_Archivers\7-Zip\Lang\sl.txt100%  
+	    New File  		    6067	F:\ProgramFiles\_Archivers\7-Zip\Lang\sq.txt100%  
+	    New File  		   11993	F:\ProgramFiles\_Archivers\7-Zip\Lang\sr-spc.txt100%  
+	    New File  		    7169	F:\ProgramFiles\_Archivers\7-Zip\Lang\sr-spl.txt100%  
+	    New File  		    5314	F:\ProgramFiles\_Archivers\7-Zip\Lang\sr.txt100%  
+	    New File  		    7236	F:\ProgramFiles\_Archivers\7-Zip\Lang\sv.txt100%  
+	    New File  		   12935	F:\ProgramFiles\_Archivers\7-Zip\Lang\ta.txt100%  
+	    New File  		   16219	F:\ProgramFiles\_Archivers\7-Zip\Lang\th.txt100%  
+	    New File  		    7165	F:\ProgramFiles\_Archivers\7-Zip\Lang\tr.txt100%  
+	    New File  		   14202	F:\ProgramFiles\_Archivers\7-Zip\Lang\tt.txt100%  
+	    New File  		   11386	F:\ProgramFiles\_Archivers\7-Zip\Lang\ug.txt100%  
+	    New File  		   15180	F:\ProgramFiles\_Archivers\7-Zip\Lang\uk.txt100%  
+	    New File  		    7304	F:\ProgramFiles\_Archivers\7-Zip\Lang\uz.txt100%  
+	    New File  		    6549	F:\ProgramFiles\_Archivers\7-Zip\Lang\va.txt100%  
+	    New File  		    8515	F:\ProgramFiles\_Archivers\7-Zip\Lang\vi.txt100%  
+	    New File  		    8606	F:\ProgramFiles\_Archivers\7-Zip\Lang\vr.txt100%  
+	    New File  		   11044	F:\ProgramFiles\_Archivers\7-Zip\Lang\yo.txt100%  
+	    New File  		    8109	F:\ProgramFiles\_Archivers\7-Zip\Lang\zh-cn.txt100%  
+	    New File  		    8058	F:\ProgramFiles\_Archivers\7-Zip\Lang\zh-tw.txt100%  
+	    New File  		   2.1 m	F:\ProgramFiles\_Archivers\PowerArchiver\64\libeay32.dll 22%  100%  
+	    New File  		  386560	F:\ProgramFiles\_Archivers\PowerArchiver\64\ssleay32.dll100%  
+	    New File  		    7889	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE.TXT100%  
+	    New File  		    7921	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_BR.TXT100%  
+	    New File  		    6876	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_BY.TXT100%  
+	    New File  		    6964	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_CZ.TXT100%  
+	    New File  		    7889	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_DK.TXT100%  
+	    New File  		    7441	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_DU.TXT100%  
+	    New File  		    7129	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_ES.TXT100%  
+	    New File  		    7940	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_FI.TXT100%  
+	    New File  		    6860	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_FR.TXT100%  
+	    New File  		    8696	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_G.TXT100%  
+	    New File  		    7788	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_HE.TXT100%  
+	    New File  		    7889	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_HR.TXT100%  
+	    New File  		    8342	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_I.TXT100%  
+	    New File  		    8217	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_IND.TXT100%  
+	    New File  		    5917	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_JP.TXT100%  
+	    New File  		    5948	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_KO.TXT100%  
+	    New File  		   15795	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_PL.TXT100%  
+	    New File  		    7859	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_PT.TXT100%  
+	    New File  		    7115	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_RU.TXT100%  
+	    New File  		    4015	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_SC.TXT100%  
+	    New File  		    7241	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_SK.TXT100%  
+	    New File  		    4015	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_TC.TXT100%  
+	    New File  		    7463	F:\ProgramFiles\_Archivers\PowerArchiver\docs\LICENSE_UK.TXT100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\icons\cloud_close_window.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\icons\cloud_clouds.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\icons\cloud_configure.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\icons\cloud_copylink.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\icons\cloud_delete.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\icons\cloud_Download.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\icons\cloud_help.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\icons\cloud_new_folder.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\icons\cloud_rename.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\icons\cloud_upload.ico100%  
+	    New File  		    1150	F:\ProgramFiles\_Archivers\PowerArchiver\icons\ENC.ICO100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\icons\extract.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\icons\folder.ico100%  
+	    New File  		   10134	F:\ProgramFiles\_Archivers\PowerArchiver\icons\INSTALL.ICO  0%  100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\icons\open.ico100%  
+	    New File  		   35764	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PA100.ico100%  
+	    New File  		   33255	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PA7Z100.ICO100%  
+	    New File  		   34681	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PAACE100.ICO100%  
+	    New File  		   32625	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PAARC100.ICO100%  
+	    New File  		   32625	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PAARJ100.ICO100%  
+	    New File  		   32625	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PABH100.ICO100%  
+	    New File  		   33950	F:\ProgramFiles\_Archivers\PowerArchiver\icons\pabz100.ico100%  
+	    New File  		   34963	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PABZIP100.ico100%  
+	    New File  		   35262	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PACAB100.ICO100%  
+	    New File  		   34457	F:\ProgramFiles\_Archivers\PowerArchiver\icons\pachm100.ico100%  
+	    New File  		   45952	F:\ProgramFiles\_Archivers\PowerArchiver\icons\paftp.ico100%  
+	    New File  		   34535	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PAGZIP100.ico100%  
+	    New File  		   35539	F:\ProgramFiles\_Archivers\PowerArchiver\icons\paiso100.ico100%  
+	    New File  		   34913	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PAJAR100.ico100%  
+	    New File  		   33380	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PALHA100.ICO100%  
+	    New File  		   34372	F:\ProgramFiles\_Archivers\PowerArchiver\icons\palzma100.ico100%  
+	    New File  		   27192	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PAPA100.ico100%  
+	    New File  		   41596	F:\ProgramFiles\_Archivers\PowerArchiver\icons\papae100.ico100%  
+	    New File  		   35254	F:\ProgramFiles\_Archivers\PowerArchiver\icons\papbs100.ico100%  
+	    New File  		   41163	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PAPGP100.ico100%  
+	    New File  		   32625	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PAPSF100.ico100%  
+	    New File  		   34409	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PARAR100.ICO100%  
+	    New File  		   34365	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PATAR100.ICO100%  
+	    New File  		   34646	F:\ProgramFiles\_Archivers\PowerArchiver\icons\patgz100.ico100%  
+	    New File  		   34761	F:\ProgramFiles\_Archivers\PowerArchiver\icons\pawim100.ico100%  
+	    New File  		   34543	F:\ProgramFiles\_Archivers\PowerArchiver\icons\paxz100.ico100%  
+	    New File  		   33940	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PAZIP100.ICO100%  
+	    New File  		   35220	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PAZIPX100.ICO100%  
+	    New File  		   32625	F:\ProgramFiles\_Archivers\PowerArchiver\icons\PAZOO100.ICO100%  
+	    New File  		   35569	F:\ProgramFiles\_Archivers\PowerArchiver\icons\pazpaq100.ico100%  
+	    New File  		   62028	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-ar-SA.ashlang100%  
+	    New File  		   83562	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-ca-ES.ashLang100%  
+	    New File  		   82470	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-cs-CZ.ashLang100%  
+	    New File  		   81934	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-da-DK.ashLang100%  
+	    New File  		   84592	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-de-DE.ashLang100%  
+	    New File  		   85374	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-el-GR.ashLang100%  
+	    New File  		   61748	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-en-US.ashlang100%  
+	    New File  		   83928	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-es-ar.ashlang100%  
+	    New File  		   83696	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-es-ES.ashLang100%  
+	    New File  		   82516	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-fi-FI.ashLang100%  
+	    New File  		   83660	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-fr-FR.ashlang100%  
+	    New File  		   78388	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-he-IL.ashlang  0%  100%  
+	    New File  		   82702	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-hr-HR.ashlang100%  
+	    New File  		   66522	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-hu-HU.ashlang100%  
+	    New File  		   83148	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-id-ID.ashLang100%  
+	    New File  		   84572	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-it-IT.ashLang100%  
+	    New File  		   74342	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-ja-JP.ashLang100%  
+	    New File  		   73956	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-ko-KR.ashLang100%  
+	    New File  		   83584	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-nl-NL.ashlang100%  
+	    New File  		   81704	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-nn-NO.ashLang100%  
+	    New File  		   83146	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-pl-PL.ashLang100%  
+	    New File  		   83388	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-pt-BR.ashLang100%  
+	    New File  		   84426	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-ro-RO.ashLang100%  
+	    New File  		   83096	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-ru-RU.ashLang100%  
+	    New File  		   82536	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-sk-SK.ashLang100%  
+	    New File  		   83344	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-sl-SI.ashLang100%  
+	    New File  		   83346	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-sr-RS.ashLang100%  
+	    New File  		   81634	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-sr-YU.ashLang100%  
+	    New File  		   81832	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-sv-SE.ashLang100%  
+	    New File  		   82804	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-tr-TR.ashLang100%  
+	    New File  		   82842	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-uk-UA.ashLang100%  
+	    New File  		   71138	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-zh-CN.ashLang100%  
+	    New File  		   71346	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd-zh-TW.ashLang100%  
+	    New File  		  953838	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pavd_fr-fr.ashLang 27%  100%  
+	    New File  		  703508	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-ar-SA.ashlang100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-ca-ES.ashlang100%  
+	    New File  		 1039888	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-cs-CZ.ashlang100%  
+	    New File  		 1030350	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-da-DK.ashLang100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-de-DE.ashlang100%  
+	    New File  		  966636	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-el-GR.ashLang100%  
+	    New File  		  782858	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-en-US.ashlang100%  
+	    New File  		  948788	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-es-ar.ashlang100%  
+	    New File  		 1031528	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-es-ES.ashlang100%  
+	    New File  		 1039348	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-fi-FI.ashlang100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-fr-FR.ashlang 24%  100%  
+	    New File  		  979984	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-he-IL.ashlang100%  
+	    New File  		  942232	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-hr-HR.ashlang100%  
+	    New File  		 1033808	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-hu-HU.ashlang100%  
+	    New File  		  944086	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-id-ID.ashLang100%  
+	    New File  		  963686	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-it-IT.ashLang100%  
+	    New File  		  774984	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-ja-JP.ashlang100%  
+	    New File  		  845884	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-ko-KR.ashLang100%  
+	    New File  		 1042488	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-nl-NL.ashlang 25%  100%  
+	    New File  		  929168	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-nn-NO.ashLang100%  
+	    New File  		 1040752	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-pl-PL.ashlang100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-pt-BR.ashlang100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-pt-PT.ashlang100%  
+	    New File  		  947578	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-ro-RO.ashLang100%  
+	    New File  		  942640	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-ru-RU.ashLang100%  
+	    New File  		 1035606	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-sk-SK.ashlang100%  
+	    New File  		 1034824	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-sl-SI.ashlang 25%  100%  
+	    New File  		 1039038	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-sr-RS.ashlang100%  
+	    New File  		 1041348	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-sr-YU.ashlang100%  
+	    New File  		 1030024	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-sv-SE.ashlang100%  
+	    New File  		  931086	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-tr-TR.ashLang100%  
+	    New File  		  893156	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-uk-UA.ashLang100%  
+	    New File  		  896352	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-zh-CN.ashlang100%  
+	    New File  		  898612	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip-zh-TW.ashlang  0%  100%  
+	    New File  		  941778	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazip_fr-fr.ashlang100%  
+	    New File  		   11152	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-ar-SA.ashLang100%  
+	    New File  		   13850	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-ca-ES.ashLang100%  
+	    New File  		   14138	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-cs-CZ.ashLang100%  
+	    New File  		   13650	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-da-DK.ashLang100%  
+	    New File  		   14012	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-de-DE.ashLang100%  
+	    New File  		   14288	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-el-GR.ashLang100%  
+	    New File  		   10874	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-en-US.ashLang100%  
+	    New File  		   14116	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-es-ar.ashlang100%  
+	    New File  		   13974	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-es-ES.ashLang100%  
+	    New File  		   13884	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-fi-FI.ashLang100%  
+	    New File  		   14138	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-fr-FR.ashlang100%  
+	    New File  		   13244	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-he-IL.ashlang100%  
+	    New File  		   13836	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-hr-HR.ashlang100%  
+	    New File  		   14038	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-hu-HU.ashLang100%  
+	    New File  		   13820	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-id-ID.ashLang100%  
+	    New File  		   14044	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-it-IT.ashLang100%  
+	    New File  		   12948	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-ja-JP.ashLang100%  
+	    New File  		   13022	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-ko-KR.ashLang100%  
+	    New File  		   14100	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-nl-NL.ashLang100%  
+	    New File  		   13994	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-nn-NO.ashLang100%  
+	    New File  		   13964	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-pl-PL.ashLang100%  
+	    New File  		   14014	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-pt-BR.ashLang100%  
+	    New File  		   13940	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-ro-RO.ashLang100%  
+	    New File  		   14172	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-ru-RU.ashLang100%  
+	    New File  		   13912	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-sk-SK.ashLang100%  
+	    New File  		   13906	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-sl-SI.ashLang100%  
+	    New File  		   13796	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-sr-RS.ashLang100%  
+	    New File  		   13886	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-sr-YU.ashLang100%  
+	    New File  		   13956	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-sv-SE.ashLang100%  
+	    New File  		   14058	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-tr-TR.ashLang100%  
+	    New File  		   14048	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-uk-UA.ashLang100%  
+	    New File  		   12538	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-zh-CN.ashlang100%  
+	    New File  		   12800	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse-zh-TW.ashLang100%  
+	    New File  		   14042	F:\ProgramFiles\_Archivers\PowerArchiver\lang\pazse_fr-fr.ashLang100%  
+	    New File  		  168040	F:\ProgramFiles\_Archivers\PowerArchiver\PatchBeam\patchbeam-service.exe100%  
+	    New File  		  168552	F:\ProgramFiles\_Archivers\PowerArchiver\PatchBeam\patchbeam-serviced.exe100%  
+	    New File  		   8.2 m	F:\ProgramFiles\_Archivers\PowerArchiver\PatchBeam\patchbeam.exe  0%   12%   48%  100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\PowerArchiver\PatchBeam\pa_lang2.dll100%  
+	    New File  		   49299	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PACABSFX.DAT100%  
+	    New File  		   49444	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_BY.dat100%  
+	    New File  		   49627	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_cs-CZ.dat100%  
+	    New File  		   49401	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_da-DK.dat100%  
+	    New File  		   49719	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PACABSFX_de-DE.DAT100%  
+	    New File  		   49643	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_es-ES.dat100%  
+	    New File  		   49695	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_fi-FI.dat100%  
+	    New File  		   49505	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_fr-FR.dat100%  
+	    New File  		   49063	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_he.dat100%  
+	    New File  		   49561	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_hr-HR.dat100%  
+	    New File  		   49523	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_id-ID.dat100%  
+	    New File  		   49818	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_it-IT.dat100%  
+	    New File  		   47908	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_JP.dat100%  
+	    New File  		   49337	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_ko-KR.dat100%  
+	    New File  		   49553	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_nl-NL.dat100%  
+	    New File  		   49423	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_pl-PL.dat100%  
+	    New File  		   49569	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PACABSFX_pt-BR.DAT100%  
+	    New File  		   49615	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_PT.dat100%  
+	    New File  		   49429	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_ru-RU.dat100%  
+	    New File  		   49320	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_sk-SK.dat100%  
+	    New File  		   49609	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_uk-UA.dat100%  
+	    New File  		   48781	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_zh-CN.dat100%  
+	    New File  		   48771	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pacabsfx_zh-TW.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\papaesfx_BY.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\papaesfx_cs-CZ.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\papaesfx_da-DK.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_de-DE.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_es-ES.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_fi-FI.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_fr-FR.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\papaesfx_he.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_hr-HR.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\papaesfx_id-ID.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\papaesfx_it-IT.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_JP.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\papaesfx_ko-KR.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_nl-NL.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_pl-PL.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_pt-BR.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_PT.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_ru-RU.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_sk-SK.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_uk-UA.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_zh-CN.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAPAESFX_zh-TW.DAT100%  
+	    New File  		  329809	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PASZIPSFX.DAT100%  
+	    New File  		  305891	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_BY.dat100%  
+	    New File  		  306076	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_cs-CZ.dat100%  
+	    New File  		  329911	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_da-DK.dat100%  
+	    New File  		  330288	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PASZIPSFX_de-DE.DAT100%  
+	    New File  		  330148	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_es-ES.dat100%  
+	    New File  		  304092	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_fi-FI.dat100%  
+	    New File  		  330011	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_fr-FR.dat100%  
+	    New File  		  329568	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_he.dat100%  
+	    New File  		  330067	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_hr-HR.dat100%  
+	    New File  		  306003	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_id-ID.dat100%  
+	    New File  		  306262	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_it-IT.dat100%  
+	    New File  		  300804	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_JP.dat100%  
+	    New File  		  329881	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_ko-KR.dat100%  
+	    New File  		  302422	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_nl-NL.dat100%  
+	    New File  		  329933	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_pl-PL.dat100%  
+	    New File  		  306012	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PASZIPSFX_pt-BR.DAT100%  
+	    New File  		  302513	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_PT.dat100%  
+	    New File  		  329923	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_ru-RU.dat100%  
+	    New File  		  302187	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_sk-SK.dat100%  
+	    New File  		  330111	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_uk-UA.dat100%  
+	    New File  		  305221	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_zh-CN.dat100%  
+	    New File  		  305211	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\paszipsfx_zh-TW.dat100%  
+	    New File  		   52371	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAZIPSFX.DAT100%  
+	    New File  		   52516	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_BY.dat100%  
+	    New File  		   52699	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_cs-CZ.dat100%  
+	    New File  		   52473	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_da-DK.dat  0%  100%  
+	    New File  		   52791	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAZIPSFX_de-DE.DAT100%  
+	    New File  		   52715	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_es-ES.dat100%  
+	    New File  		   52767	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_fi-FI.dat100%  
+	    New File  		   52577	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_fr-FR.dat100%  
+	    New File  		   52135	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_he.dat100%  
+	    New File  		   52633	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_hr-HR.dat100%  
+	    New File  		   52595	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_id-ID.dat100%  
+	    New File  		   52890	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_it-IT.dat100%  
+	    New File  		   50980	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_JP.dat100%  
+	    New File  		   52409	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_ko-KR.dat100%  
+	    New File  		   52625	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_nl-NL.dat100%  
+	    New File  		   52495	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_pl-PL.dat100%  
+	    New File  		   52641	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\PAZIPSFX_pt-BR.DAT100%  
+	    New File  		   52687	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_PT.dat100%  
+	    New File  		   52501	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_ru-RU.dat100%  
+	    New File  		   52392	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_sk-SK.dat100%  
+	    New File  		   52681	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_uk-UA.dat100%  
+	    New File  		   51853	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_zh-CN.dat100%  
+	    New File  		   51843	F:\ProgramFiles\_Archivers\PowerArchiver\sfxs\pazipsfx_zh-TW.dat100%  
+	    New File  		    6144	F:\ProgramFiles\_Archivers\pZLib\_isetup\_setup64.tmp100%  
+	    New File  		   23312	F:\ProgramFiles\_Archivers\pZLib\_isetup\_shfoldr.dll100%  
+	    New File  		  865280	F:\ProgramFiles\_Archivers\Universal Extractor\bin\7z.dll100%  
+	    New File  		  161792	F:\ProgramFiles\_Archivers\Universal Extractor\bin\7z.exe100%  
+	    New File  		   84480	F:\ProgramFiles\_Archivers\Universal Extractor\bin\arc.exe100%  
+	    New File  		  270443	F:\ProgramFiles\_Archivers\Universal Extractor\bin\arj.exe100%  
+	    New File  		   13312	F:\ProgramFiles\_Archivers\Universal Extractor\bin\AspackDie.exe100%  
+	    New File  		   57344	F:\ProgramFiles\_Archivers\Universal Extractor\bin\bin2iso.exe100%  
+	    New File  		   14404	F:\ProgramFiles\_Archivers\Universal Extractor\bin\BOOZ.EXE100%  
+	    New File  		   16384	F:\ProgramFiles\_Archivers\Universal Extractor\bin\cdirip.exe100%  
+	    New File  		   46080	F:\ProgramFiles\_Archivers\Universal Extractor\bin\clit.exe100%  
+	    New File  		    4096	F:\ProgramFiles\_Archivers\Universal Extractor\bin\cmdTotal.exe100%  
+	    New File  		   95744	F:\ProgramFiles\_Archivers\Universal Extractor\bin\dbxplug.wcx100%  
+	    New File  		  413696	F:\ProgramFiles\_Archivers\Universal Extractor\bin\Expander.exe100%  
+	    New File  		   52736	F:\ProgramFiles\_Archivers\Universal Extractor\bin\EXTRACT.EXE100%  
+	    New File  		  229180	F:\ProgramFiles\_Archivers\Universal Extractor\bin\extractMHT.exe100%  
+	    New File  		    1583	F:\ProgramFiles\_Archivers\Universal Extractor\bin\E_WISE.INI100%  
+	    New File  		   38400	F:\ProgramFiles\_Archivers\Universal Extractor\bin\E_WISE_W.EXE100%  
+	    New File  		   12800	F:\ProgramFiles\_Archivers\Universal Extractor\bin\ForceLibrary.dll100%  
+	    New File  		  237056	F:\ProgramFiles\_Archivers\Universal Extractor\bin\helpdeco.exe100%  
+	    New File  		  119808	F:\ProgramFiles\_Archivers\Universal Extractor\bin\i3comp.exe100%  
+	    New File  		   61440	F:\ProgramFiles\_Archivers\Universal Extractor\bin\i5comp.exe100%  
+	    New File  		   61440	F:\ProgramFiles\_Archivers\Universal Extractor\bin\i6comp.exe100%  
+	    New File  		  423936	F:\ProgramFiles\_Archivers\Universal Extractor\bin\innounp.exe100%  
+	    New File  		   41984	F:\ProgramFiles\_Archivers\Universal Extractor\bin\InstExpl.dll100%  
+	    New File  		   49152	F:\ProgramFiles\_Archivers\Universal Extractor\bin\InstExpl.wcx100%  
+	    New File  		   58368	F:\ProgramFiles\_Archivers\Universal Extractor\bin\IsXunpack.exe100%  
+	    New File  		  872448	F:\ProgramFiles\_Archivers\Universal Extractor\bin\kgb_arch_decompress.exe100%  
+	    New File  		   56320	F:\ProgramFiles\_Archivers\Universal Extractor\bin\lzop.exe100%  
+	    New File  		   62976	F:\ProgramFiles\_Archivers\Universal Extractor\bin\MHTUnp.wcx100%  
+	    New File  		   97792	F:\ProgramFiles\_Archivers\Universal Extractor\bin\msi.wcx100%  
+	    New File  		  139264	F:\ProgramFiles\_Archivers\Universal Extractor\bin\MsiX.exe100%  
+	    New File  		   35328	F:\ProgramFiles\_Archivers\Universal Extractor\bin\NBHextract.exe100%  
+	    New File  		    6656	F:\ProgramFiles\_Archivers\Universal Extractor\bin\nrg2iso.exe100%  
+	    New File  		   65536	F:\ProgramFiles\_Archivers\Universal Extractor\bin\PDunSIS.wcx100%  
+	    New File  		  560640	F:\ProgramFiles\_Archivers\Universal Extractor\bin\pea.exe100%  
+	    New File  		  219136	F:\ProgramFiles\_Archivers\Universal Extractor\bin\PEiD.exe100%  
+	    New File  		   40960	F:\ProgramFiles\_Archivers\Universal Extractor\bin\RAIU.EXE100%  
+	    New File  		   15914	F:\ProgramFiles\_Archivers\Universal Extractor\bin\STIX_D.EXE100%  
+	    New File  		  983040	F:\ProgramFiles\_Archivers\Universal Extractor\bin\stuffit5.engine-5.1.dll100%  
+	    New File  		   16896	F:\ProgramFiles\_Archivers\Universal Extractor\bin\tee.exe100%  
+	    New File  		   25088	F:\ProgramFiles\_Archivers\Universal Extractor\bin\trid.exe100%  
+	    New File  		   1.1 m	F:\ProgramFiles\_Archivers\Universal Extractor\bin\TrIDDefs.TRD100%  
+	    New File  		   99444	F:\ProgramFiles\_Archivers\Universal Extractor\bin\UHARC02.EXE100%  
+	    New File  		  100864	F:\ProgramFiles\_Archivers\Universal Extractor\bin\UHARC04.EXE100%  
+	    New File  		   45191	F:\ProgramFiles\_Archivers\Universal Extractor\bin\unlzx.exe100%  
+	    New File  		  246272	F:\ProgramFiles\_Archivers\Universal Extractor\bin\UnRAR.exe100%  
+	    New File  		   75264	F:\ProgramFiles\_Archivers\Universal Extractor\bin\UNUHARC06.EXE100%  
+	    New File  		  204800	F:\ProgramFiles\_Archivers\Universal Extractor\bin\unzip.exe100%  
+	    New File  		  289280	F:\ProgramFiles\_Archivers\Universal Extractor\bin\upx.exe100%  
+	    New File  		  259059	F:\ProgramFiles\_Archivers\Universal Extractor\bin\userdb.txt100%  
+	    New File  		  134111	F:\ProgramFiles\_Archivers\Universal Extractor\bin\uudeview.exe100%  
+	    New File  		   11094	F:\ProgramFiles\_Archivers\Universal Extractor\bin\WDOSXLE.EXE100%  
+	    New File  		   49152	F:\ProgramFiles\_Archivers\Universal Extractor\bin\WUN.exe100%  
+	    New File  		  367616	F:\ProgramFiles\_Archivers\Universal Extractor\bin\xace.exe100%  
+	    New File  		   45056	F:\ProgramFiles\_Archivers\Universal Extractor\bin\ZD50149.DLL100%  
+	    New File  		   53760	F:\ProgramFiles\_Archivers\Universal Extractor\bin\ZD51145.DLL100%  
+	    New File  		   53248	F:\ProgramFiles\_Archivers\Universal Extractor\bin\ZD55131.DLL100%  
+	    New File  		    1927	F:\ProgramFiles\_Archivers\Universal Extractor\docs\7zip_license.txt100%  
+	    New File  		    1546	F:\ProgramFiles\_Archivers\Universal Extractor\docs\7zip_readme.txt100%  
+	    New File  		      21	F:\ProgramFiles\_Archivers\Universal Extractor\docs\7zip_url.txt100%  
+	    New File  		   17992	F:\ProgramFiles\_Archivers\Universal Extractor\docs\arc_license.txt100%  
+	    New File  		    5337	F:\ProgramFiles\_Archivers\Universal Extractor\docs\arc_readme.txt100%  
+	    New File  		      48	F:\ProgramFiles\_Archivers\Universal Extractor\docs\arc_url.txt100%  
+	    New File  		   18315	F:\ProgramFiles\_Archivers\Universal Extractor\docs\arj_license.txt100%  
+	    New File  		   24919	F:\ProgramFiles\_Archivers\Universal Extractor\docs\arj_readme.txt100%  
+	    New File  		      27	F:\ProgramFiles\_Archivers\Universal Extractor\docs\arj_url.txt100%  
+	    New File  		    1528	F:\ProgramFiles\_Archivers\Universal Extractor\docs\aspackdie_readme.txt100%  
+	    New File  		      49	F:\ProgramFiles\_Archivers\Universal Extractor\docs\aspackdie_url.txt100%  
+	    New File  		    5362	F:\ProgramFiles\_Archivers\Universal Extractor\docs\bin2iso_readme.txt100%  
+	    New File  		      76	F:\ProgramFiles\_Archivers\Universal Extractor\docs\bin2iso_url.txt100%  
+	    New File  		    4092	F:\ProgramFiles\_Archivers\Universal Extractor\docs\booz_readme.doc100%  
+	    New File  		      35	F:\ProgramFiles\_Archivers\Universal Extractor\docs\booz_url.txt100%  
+	    New File  		   23853	F:\ProgramFiles\_Archivers\Universal Extractor\docs\cdirip_readme.txt100%  
+	    New File  		      53	F:\ProgramFiles\_Archivers\Universal Extractor\docs\cdrip_url.txt100%  
+	    New File  		    2151	F:\ProgramFiles\_Archivers\Universal Extractor\docs\cmdTotal_readme.txt100%  
+	    New File  		      39	F:\ProgramFiles\_Archivers\Universal Extractor\docs\cmdTotal_url.txt100%  
+	    New File  		    2639	F:\ProgramFiles\_Archivers\Universal Extractor\docs\convertlit_readme.txt100%  
+	    New File  		      26	F:\ProgramFiles\_Archivers\Universal Extractor\docs\convertlit_url.txt100%  
+	    New File  		      41	F:\ProgramFiles\_Archivers\Universal Extractor\docs\dbxplug_url.txt100%  
+	    New File  		     271	F:\ProgramFiles\_Archivers\Universal Extractor\docs\ewise_author.txt100%  
+	    New File  		    2266	F:\ProgramFiles\_Archivers\Universal Extractor\docs\ewise_readme.txt100%  
+	    New File  		      49	F:\ProgramFiles\_Archivers\Universal Extractor\docs\ewise_url.txt100%  
+	    New File  		    2844	F:\ProgramFiles\_Archivers\Universal Extractor\docs\Expander_license.txt100%  
+	    New File  		      62	F:\ProgramFiles\_Archivers\Universal Extractor\docs\Expander_url.txt100%  
+	    New File  		   18351	F:\ProgramFiles\_Archivers\Universal Extractor\docs\extractMHT_license.txt100%  
+	    New File  		     103	F:\ProgramFiles\_Archivers\Universal Extractor\docs\extractMHT_url.txt100%  
+	    New File  		    7385	F:\ProgramFiles\_Archivers\Universal Extractor\docs\extract_license.txt100%  
+	    New File  		      35	F:\ProgramFiles\_Archivers\Universal Extractor\docs\extract_url.txt100%  
+	    New File  		     297	F:\ProgramFiles\_Archivers\Universal Extractor\docs\helpdeco_license.txt100%  
+	    New File  		   15157	F:\ProgramFiles\_Archivers\Universal Extractor\docs\helpdeco_readme.txt100%  
+	    New File  		      49	F:\ProgramFiles\_Archivers\Universal Extractor\docs\helpdeco_url.txt100%  
+	    New File  		    3367	F:\ProgramFiles\_Archivers\Universal Extractor\docs\hwun_readme.txt100%  
+	    New File  		      53	F:\ProgramFiles\_Archivers\Universal Extractor\docs\hwun_url.txt100%  
+	    New File  		    1961	F:\ProgramFiles\_Archivers\Universal Extractor\docs\i3comp_readme.txt100%  
+	    New File  		    6204	F:\ProgramFiles\_Archivers\Universal Extractor\docs\i5comp_readme.txt100%  
+	    New File  		      64	F:\ProgramFiles\_Archivers\Universal Extractor\docs\i5comp_url.txt100%  
+	    New File  		    6350	F:\ProgramFiles\_Archivers\Universal Extractor\docs\i6comp_readme.txt100%  
+	    New File  		      51	F:\ProgramFiles\_Archivers\Universal Extractor\docs\i6comp_url.txt100%  
+	    New File  		   18434	F:\ProgramFiles\_Archivers\Universal Extractor\docs\innounp_license.txt100%  
+	    New File  		   26076	F:\ProgramFiles\_Archivers\Universal Extractor\docs\innounp_readme.htm100%  
+	    New File  		      31	F:\ProgramFiles\_Archivers\Universal Extractor\docs\innounp_url.txt100%  
+	    New File  		    1120	F:\ProgramFiles\_Archivers\Universal Extractor\docs\installexplorer_readme_en.txt100%  
+	    New File  		      53	F:\ProgramFiles\_Archivers\Universal Extractor\docs\installexplorer_url.txt100%  
+	    New File  		    2666	F:\ProgramFiles\_Archivers\Universal Extractor\docs\isxunpack_readme.txt100%  
+	    New File  		      47	F:\ProgramFiles\_Archivers\Universal Extractor\docs\isxunpack_url.txt100%  
+	    New File  		   26675	F:\ProgramFiles\_Archivers\Universal Extractor\docs\kgb_readme_en.htm100%  
+	    New File  		      35	F:\ProgramFiles\_Archivers\Universal Extractor\docs\kgb_url.txt100%  
+	    New File  		   26948	F:\ProgramFiles\_Archivers\Universal Extractor\docs\lzma_license.txt100%  
+	    New File  		   22601	F:\ProgramFiles\_Archivers\Universal Extractor\docs\lzma_readme.txt100%  
+	    New File  		      29	F:\ProgramFiles\_Archivers\Universal Extractor\docs\lzma_url.txt100%  
+	    New File  		   18434	F:\ProgramFiles\_Archivers\Universal Extractor\docs\lzop_license.txt100%  
+	    New File  		   16236	F:\ProgramFiles\_Archivers\Universal Extractor\docs\lzop_readme.txt100%  
+	    New File  		      20	F:\ProgramFiles\_Archivers\Universal Extractor\docs\lzop_url.txt100%  
+	    New File  		    2759	F:\ProgramFiles\_Archivers\Universal Extractor\docs\mhtunp_readme.txt100%  
+	    New File  		      50	F:\ProgramFiles\_Archivers\Universal Extractor\docs\mhtunp_url.txt100%  
+	    New File  		      59	F:\ProgramFiles\_Archivers\Universal Extractor\docs\msix_url.txt100%  
+	    New File  		    1933	F:\ProgramFiles\_Archivers\Universal Extractor\docs\msi_readme.txt100%  
+	    New File  		      41	F:\ProgramFiles\_Archivers\Universal Extractor\docs\msi_url.txt100%  
+	    New File  		      55	F:\ProgramFiles\_Archivers\Universal Extractor\docs\nbgextract_url.txt100%  
+	    New File  		   18349	F:\ProgramFiles\_Archivers\Universal Extractor\docs\nrg2iso_license.txt100%  
+	    New File  		      57	F:\ProgramFiles\_Archivers\Universal Extractor\docs\nrg2iso_url.txt100%  
+	    New File  		    4057	F:\ProgramFiles\_Archivers\Universal Extractor\docs\pdunsis_readme.txt100%  
+	    New File  		      48	F:\ProgramFiles\_Archivers\Universal Extractor\docs\pdunsis_url.txt100%  
+	    New File  		    3275	F:\ProgramFiles\_Archivers\Universal Extractor\docs\pea_readme.txt100%  
+	    New File  		      30	F:\ProgramFiles\_Archivers\Universal Extractor\docs\pea_url.txt100%  
+	    New File  		    8230	F:\ProgramFiles\_Archivers\Universal Extractor\docs\peid_readme.txt100%  
+	    New File  		      42	F:\ProgramFiles\_Archivers\Universal Extractor\docs\peid_url.txt100%  
+	    New File  		     575	F:\ProgramFiles\_Archivers\Universal Extractor\docs\stix_readme.txt100%  
+	    New File  		      63	F:\ProgramFiles\_Archivers\Universal Extractor\docs\stix_url.txt100%  
+	    New File  		   18434	F:\ProgramFiles\_Archivers\Universal Extractor\docs\tee_license.txt100%  
+	    New File  		      32	F:\ProgramFiles\_Archivers\Universal Extractor\docs\tee_url.txt100%  
+	    New File  		    1168	F:\ProgramFiles\_Archivers\Universal Extractor\docs\trid_readme_e.txt100%  
+	    New File  		      33	F:\ProgramFiles\_Archivers\Universal Extractor\docs\trid_url.txt100%  
+	    New File  		    2883	F:\ProgramFiles\_Archivers\Universal Extractor\docs\uharc_license.doc100%  
+	    New File  		   30029	F:\ProgramFiles\_Archivers\Universal Extractor\docs\uharc_readme.doc100%  
+	    New File  		     127	F:\ProgramFiles\_Archivers\Universal Extractor\docs\uharc_url.txt100%  
+	    New File  		    1556	F:\ProgramFiles\_Archivers\Universal Extractor\docs\unlzx_readme.txt100%  
+	    New File  		      28	F:\ProgramFiles\_Archivers\Universal Extractor\docs\unlzx_url.txt100%  
+	    New File  		    1509	F:\ProgramFiles\_Archivers\Universal Extractor\docs\unrar_license.txt100%  
+	    New File  		      23	F:\ProgramFiles\_Archivers\Universal Extractor\docs\unrar_url.txt100%  
+	    New File  		    3668	F:\ProgramFiles\_Archivers\Universal Extractor\docs\unzip_license.txt100%  
+	    New File  		   56652	F:\ProgramFiles\_Archivers\Universal Extractor\docs\unzip_man.txt100%  
+	    New File  		   18684	F:\ProgramFiles\_Archivers\Universal Extractor\docs\unzip_readme.txt100%  
+	    New File  		      36	F:\ProgramFiles\_Archivers\Universal Extractor\docs\unzip_url.txt100%  
+	    New File  		    5448	F:\ProgramFiles\_Archivers\Universal Extractor\docs\upx_license.txt100%  
+	    New File  		    4915	F:\ProgramFiles\_Archivers\Universal Extractor\docs\upx_readme.txt100%  
+	    New File  		      27	F:\ProgramFiles\_Archivers\Universal Extractor\docs\upx_url.txt100%  
+	    New File  		     468	F:\ProgramFiles\_Archivers\Universal Extractor\docs\uudeview_license.txt100%  
+	    New File  		      39	F:\ProgramFiles\_Archivers\Universal Extractor\docs\uudeview_url.txt100%  
+	    New File  		     930	F:\ProgramFiles\_Archivers\Universal Extractor\docs\xace_license.txt100%  
+	    New File  		      22	F:\ProgramFiles\_Archivers\Universal Extractor\docs\xace_url.txt100%  
+	    New File  		   16546	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Arabic.ini100%  
+	    New File  		   16550	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Armenian.ini100%  
+	    New File  		   18568	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Bulgarian.ini100%  
+	    New File  		    7498	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Chinese (Simplified).ini  0%  100%  
+	    New File  		    7515	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Chinese (Traditional).ini100%  
+	    New File  		   18438	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Croatian.ini100%  
+	    New File  		    8987	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Czech.ini100%  
+	    New File  		   19036	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Dutch.ini100%  
+	    New File  		    9443	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Finnish.ini100%  
+	    New File  		    9617	F:\ProgramFiles\_Archivers\Universal Extractor\lang\French.ini100%  
+	    New File  		    9321	F:\ProgramFiles\_Archivers\Universal Extractor\lang\German.ini100%  
+	    New File  		    9966	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Greek.ini100%  
+	    New File  		    9162	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Hungarian.ini100%  
+	    New File  		   19364	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Italian.ini100%  
+	    New File  		    8701	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Japanese.ini100%  
+	    New File  		   13966	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Korean.ini100%  
+	    New File  		   17750	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Persian (Farsi).ini100%  
+	    New File  		   18378	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Polish.ini100%  
+	    New File  		    9517	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Portuguese (Brazilian).ini100%  
+	    New File  		   19210	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Portuguese.ini100%  
+	    New File  		    8837	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Romanian.ini100%  
+	    New File  		   18332	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Russian.ini100%  
+	    New File  		   18192	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Serbian.ini100%  
+	    New File  		    9094	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Slovak.ini100%  
+	    New File  		    9698	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Spanish.ini100%  
+	    New File  		    9162	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Swedish.ini100%  
+	    New File  		    7931	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Taiwanese.ini100%  
+	    New File  		    8678	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Thai.ini100%  
+	    New File  		    9170	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Turkish.ini100%  
+	    New File  		    9208	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Ukrainian.ini100%  
+	    New File  		    9429	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Valencian (Catalan).ini100%  
+	    New File  		   19012	F:\ProgramFiles\_Archivers\Universal Extractor\lang\Vietnamese.ini100%  
+	    New File  		     245	F:\ProgramFiles\_Archivers\peazip_portable\res\altconf.txt100%  
+	    New File  		     287	F:\ProgramFiles\_Archivers\peazip_portable\res\bookmarks.txt100%  
+	    New File  		    7447	F:\ProgramFiles\_Archivers\peazip_portable\res\conf-lastgood.txt100%  
+	    New File  		    7471	F:\ProgramFiles\_Archivers\peazip_portable\res\conf.txt100%  
+	    New File  		       0	F:\ProgramFiles\_Archivers\peazip_portable\res\empty.fnd100%  
+	    New File  		   3.6 m	F:\ProgramFiles\_Archivers\peazip_portable\res\pea.exe 13%   68%  100%  
+	    New File  		   3.3 m	F:\ProgramFiles\_Archivers\peazip_portable\res\pealauncher.exe100%  
+	    New File  		  602636	F:\ProgramFiles\_Archivers\peazip_portable\res\peazip-configuration.exe100%  
+	    New File  		      26	F:\ProgramFiles\_Archivers\peazip_portable\res\peazip-reset.bat100%  
+	    New File  		     256	F:\ProgramFiles\_Archivers\peazip_portable\res\rnd100%  
+	    New File  		    7889	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE.TXT100%  
+	    New File  		    7921	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_BR.TXT100%  
+	    New File  		    6876	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_BY.TXT100%  
+	    New File  		    6964	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_CZ.TXT100%  
+	    New File  		    7889	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_DK.TXT100%  
+	    New File  		    7441	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_DU.TXT100%  
+	    New File  		    7129	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_ES.TXT100%  
+	    New File  		    7940	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_FI.TXT100%  
+	    New File  		    6860	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_FR.TXT100%  
+	    New File  		    8696	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_G.TXT100%  
+	    New File  		    7788	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\license_he.txt100%  
+	    New File  		    7889	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_HR.txt100%  
+	    New File  		    8342	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_I.TXT100%  
+	    New File  		    8217	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_IND.TXT100%  
+	    New File  		    5917	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_JP.TXT100%  
+	    New File  		    5932	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_KO.TXT100%  
+	    New File  		   15795	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_PL.TXT100%  
+	    New File  		    7859	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_PT.TXT100%  
+	    New File  		    7115	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_RU.TXT100%  
+	    New File  		    4015	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_SC.TXT100%  
+	    New File  		    7241	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_SK.TXT100%  
+	    New File  		    4015	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_TC.TXT100%  
+	    New File  		    7463	F:\ProgramFiles\_Archivers\_PowerArchiver2014\DOCS\LICENSE_UK.TXT100%  
+	    New File  		    1150	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\ENC.ICO100%  
+	    New File  		   10134	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\INSTALL.ICO100%  
+	    New File  		   65952	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PA100.ico100%  
+	    New File  		   63465	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PA7Z100.ICO100%  
+	    New File  		   63783	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAACE100.ICO100%  
+	    New File  		   64017	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAARC100.ICO100%  
+	    New File  		   63640	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAARJ100.ICO100%  
+	    New File  		   63104	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PABH100.ICO100%  
+	    New File  		   63565	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PABZIP100.ICO100%  
+	    New File  		   64168	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PACAB100.ICO100%  
+	    New File  		   63828	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAGZIP100.ICO100%  
+	    New File  		   63945	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAISO100.ICO100%  
+	    New File  		   63613	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAJAR100.ICO100%  
+	    New File  		   63312	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PALHA100.ICO100%  
+	    New File  		   63474	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAPAE100.ICO100%  
+	    New File  		   63930	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAPBS100.ICO100%  
+	    New File  		   67118	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAPGP100.ico100%  
+	    New File  		   65952	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAPSF100.ICO100%  
+	    New File  		   63426	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PARAR100.ICO100%  
+	    New File  		   63521	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PATAR100.ICO100%  
+	    New File  		   63208	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAZIP100.ICO100%  
+	    New File  		   63814	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAZIPX100.ICO100%  
+	    New File  		   64294	F:\ProgramFiles\_Archivers\_PowerArchiver2014\ICONS\PAZOO100.ICO100%  
+	    New File  		    5573	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_BR.PLF100%  
+	    New File  		    2907	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_BY.PLF100%  
+	    New File  		    3210	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_CZ.PLF100%  
+	    New File  		    4964	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_DK.PLF100%  
+	    New File  		    5527	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_ES.PLF100%  
+	    New File  		    3373	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_FI.PLF100%  
+	    New File  		    5425	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_FR.PLF100%  
+	    New File  		    6002	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_G.PLF100%  
+	    New File  		    4130	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_HE.PLF100%  
+	    New File  		    5389	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_HR.PLF100%  
+	    New File  		    3948	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_i.plf100%  
+	    New File  		    5165	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_IND.PLF100%  
+	    New File  		    5197	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_JP.PLF100%  
+	    New File  		    4451	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_KO.PLF  0%  100%  
+	    New File  		    5129	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_PL.PLF100%  
+	    New File  		    4867	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_RU.PLF100%  
+	    New File  		    3636	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_SC.PLF100%  
+	    New File  		    3540	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_TC.PLF100%  
+	    New File  		    5028	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PABURNER_UK.PLF100%  
+	    New File  		   99602	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_BR.PLF100%  
+	    New File  		   73641	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_BY.PLF100%  
+	    New File  		   80197	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_CZ.PLF100%  
+	    New File  		  105149	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_DK.PLF100%  
+	    New File  		   60564	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_DU.PLF100%  
+	    New File  		  113007	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_ES.PLF100%  
+	    New File  		   73813	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_FI.PLF100%  
+	    New File  		  115868	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_FR.PLF100%  
+	    New File  		  114044	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_G.PLF100%  
+	    New File  		   88755	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_HE.PLF100%  
+	    New File  		  109351	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_HR.PLF100%  
+	    New File  		   89610	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_I.PLF100%  
+	    New File  		  110192	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_IND.PLF100%  
+	    New File  		  107375	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_JP.PLF100%  
+	    New File  		   94308	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_KO.PLF100%  
+	    New File  		  107061	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_PL.PLF100%  
+	    New File  		   62875	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_PT.PLF100%  
+	    New File  		  104443	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_RU.PLF100%  
+	    New File  		   76742	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_SC.PLF100%  
+	    New File  		   58616	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_SK.PLF100%  
+	    New File  		   66351	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_TC.PLF  0%  100%  
+	    New File  		   97775	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PAMAIN_UK.PLF100%  
+	    New File  		     991	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_BR.PLF100%  
+	    New File  		     859	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_BY.PLF100%  
+	    New File  		     962	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_CZ.PLF100%  
+	    New File  		     888	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_DK.PLF100%  
+	    New File  		     695	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_DU.PLF100%  
+	    New File  		     989	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_ES.PLF100%  
+	    New File  		     842	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_FI.PLF100%  
+	    New File  		     964	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_FR.PLF100%  
+	    New File  		    1001	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_G.PLF100%  
+	    New File  		     734	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_HE.PLF100%  
+	    New File  		     849	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_HR.PLF100%  
+	    New File  		     927	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_I.PLF100%  
+	    New File  		     878	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_IND.PLF100%  
+	    New File  		     914	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_JP.PLF100%  
+	    New File  		     833	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_KO.PLF100%  
+	    New File  		     934	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_PL.PLF100%  
+	    New File  		     655	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_PT.PLF100%  
+	    New File  		     970	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_RU.PLF100%  
+	    New File  		     638	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_SC.PLF100%  
+	    New File  		     649	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_SK.PLF100%  
+	    New File  		     669	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_TC.PLF100%  
+	    New File  		    1039	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASHELL_UK.PLF100%  
+	    New File  		    1246	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_BR.PLF100%  
+	    New File  		    1180	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_BY.PLF100%  
+	    New File  		    1186	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_CZ.PLF100%  
+	    New File  		    1112	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_DK.PLF100%  
+	    New File  		     934	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_DU.PLF100%  
+	    New File  		    1197	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_ES.PLF100%  
+	    New File  		    1189	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_FI.PLF100%  
+	    New File  		    1354	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_FR.PLF100%  
+	    New File  		    1372	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_G.PLF100%  
+	    New File  		     973	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_HE.PLF100%  
+	    New File  		    1295	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_HR.PLF100%  
+	    New File  		    1297	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_I.PLF100%  
+	    New File  		    1207	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_IND.PLF100%  
+	    New File  		    1232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_JP.PLF100%  
+	    New File  		    1108	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_KO.PLF100%  
+	    New File  		    1199	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_PL.PLF100%  
+	    New File  		     888	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_PT.PLF100%  
+	    New File  		    1205	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_RU.PLF100%  
+	    New File  		     864	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_SC.PLF100%  
+	    New File  		     820	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_SK.PLF100%  
+	    New File  		     836	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_TC.PLF  0%  100%  
+	    New File  		    1255	F:\ProgramFiles\_Archivers\_PowerArchiver2014\LANGUAGES\PASTARTER_UK.PLF100%  
+	    New File  		   49358	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PACABSFX.DAT100%  
+	    New File  		   49569	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PACABSFX_BR.DAT100%  
+	    New File  		   49444	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_BY.dat100%  
+	    New File  		   49627	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_CZ.dat100%  
+	    New File  		   49401	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_DK.dat100%  
+	    New File  		   49553	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_DU.dat100%  
+	    New File  		   49643	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_ES.dat100%  
+	    New File  		   49695	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_FI.dat100%  
+	    New File  		   49505	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_FR.dat100%  
+	    New File  		   49778	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PACABSFX_G.DAT100%  
+	    New File  		   49063	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_he.dat100%  
+	    New File  		   49561	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_HR.dat100%  
+	    New File  		   49818	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_I.dat100%  
+	    New File  		   49523	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_ind.dat100%  
+	    New File  		   47908	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_JP.dat100%  
+	    New File  		   49337	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_KO.dat100%  
+	    New File  		   49423	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_PL.dat100%  
+	    New File  		   49615	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_PT.dat100%  
+	    New File  		   49429	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_RU.dat100%  
+	    New File  		   48781	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_SC.dat100%  
+	    New File  		   49320	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_SK.dat100%  
+	    New File  		   48771	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_TC.dat100%  
+	    New File  		   49609	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pacabsfx_UK.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_BR.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\papaesfx_BY.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\papaesfx_cz.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\papaesfx_DK.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_DU.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_ES.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_FI.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_FR.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_G.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\papaesfx_he.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_HR.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\papaesfx_I.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\papaesfx_ind.dat100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_JP.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_PL.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_PT.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_RU.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_SC.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_SK.DAT100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_TC.DAT  0%  100%  
+	    New File  		   95232	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAPAESFX_UK.DAT100%  
+	    New File  		  329868	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PASZIPSFX.DAT100%  
+	    New File  		  306012	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PASZIPSFX_BR.DAT100%  
+	    New File  		  305891	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_BY.dat100%  
+	    New File  		  306076	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_CZ.dat100%  
+	    New File  		  329911	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_DK.dat100%  
+	    New File  		  302422	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_DU.dat100%  
+	    New File  		  330148	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_ES.dat100%  
+	    New File  		  304092	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_FI.dat100%  
+	    New File  		  330011	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_FR.dat100%  
+	    New File  		  330284	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PASZIPSFX_G.DAT100%  
+	    New File  		  329568	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_he.dat100%  
+	    New File  		  330067	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_HR.dat100%  
+	    New File  		  306262	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_I.dat100%  
+	    New File  		  306003	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_ind.dat100%  
+	    New File  		  300804	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_JP.dat100%  
+	    New File  		  329815	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_KO.dat100%  
+	    New File  		  329933	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_PL.dat100%  
+	    New File  		  302513	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_PT.dat100%  
+	    New File  		  329923	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_RU.dat100%  
+	    New File  		  305221	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_SC.dat100%  
+	    New File  		  302187	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_SK.dat100%  
+	    New File  		  305211	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_TC.dat100%  
+	    New File  		  330111	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\paszipsfx_UK.dat100%  
+	    New File  		   52430	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAZIPSFX.DAT100%  
+	    New File  		   52641	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAZIPSFX_BR.DAT100%  
+	    New File  		   52516	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_BY.dat100%  
+	    New File  		   52699	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_CZ.dat100%  
+	    New File  		   52473	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_DK.dat100%  
+	    New File  		   52625	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_DU.dat100%  
+	    New File  		   52715	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_ES.dat100%  
+	    New File  		   52767	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_FI.dat100%  
+	    New File  		   52577	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_FR.dat100%  
+	    New File  		   52850	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\PAZIPSFX_G.DAT100%  
+	    New File  		   52135	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_he.dat100%  
+	    New File  		   52633	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_HR.dat100%  
+	    New File  		   52890	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_I.dat100%  
+	    New File  		   52595	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_ind.dat100%  
+	    New File  		   50980	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_JP.dat100%  
+	    New File  		   52409	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_KO.dat100%  
+	    New File  		   52495	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_PL.dat100%  
+	    New File  		   52687	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_PT.dat100%  
+	    New File  		   52501	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_RU.dat  0%  100%  
+	    New File  		   51853	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_SC.dat100%  
+	    New File  		   52392	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_SK.dat100%  
+	    New File  		   51843	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_TC.dat100%  
+	    New File  		   52681	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SFXS\pazipsfx_UK.dat100%  
+	    New File  		  161705	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MetroBlack.skinres100%  
+	    New File  		  167870	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MetroWhite.skinres100%  
+	    New File  		  226717	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\win8.skinres100%  
+	    New File  		   12554	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\win8.skn100%  
+	    New File  		   49104	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\background.png100%  
+	    New File  		   33925	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\Blue Whale.vsf100%  
+	    New File  		    6051	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\settings.ini100%  
+	    New File  		   49104	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\background.png100%  
+	    New File  		   60432	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\Dark Outlet Media.uis_BLOCK.WB4100%  
+	    New File  		   54001	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\Dark Outlet Media.vsf100%  
+	    New File  		    6137	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\settings.ini100%  
+	    New File  		   49104	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\background.png100%  
+	    New File  		   60432	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\Light Solitude.uis_BLOCK.WB4100%  
+	    New File  		   40677	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\Light Solitude.vsf100%  
+	    New File  		    6088	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\settings.ini100%  
+	    New File  		  992296	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\2022 Icons-2.pa100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_archive_remove.ico100%  
+	    New File  		    7886	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icons_backup_window.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icons_preview_window.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_antivirus.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_backupedit.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_backupnew.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_backuprun.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_backupschedule.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_checkout.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_configuration.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_context_copy.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_context_cut.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_context_find.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_context_paste.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_context_redo.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_context_replace.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_context_rotate_left.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_context_rotate_right.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_context_save.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_context_undo.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_context_wordwrap.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_decrypt.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_download.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_email.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_encode.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_encrypt.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_exit.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_explorermode.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_favorites.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_folder.ico100%  
+	    New File  		   17542	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_foldergo.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_folderup.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_ftpconnect.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_ftpdisconnect.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_ftpdownload.ico100%  
+	    New File  		   17542	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_ftpnewfolder.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_ftppermission.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_ftprefresh.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_ftpstop.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_ftpupload.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_help.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_multivolumemerge.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_next.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_previewmode.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_previewselect.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_print.ico  0%  100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_properties.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_register.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_reuse.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_search.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_selectskin.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_setdefault.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_start_archive_repair.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_sub_add.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_sub_archive_extract.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_sub_archive_open.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_sub_back.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_sub_fontsize_minus.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_sub_fontsize_plus.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_sub_image_size.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_sub_rename.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_test.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_tools_archive_convert.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_tools_multi_volume.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_tools_sfx.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_upload.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_icon_viewmode.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\32_multivolumecreate.ico100%  
+	    New File  		   90022	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\aCTIONS.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\actions_32.ico100%  
+	    New File  		   90022	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\always top.ico100%  
+	    New File  		  292878	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\ArchiveHam_32.Ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\arrange_32.ico100%  
+	    New File  		   17542	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Arrow_Pointing_Down.ico100%  
+	    New File  		   17542	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Arrow_Pointing_Up.ico100%  
+	    New File  		    7886	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\BackupHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\backup_mru.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\backup_new.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\backup_open.ico100%  
+	    New File  		   90022	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\backup_refresh.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\batch file 32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Binary-32.ico100%  
+	    New File  		   16958	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Burn CD-32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\burn file 32x32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\BurnAudioHam_32.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\burner_burnaudio.ico100%  
+	    New File  		  111640	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\burner_burnfiles.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\burner_burniso.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\burner_grabiso.ico100%  
+	    New File  		  110090	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\burner_newiso.ico100%  
+	    New File  		  102843	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\burner_virtualdrive.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\BurnFileHam_32.ico100%  
+	    New File  		   90022	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\BurnHam2_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\BurnHam_32.ico100%  
+	    New File  		   16958	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\BurnImageHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\burn_audio_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\burn_file_32.ico100%  
+	    New File  		   17542	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Circled_Play.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\close_archive_32.ico100%  
+	    New File  		    5430	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\clouds-32.ico100%  
+	    New File  		    5430	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\CloudsHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\cloud_close_window.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\cloud_clouds.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\cloud_configure.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\cloud_copylink.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\cloud_delete.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\cloud_Download.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\cloud_help.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\cloud_new_folder.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\cloud_rename.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\cloud_upload.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\ConfigureCloudsHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\configure_clouds_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\copy disc to ISO 32x32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\CopyDiscDiscHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\CopyDiscHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\copy_disc_to_disc_32.ico100%  
+	    New File  		   93999	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Create Shortcut_.ico100%  
+	    New File  		    2372	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Create_Shortcut__128.png100%  
+	    New File  		     359	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Create_Shortcut__16.png100%  
+	    New File  		    5358	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Create_Shortcut__256.png100%  
+	    New File  		     636	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Create_Shortcut__32.png100%  
+	    New File  		    1164	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Create_Shortcut__64.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\DecryptHam_32.ico100%  
+	    New File  		   90022	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\EncryptHam2_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\EncryptHam_32.ico100%  
+	    New File  		   90022	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Encrypttion suite.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\erase disc 32x32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\ExplorerHam_32.ico100%  
+	    New File  		   90022	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\extract.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\FavoritesHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\FTP 32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\FtpHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\hammenu_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\icons_burn_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\join_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\multi_extract_32.ico100%  
+	    New File  		    5430	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Navigation Toolbar Bottom-32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\new archive 32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\new disc image ISO 32x32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\NewArchiveHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\NewBackupHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\newham_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\NewIsoHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\NewSfxHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\NewTabHam_32.ico100%  
+	    New File  		    5430	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\OpenCloudsHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\openham32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\optimize_32.ico100%  
+	    New File  		   17542	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Pause_Button.ico100%  
+	    New File  		   90022	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\PrintHTML_32.ico100%  
+	    New File  		   90022	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\PrintTXT_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\privatemode.ico100%  
+	    New File  		   17542	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Profiles.ico100%  
+	    New File  		  111297	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\RecentHam_32.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\Rip Audio.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\RipAudioHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\rip_audio_32.ico100%  
+	    New File  		   90022	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\save_to_the_cloud.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\select_files_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\select_language_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\SignHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\txt-32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\VerifyHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\virtual disc 32x32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\VirtualDriveHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\zoom in-32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Office Icons\zoom out-32.ico100%  
+	    New File  		   49104	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\background.png100%  
+	    New File  		    6760	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\settings.ini100%  
+	    New File  		  122437	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\Windows 11 Dark.vsf  0%  100%  
+	    New File  		   49104	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\background.png100%  
+	    New File  		   60432	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\Light Solitude.uis_BLOCK.WB4100%  
+	    New File  		    6838	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\settings.ini100%  
+	    New File  		  126045	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\Windows 11 Light.vsf100%  
+	    New File  		    8192	F:\ProgramFiles\_Archivers\Universal Extractor\bin\Unp\Bzip2_1.unp100%  
+	    New File  		   16896	F:\ProgramFiles\_Archivers\Universal Extractor\bin\Unp\Bzip2_2.unp100%  
+	    New File  		    6144	F:\ProgramFiles\_Archivers\Universal Extractor\bin\Unp\Bzip2_3.unp100%  
+	    New File  		    4096	F:\ProgramFiles\_Archivers\Universal Extractor\bin\Unp\Eschalon.unp100%  
+	    New File  		    4096	F:\ProgramFiles\_Archivers\Universal Extractor\bin\Unp\Gentee.unp100%  
+	    New File  		    9216	F:\ProgramFiles\_Archivers\Universal Extractor\bin\Unp\inflate1.unp100%  
+	    New File  		   15872	F:\ProgramFiles\_Archivers\Universal Extractor\bin\Unp\inflate2.unp100%  
+	    New File  		    8192	F:\ProgramFiles\_Archivers\Universal Extractor\bin\Unp\inflate3.unp100%  
+	    New File  		    4608	F:\ProgramFiles\_Archivers\Universal Extractor\bin\Unp\lzma.unp100%  
+	    New File  		    5120	F:\ProgramFiles\_Archivers\Universal Extractor\bin\Unp\pkware.unp100%  
+	    New File  		    8704	F:\ProgramFiles\_Archivers\Universal Extractor\bin\Unp\vise.unp100%  
+	    New File  		   1.6 m	F:\ProgramFiles\_Archivers\peazip_portable\res\7z\7z.dll100%  
+	    New File  		  461824	F:\ProgramFiles\_Archivers\peazip_portable\res\7z\7z.exe100%  
+	    New File  		  205824	F:\ProgramFiles\_Archivers\peazip_portable\res\7z\7z.sfx100%  
+	    New File  		  186368	F:\ProgramFiles\_Archivers\peazip_portable\res\7z\7zCon.sfx100%  
+	    New File  		   35328	F:\ProgramFiles\_Archivers\peazip_portable\res\7z\7zS2.sfx100%  
+	    New File  		   35328	F:\ProgramFiles\_Archivers\peazip_portable\res\7z\7zS2con.sfx100%  
+	    New File  		  113152	F:\ProgramFiles\_Archivers\peazip_portable\res\7z\7zSD.sfx100%  
+	    New File  		    1927	F:\ProgramFiles\_Archivers\peazip_portable\res\7z\License.txt100%  
+	    New File  		     391	F:\ProgramFiles\_Archivers\peazip_portable\res\7z\note.txt100%  
+	    New File  		   29260	F:\ProgramFiles\_Archivers\peazip_portable\res\arc\arc-tiny.linux.sfx100%  
+	    New File  		  130560	F:\ProgramFiles\_Archivers\peazip_portable\res\arc\arc-tiny.sfx100%  
+	    New File  		   3.6 m	F:\ProgramFiles\_Archivers\peazip_portable\res\arc\Arc.exe100%  
+	    New File  		    3419	F:\ProgramFiles\_Archivers\peazip_portable\res\arc\arc.groups100%  
+	    New File  		   49825	F:\ProgramFiles\_Archivers\peazip_portable\res\arc\arc.ini100%  
+	    New File  		      74	F:\ProgramFiles\_Archivers\peazip_portable\res\arc\empty.arc100%  
+	    New File  		  364032	F:\ProgramFiles\_Archivers\peazip_portable\res\arc\facompress.dll100%  
+	    New File  		  209408	F:\ProgramFiles\_Archivers\peazip_portable\res\arc\facompress_mt.dll100%  
+	    New File  		  476160	F:\ProgramFiles\_Archivers\peazip_portable\res\arc\freearc-installer.sfx100%  
+	    New File  		  157696	F:\ProgramFiles\_Archivers\peazip_portable\res\arc\freearc-tiny.sfx100%  
+	    New File  		  474112	F:\ProgramFiles\_Archivers\peazip_portable\res\arc\freearc.sfx100%  
+	    New File  		     112	F:\ProgramFiles\_Archivers\peazip_portable\res\arc\note.txt100%  
+	    New File  		  287934	F:\ProgramFiles\_Archivers\peazip_portable\res\icons\PeaZip.ico100%  
+	    New File  		  287934	F:\ProgramFiles\_Archivers\peazip_portable\res\icons\PeaZip_7z.ico100%  
+	    New File  		  287934	F:\ProgramFiles\_Archivers\peazip_portable\res\icons\PeaZip_block.ico100%  
+	    New File  		  287934	F:\ProgramFiles\_Archivers\peazip_portable\res\icons\PeaZip_cd.ico100%  
+	    New File  		  287934	F:\ProgramFiles\_Archivers\peazip_portable\res\icons\PeaZip_package.ico100%  
+	    New File  		  287934	F:\ProgramFiles\_Archivers\peazip_portable\res\icons\PeaZip_rar.ico100%  
+	    New File  		   13120	F:\ProgramFiles\_Archivers\peazip_portable\res\icons\peazip_seven.icl100%  
+	    New File  		  287934	F:\ProgramFiles\_Archivers\peazip_portable\res\icons\PeaZip_zip.ico100%  
+	    New File  		   83022	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\ar.txt100%  
+	    New File  		   92287	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\bg.txt100%  
+	    New File  		   99250	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\by-cr.txt100%  
+	    New File  		   67933	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\by-lt.txt100%  
+	    New File  		   60313	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\chs.txt100%  
+	    New File  		   57228	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\cht.txt100%  
+	    New File  		   63520	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\cz.txt100%  
+	    New File  		   74254	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\de-uml-alt.txt100%  
+	    New File  		   74475	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\de-uml.txt100%  
+	    New File  		   59167	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\default.txt100%  
+	    New File  		   59192	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\en-gb.txt100%  
+	    New File  		   59167	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\en.txt100%  
+	    New File  		   70897	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\es-es.txt100%  
+	    New File  		   70009	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\es-la.txt100%  
+	    New File  		   65141	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\eu.txt100%  
+	    New File  		   63764	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\fi.txt100%  
+	    New File  		   72987	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\fr.txt100%  
+	    New File  		   68489	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\gl.txt100%  
+	    New File  		   94240	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\gr.txt100%  
+	    New File  		   70938	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\hu.txt100%  
+	    New File  		   64409	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\it.txt100%  
+	    New File  		   77959	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\ja.txt100%  
+	    New File  		   64987	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\ko.txt100%  
+	    New File  		   64721	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\nl.txt100%  
+	    New File  		   59829	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\no.txt100%  
+	    New File  		   66329	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\pl.txt100%  
+	    New File  		   70387	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\pt-br.txt100%  
+	    New File  		   66134	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\pt-pt.txt100%  
+	    New File  		   66988	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\ro.txt100%  
+	    New File  		   98355	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\ru.txt100%  
+	    New File  		   99136	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\si.txt100%  
+	    New File  		   64072	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\sk.txt100%  
+	    New File  		   68903	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\sv.txt100%  
+	    New File  		   61855	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\tj.txt100%  
+	    New File  		   67007	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\tr.txt100%  
+	    New File  		   96276	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\uk.txt100%  
+	    New File  		   75359	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\uz.txt100%  
+	    New File  		   63106	F:\ProgramFiles\_Archivers\peazip_portable\res\lang\vn.txt100%  
+	    New File  		    6878	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\bg.reg100%  
+	    New File  		    6572	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\by-cr.reg100%  
+	    New File  		    6568	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\by-lt.reg100%  
+	    New File  		    6166	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\chs.reg100%  
+	    New File  		    6126	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\cht.reg100%  
+	    New File  		    6580	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\cz.reg100%  
+	    New File  		    3413	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\de.reg100%  
+	    New File  		    3232	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\default.reg100%  
+	    New File  		    3232	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\en.reg100%  
+	    New File  		    3327	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\es-es.reg100%  
+	    New File  		    3327	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\es-la.reg100%  
+	    New File  		    3321	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\eu.reg100%  
+	    New File  		    3264	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\fi.reg100%  
+	    New File  		    3080	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\fr.reg100%  
+	    New File  		    3339	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\fr_alt.reg100%  
+	    New File  		    3554	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\hu.reg100%  
+	    New File  		    3299	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\it.reg100%  
+	    New File  		    6154	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\ja.reg100%  
+	    New File  		    3336	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\nl.reg100%  
+	    New File  		    3313	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\pl.reg100%  
+	    New File  		    3346	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\pt-br.reg100%  
+	    New File  		    3356	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\pt-pt.reg100%  
+	    New File  		    6670	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\ru.reg100%  
+	    New File  		    3327	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\sv.reg100%  
+	    New File  		    3305	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\tr.reg100%  
+	    New File  		    6618	F:\ProgramFiles\_Archivers\peazip_portable\res\lang-wincontext\uk.reg100%  
+	    New File  		     127	F:\ProgramFiles\_Archivers\peazip_portable\res\paq\note.txt100%  
+	    New File  		   55296	F:\ProgramFiles\_Archivers\peazip_portable\res\paq\paq8o.exe100%  
+	    New File  		   29184	F:\ProgramFiles\_Archivers\peazip_portable\res\lpaq\lpaq8.exe100%  
+	    New File  		     128	F:\ProgramFiles\_Archivers\peazip_portable\res\lpaq\note.txt100%  
+	    New File  		  158720	F:\ProgramFiles\_Archivers\peazip_portable\res\quad\bcm.exe100%  
+	    New File  		     508	F:\ProgramFiles\_Archivers\peazip_portable\res\quad\README.TXT100%  
+	    New File  		   24249	F:\ProgramFiles\_Archivers\peazip_portable\res\themes\classic.theme.7z100%  
+	    New File  		   31370	F:\ProgramFiles\_Archivers\peazip_portable\res\themes\experience.theme.7z100%  
+	    New File  		   45232	F:\ProgramFiles\_Archivers\peazip_portable\res\themes\firecrystal.theme.7z100%  
+	    New File  		   51884	F:\ProgramFiles\_Archivers\peazip_portable\res\themes\seven.theme.7z100%  
+	    New File  		   27260	F:\ProgramFiles\_Archivers\peazip_portable\res\themes\ten-legacy.theme.7z100%  
+	    New File  		   27264	F:\ProgramFiles\_Archivers\peazip_portable\res\themes\ten.theme.7z100%  
+	    New File  		     203	F:\ProgramFiles\_Archivers\peazip_portable\res\upx\note.txt100%  
+	    New File  		  131584	F:\ProgramFiles\_Archivers\peazip_portable\res\upx\strip.exe100%  
+	    New File  		  364544	F:\ProgramFiles\_Archivers\peazip_portable\res\upx\upx.exe100%  
+	    New File  		     130	F:\ProgramFiles\_Archivers\peazip_portable\res\zpaq\note.txt100%  
+	    New File  		    3594	F:\ProgramFiles\_Archivers\peazip_portable\res\zpaq\readme.txt100%  
+	    New File  		   1.0 m	F:\ProgramFiles\_Archivers\peazip_portable\res\zpaq\zpaq.exe  0%  100%  
+	    New File  		      38	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\!Credits.txt100%  
+	    New File  		    6992	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\arrowglyph-lr.bmp100%  
+	    New File  		    3896	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\arrowglyph-ud.bmp100%  
+	    New File  		    3750	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Buttons.bmp100%  
+	    New File  		    6138	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\CheckBox.bmp100%  
+	    New File  		     810	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Close.bmp100%  
+	    New File  		    4134	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\ComboBox.bmp100%  
+	    New File  		    4134	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\ComboButton.bmp100%  
+	    New File  		    3894	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\ComboButtonGlyph.bmp100%  
+	    New File  		     494	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\dialog_bg.bmp100%  
+	    New File  		     374	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\explorer_bg.bmp100%  
+	    New File  		     150	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\FrameBottom.bmp100%  
+	    New File  		    2862	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\FrameLeft.bmp100%  
+	    New File  		    2862	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\FrameRight.bmp100%  
+	    New File  		   34614	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\FrameTop.bmp100%  
+	    New File  		    3128	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\groupbox-top.bmp100%  
+	    New File  		    2994	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Groupbox.bmp100%  
+	    New File  		    5154	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Header.bmp100%  
+	    New File  		    4374	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\HScrollShaft.bmp100%  
+	    New File  		    5874	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\HScrollThumb.bmp100%  
+	    New File  		     810	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Maximize.bmp100%  
+	    New File  		    4854	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Menu.bmp100%  
+	    New File  		    8758	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\menubutton.bmp100%  
+	    New File  		   10638	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\menuextras.bmp100%  
+	    New File  		    8874	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MenuFrame.bmp100%  
+	    New File  		   25078	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MenuItem.bmp100%  
+	    New File  		     810	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Minimize.bmp100%  
+	    New File  		      62	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA ShellStyle.xps100%  
+	    New File  		   15687	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_Button.CheckBox.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_Button.Radio.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_Buttons.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_ComboButton.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_ExtraImages.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_GroupBox.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_GroupBoxEdge.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_HeaderBar.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_HorzScroll.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_HorzScrollThumb.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_MenuBackground.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_MenuBar.Background.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_MenuBar.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_MenuItem.Extras.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_MenuItem.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_Progress.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_ReBar.Grip.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_Scrollbar.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_StatusBarEdges.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_SunkEdge.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_Tabs.Border.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_Tabs.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_TaskBar.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_Toolbar.VerticalSep.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_ToolBarBackground.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_Toolbars.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_UpDown.Horz.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_UpDown.Vert.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_VertScroll.WB4100%  
+	    New File  		    2416	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\MyPA.uis_VertScrollThumb.WB4100%  
+	    New File  		    1998	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Progressbar.bmp100%  
+	    New File  		    4110	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Radio.bmp100%  
+	    New File  		     166	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Rebar.bmp100%  
+	    New File  		    3248	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\roll.wav100%  
+	    New File  		     810	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\RollUp.bmp100%  
+	    New File  		   15594	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\ScrollArrows.bmp100%  
+	    New File  		     954	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\ScrollBarGripperHorzDot.bmp100%  
+	    New File  		     978	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\ScrollBarGripperVertDot.bmp100%  
+	    New File  		     222	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Separater.bmp100%  
+	    New File  		     102	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\settings.ini100%  
+	    New File  		    5454	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\spinner.bmp100%  
+	    New File  		     530	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Status.bmp100%  
+	    New File  		    2862	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\TabPanel.bmp100%  
+	    New File  		   19254	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\tabs.bmp100%  
+	    New File  		    3750	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\toolbuttons.bmp100%  
+	    New File  		   30054	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\tool_bg.bmp100%  
+	    New File  		     810	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\Trans.bmp100%  
+	    New File  		    1446	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\trans.wav100%  
+	    New File  		    4374	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\VScrollShaft.bmp100%  
+	    New File  		    5086	F:\ProgramFiles\_Archivers\_PowerArchiver2014\SKINS\MyPA\VScrollThumb.bmp100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\ArchiveHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\BackupHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\backup_mru.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\backup_new.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\backup_open.ico  0%  100%  
+	    New File  		   72566	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\backup_refresh.ico100%  
+	    New File  		    1004	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\blank.png100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\BurnAudioHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\burner_burnaudio.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\burner_burnfiles.ico100%  
+	    New File  		   16958	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\burner_burniso.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\burner_copydisc.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\burner_grabiso.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\burner_newiso.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\burner_virtualdrive.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\BurnFileHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\BurnHam2_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\BurnHam_32.ico100%  
+	    New File  		   16958	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\BurnImageHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\caption_Help.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\caption_settings.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\caption_smartai.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\caption_touch.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\CloudsHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\cloud_close_window.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\cloud_clouds.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\cloud_configure.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\cloud_copylink.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\cloud_delete.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\cloud_Download.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\cloud_help.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\cloud_new_folder.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\cloud_rename.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\cloud_upload.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\ConfigureCloudsHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\CopyDiscDiscHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\CopyDiscHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\DecryptHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\EncryptHam2_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\EncryptHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\EraseDiscHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\ExplorerHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\FavoritesHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\FTP 32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\FtpHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\hammenu_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_decrypt.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_encrypt.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_encryption_key.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_encryption_office_decrypt.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_encryption_office_encrypt.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_encryption_office_sign.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_encryption_office_verify.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_encryption_pdf_encrypt.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_encryption_sign.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_encryption_verify.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_menu_help.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_menu_internet.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_menu_settings.ico100%  
+	    New File  		     885	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_pgp_export.png100%  
+	    New File  		    1665	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_pgp_generate.png100%  
+	    New File  		    1093	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_pgp_new.png100%  
+	    New File  		    1063	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_pgp_remove.png100%  
+	    New File  		    1011	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_pgp_revoke.png100%  
+	    New File  		    1507	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_pgp_search.png100%  
+	    New File  		    1349	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_pgp_sign.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_sub_back.ico100%  
+	    New File  		    1004	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_sub_back.png100%  
+	    New File  		    2054	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\icon_sub_back_96.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\NewArchiveHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\NewBackupHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\newham_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\NewIsoHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\NewSfxHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\NewTabHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\openham32.ico100%  
+	    New File  		    9602	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\pa-backuplogo.png100%  
+	    New File  		   11281	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\pa-burner.png100%  
+	    New File  		   13385	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\pa-encryptionsuite.png100%  
+	    New File  		   10554	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\pa-virtualdrive.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\PrintHTML_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\PrintTXT_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\RipAudioHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\SignHam_32.ico100%  
+	    New File  		     201	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\tile-bg.png100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\touch-white.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\vdrive_disc-to-iso.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\vdrive_mount.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\vdrive_unmount.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\VerifyHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Blue Whale\icons\VirtualDriveHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\ArchiveHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\BackupHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\backup_mru.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\backup_new.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\backup_open.ico100%  
+	    New File  		   72566	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\backup_refresh.ico100%  
+	    New File  		    1004	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\blank.png100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\BurnAudioHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\burner_burnaudio.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\burner_burnfiles.ico100%  
+	    New File  		   16958	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\burner_burniso.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\burner_copydisc.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\burner_grabiso.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\burner_newiso.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\burner_virtualdrive.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\BurnFileHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\BurnHam2_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\BurnHam_32.ico100%  
+	    New File  		   16958	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\BurnImageHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\caption_Help.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\caption_settings.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\caption_smartai.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\caption_touch.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\CloudsHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\cloud_close_window.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\cloud_clouds.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\cloud_configure.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\cloud_copylink.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\cloud_delete.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\cloud_Download.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\cloud_help.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\cloud_new_folder.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\cloud_rename.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\cloud_upload.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\ConfigureCloudsHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\CopyDiscDiscHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\CopyDiscHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\DecryptHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\EncryptHam2_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\EncryptHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\EraseDiscHam_32.ico  0%  100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\ExplorerHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\FavoritesHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\FtpHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\hammenu_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_decrypt.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_encrypt.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_encryption_key.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_encryption_office_decrypt.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_encryption_office_encrypt.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_encryption_office_sign.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_encryption_office_verify.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_encryption_pdf_encrypt.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_encryption_sign.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_encryption_verify.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_menu_help.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_menu_internet.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_menu_settings.ico100%  
+	    New File  		     885	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_pgp_export.png100%  
+	    New File  		    1665	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_pgp_generate.png100%  
+	    New File  		    1093	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_pgp_new.png100%  
+	    New File  		    1063	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_pgp_remove.png100%  
+	    New File  		    1011	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_pgp_revoke.png100%  
+	    New File  		    1507	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_pgp_search.png100%  
+	    New File  		    1349	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_pgp_sign.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_sub_back.ico100%  
+	    New File  		    1004	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_sub_back.png100%  
+	    New File  		    2054	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\icon_sub_back_96.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\NewArchiveHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\NewBackupHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\newham_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\NewIsoHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\NewSfxHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\NewTabHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\openham32.ico100%  
+	    New File  		    9602	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\pa-backuplogo.png100%  
+	    New File  		   11281	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\pa-burner.png100%  
+	    New File  		   13385	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\pa-encryptionsuite.png100%  
+	    New File  		   10554	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\pa-virtualdrive.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\PrintHTML_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\PrintTXT_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\RipAudioHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\SignHam_32.ico100%  
+	    New File  		     201	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\tile-bg.png100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\touch-white.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\vdrive_disc-to-iso.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\vdrive_mount.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\vdrive_unmount.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\VerifyHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Dark Outlet Media\icons\VirtualDriveHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\32_icon_sub_back.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\ArchiveHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\BackupHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\backup_mru.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\backup_new.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\backup_open.ico100%  
+	    New File  		   72566	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\backup_refresh.ico100%  
+	    New File  		    1004	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\blank.png100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\BurnAudioHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\burner_burnaudio.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\burner_burnfiles.ico100%  
+	    New File  		   16958	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\burner_burniso.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\burner_copydisc.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\burner_grabiso.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\burner_newiso.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\burner_virtualdrive.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\BurnFileHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\BurnHam2_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\BurnHam_32.ico100%  
+	    New File  		   16958	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\BurnImageHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\caption_Help.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\caption_settings.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\caption_smartai.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\caption_touch.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\CloudsHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\cloud_close_window.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\cloud_clouds.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\cloud_configure.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\cloud_copylink.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\cloud_delete.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\cloud_Download.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\cloud_help.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\cloud_new_folder.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\cloud_rename.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\cloud_upload.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\ConfigureCloudsHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\CopyDiscDiscHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\CopyDiscHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\DecryptHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\EncryptHam2_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\EncryptHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\EraseDiscHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\ExplorerHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\FavoritesHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\FTP 32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\FtpHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\hammenu_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_decrypt.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_encrypt.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_encryption_key.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_encryption_office_decrypt.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_encryption_office_encrypt.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_encryption_office_sign.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_encryption_office_verify.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_encryption_pdf_encrypt.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_encryption_sign.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_encryption_verify.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_menu_help.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_menu_internet.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_menu_settings.ico100%  
+	    New File  		     885	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_pgp_export.png100%  
+	    New File  		    1665	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_pgp_generate.png100%  
+	    New File  		    1093	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_pgp_new.png100%  
+	    New File  		    1063	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_pgp_remove.png100%  
+	    New File  		    1011	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_pgp_revoke.png100%  
+	    New File  		    1507	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_pgp_search.png100%  
+	    New File  		    1349	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_pgp_sign.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_sub_back.ico100%  
+	    New File  		    1004	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_sub_back.png100%  
+	    New File  		    2054	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\icon_sub_back_96.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\NewArchiveHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\NewBackupHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\newham_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\NewIsoHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\NewSfxHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\NewTabHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\openham32.ico100%  
+	    New File  		    9602	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\pa-backuplogo.png100%  
+	    New File  		   11281	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\pa-burner.png100%  
+	    New File  		   13385	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\pa-encryptionsuite.png100%  
+	    New File  		   10554	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\pa-virtualdrive.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\PrintHTML_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\PrintTXT_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\RipAudioHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\SignHam_32.ico100%  
+	    New File  		     201	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\tile-bg.png100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\touch-white.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\vdrive_disc-to-iso.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\vdrive_mount.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\vdrive_unmount.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\VerifyHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Light Solitude\icons\VirtualDriveHam_32.ico100%  
+	    New File  		  108411	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\ArchiveHam_32.ico100%  
+	    New File  		  107456	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\BackupHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\backup_mru.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\backup_new.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\backup_open.ico100%  
+	    New File  		  105984	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\backup_refresh.ico100%  
+	    New File  		    1004	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\blank.png100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\BurnAudioHam_32.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\burner_burnaudio.ico100%  
+	    New File  		  111640	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\burner_burnfiles.ico  0%  100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\burner_burniso.ico100%  
+	    New File  		  106344	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\burner_copydisc.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\burner_grabiso.ico100%  
+	    New File  		  110090	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\burner_newiso.ico100%  
+	    New File  		  102843	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\burner_virtualdrive.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\BurnFileHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\BurnHam2_32.ico100%  
+	    New File  		  116322	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\BurnHam_32.ico100%  
+	    New File  		   16958	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\BurnImageHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\caption_Help.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\caption_settings.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\caption_smartai.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\caption_touch.ico100%  
+	    New File  		  108793	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\CloudsHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\cloud_close_window.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\cloud_clouds.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\cloud_configure.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\cloud_copylink.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\cloud_delete.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\cloud_Download.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\cloud_help.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\cloud_new_folder.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\cloud_rename.ico  0%  100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\cloud_upload.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\ConfigureCloudsHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\CopyDiscDiscHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\CopyDiscHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\DecryptHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\EncryptHam2_32.ico100%  
+	    New File  		  106749	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\EncryptHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\EraseDiscHam_32.ico100%  
+	    New File  		  107330	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\ExplorerHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\FavoritesHam_32.ico100%  
+	    New File  		  107507	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\FtpHam_32.ico100%  
+	    New File  		  103683	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\hammenu_32.ico100%  
+	    New File  		   95014	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_decrypt.ico100%  
+	    New File  		   95250	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_encrypt.ico100%  
+	    New File  		  105780	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_encryption_key.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_encryption_office_decrypt.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_encryption_office_encrypt.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_encryption_office_sign.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_encryption_office_verify.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_encryption_pdf_encrypt.ico100%  
+	    New File  		   95618	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_encryption_sign.ico100%  
+	    New File  		  104558	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_encryption_verify.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_menu_help.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_menu_internet.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_menu_settings.ico100%  
+	    New File  		     885	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_pgp_export.png100%  
+	    New File  		    1665	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_pgp_generate.png100%  
+	    New File  		    1093	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_pgp_new.png100%  
+	    New File  		    1063	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_pgp_remove.png100%  
+	    New File  		    1011	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_pgp_revoke.png100%  
+	    New File  		    1507	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_pgp_search.png100%  
+	    New File  		    1349	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_pgp_sign.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_sub_back.ico100%  
+	    New File  		    1004	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_sub_back.png100%  
+	    New File  		    2054	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\icon_sub_back_96.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\NewArchiveHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\NewBackupHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\newham_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\NewIsoHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\NewSfxHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\NewTabHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\openham32.ico100%  
+	    New File  		    9602	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\pa-backuplogo.png100%  
+	    New File  		   11281	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\pa-burner.png100%  
+	    New File  		   13385	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\pa-encryptionsuite.png100%  
+	    New File  		   10554	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\pa-virtualdrive.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\PrintHTML_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\PrintTXT_32.ico100%  
+	    New File  		  111180	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\RecentHam_32.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\Rip Audio.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\RipAudioHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\SignHam_32.ico100%  
+	    New File  		     201	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\tile-bg.png100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\touch-white.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\vdrive_disc-to-iso.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\vdrive_mount.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\vdrive_unmount.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\VerifyHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Dark\icons\VirtualDriveHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\32_icon_sub_back.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\ArchiveHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\BackupHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\backup_mru.ico  0%  100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\backup_new.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\backup_open.ico100%  
+	    New File  		   72566	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\backup_refresh.ico100%  
+	    New File  		    1004	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\blank.png100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\BurnAudioHam_32.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\burner_burnaudio.ico100%  
+	    New File  		  111640	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\burner_burnfiles.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\burner_burniso.ico100%  
+	    New File  		  106344	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\burner_copydisc.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\burner_grabiso.ico100%  
+	    New File  		  110090	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\burner_newiso.ico100%  
+	    New File  		  102843	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\burner_virtualdrive.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\BurnFileHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\BurnHam2_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\BurnHam_32.ico100%  
+	    New File  		   16958	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\BurnImageHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\caption_Help.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\caption_settings.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\caption_smartai.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\caption_touch.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\CloudsHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\cloud_close_window.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\cloud_clouds.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\cloud_configure.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\cloud_copylink.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\cloud_delete.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\cloud_Download.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\cloud_help.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\cloud_new_folder.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\cloud_rename.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\cloud_upload.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\ConfigureCloudsHam_32.ico  0%  100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\CopyDiscDiscHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\CopyDiscHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\DecryptHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\EncryptHam2_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\EncryptHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\EraseDiscHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\ExplorerHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\FavoritesHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\FTP 32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\FtpHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\hammenu_32.ico100%  
+	    New File  		   95014	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_decrypt.ico100%  
+	    New File  		   95250	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_encrypt.ico100%  
+	    New File  		  105780	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_encryption_key.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_encryption_office_decrypt.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_encryption_office_encrypt.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_encryption_office_sign.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_encryption_office_verify.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_encryption_pdf_encrypt.ico100%  
+	    New File  		   95618	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_encryption_sign.ico100%  
+	    New File  		  104558	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_encryption_verify.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_menu_help.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_menu_internet.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_menu_settings.ico100%  
+	    New File  		     885	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_pgp_export.png100%  
+	    New File  		    1665	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_pgp_generate.png100%  
+	    New File  		    1093	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_pgp_new.png100%  
+	    New File  		    1063	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_pgp_remove.png100%  
+	    New File  		    1011	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_pgp_revoke.png100%  
+	    New File  		    1507	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_pgp_search.png100%  
+	    New File  		    1349	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_pgp_sign.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_sub_back.ico100%  
+	    New File  		    1004	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_sub_back.png100%  
+	    New File  		    2054	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\icon_sub_back_96.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\NewArchiveHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\NewBackupHam_32.ico100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\newham_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\NewIsoHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\NewSfxHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\NewTabHam_32.ico100%  
+	    New File  		    9602	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\pa-backuplogo.png100%  
+	    New File  		   11281	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\pa-burner.png100%  
+	    New File  		   13385	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\pa-encryptionsuite.png100%  
+	    New File  		   10554	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\pa-virtualdrive.png100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\PrintHTML_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\PrintTXT_32.ico100%  
+	    New File  		   99260	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\RecentHam_32.ico100%  
+	    New File  		  371294	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\Rip Audio.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\RipAudioHam_32.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\SignHam_32.ico100%  
+	    New File  		     201	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\tile-bg.png100%  
+	    New File  		   34494	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\touch-white.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\vdrive_disc-to-iso.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\vdrive_mount.ico100%  
+	    New File  		  140206	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\vdrive_unmount.ico100%  
+	    New File  		   32038	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\VerifyHam_32.ico100%  
+	    New File  		   30894	F:\ProgramFiles\_Archivers\PowerArchiver\skins\Windows 11 Light\icons\VirtualDriveHam_32.ico100%  
+	    New File  		      70	F:\ProgramFiles\_Archivers\peazip_portable\res\themes\ten-embedded\fm-theme.bmp100%  
+	    New File  		     931	F:\ProgramFiles\_Archivers\peazip_portable\res\themes\ten-embedded\note.readme100%  
+	    New File  		      70	F:\ProgramFiles\_Archivers\peazip_portable\res\themes\nographic-embedded\fm-theme.bmp100%  
+	    New File  		     375	F:\ProgramFiles\_Archivers\peazip_portable\res\themes\nographic-embedded\note.readme100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        59        59         0         0         0         0
+   Files :      1893      1893         0         0         0         0
+   Bytes :  452.81 m  452.81 m         0         0         0         0
+   Times :   0:02:28   0:00:14                       0:00:00   0:00:01
+
+
+   Speed :            32253742 Bytes/sec.
+   Speed :            1845.573 MegaBytes/min.
+   Ended : 17  2023 . 2:48:50
+

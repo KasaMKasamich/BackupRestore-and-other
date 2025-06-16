@@ -1,0 +1,14 @@
+*Crash
+Crash*
+*Report
+Report*
+*Temp\
+Temp*\
+*Log\
+Log*\
+*Telemetry\
+Telemetry*\
+*.tmp
+*.dmp
+*.cookie
+*.log

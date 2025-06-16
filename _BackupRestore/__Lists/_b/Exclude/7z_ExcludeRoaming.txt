@@ -1,0 +1,23 @@
+Adobe\Flash Player\
+AMS Software\
+Anvsoft\
+Macromedia\
+Microsoft\
+tor\
+TechSmith\
+NVIDIA*\
+*Crash\
+Crash*\
+*Cache\
+Cache*\
+*Temp\
+Temp*\
+*font\
+font*\
+*Log\
+Log*\
+*.vbs
+*.7z
+*log
+*.tmp
+*.dmp

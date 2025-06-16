@@ -1,0 +1,6 @@
+Desktop\
+Foxit Software\
+Documents\Lightworks\
+Documents\Steam\
+Documents\Unity Projects\
+AccountPictures\

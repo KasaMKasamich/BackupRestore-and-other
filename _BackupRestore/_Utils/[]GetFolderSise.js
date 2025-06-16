@@ -1,0 +1,12 @@
+var FSO = WScript.CreateObject("Scripting.FileSystemObject");
+Dir="C:/[]TempDownloads";
+var Folder = FSO.GetFolder(Dir);
+s="";
+s+="Папка "+Folder;
+FolderSize = Folder.Size;
+TotalGb = Folder.Size/1024/1024/1024;
+FloatGb = TotalGb.toFixed(2);
+s+="\r\n";
+s+=" Размер папки: " +FloatGb+ " Gb ";
+s+="(" +FolderSize+" bytes" + ")" + "\r\n";
+WScript.Echo(s);

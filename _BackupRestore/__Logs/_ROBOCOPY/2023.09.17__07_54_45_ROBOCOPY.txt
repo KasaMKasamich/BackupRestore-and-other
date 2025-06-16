@@ -1,0 +1,30 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 17  2023 . 7:55:07
+   Source : F:\Temp\_Test\Folder\
+     Dest : H:\_TempDestDirectoryCopying\Folder\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DAT /COPY:DAT /Z /MT:8 /R:3 /W:2 
+
+------------------------------------------------------------------------------
+
+	    New File  		      24	F:\Temp\_Test\Folder\PowerArchiver RAR File.rar100%  
+	    New File  		      22	F:\Temp\_Test\Folder\PowerArchiver ZIP File.zip100%  
+	    New File  		       7	F:\Temp\_Test\Folder\Новый документ в формате RTF.rtf100%  
+	    New File  		       0	F:\Temp\_Test\Folder\Новый текстовый документ.txt100%  
+	    New File  		       0	F:\Temp\_Test\Folder\Новый точечный рисунок.bmp100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         0         0         0         0
+   Files :         5         5         0         0         0         0
+   Bytes :        53        53         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 17  2023 . 7:55:07
+

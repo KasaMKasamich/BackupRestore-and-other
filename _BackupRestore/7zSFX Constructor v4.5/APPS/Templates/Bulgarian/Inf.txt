@@ -1,0 +1,36 @@
+;!@Install@!UTF-8!
+InstallPath	= "%ProgramFiles%\\#FolderName"
+
+SetEnvironment	= "INF_File=#FolderName.inf"
+SetEnvironment	= "INF_Sect=DefaultInstall"
+
+
+RunProgram	= "fm10:\"%SystemRoot%\\System32\\RunDLL32.exe\" advpack.dll,LaunchINFSectionEx %%T\\%INF_File%,%INF_Sect%,,4,N"
+
+GUIFlags="2+8+32+256"
+MiscFlags="4"
+GUIMode="1"
+OverwriteMode="0"
+
+HelpText	= "Опции за стартиране на инсталатора:
+ -y	без запитване преди инсталацията
+ -fm0	липсва съобщение за завършване на инсталацията
+ -gm2	липсва диалогов прозорец за разархивиране
+"
+
+Title		= "Инсталация #FolderName #Version"
+ExtractTitle	= "Инсталация #FolderName #Version"
+ExtractPathTitle= "Инсталация #FolderName #Version"
+PasswordTitle	= "Инсталация #FolderName #Version"
+WarningTitle	= "Инсталация #FolderName #Version - Предупреждение"
+ErrorTitle	= "Инсталация #FolderName #Version - Грешка"
+
+BeginPrompt	= "Изпълни инсталирането #FolderName #Version?"
+CancelPrompt	= "Наистина ли искате да отмените инсталацията #FolderName #Version?"
+FinishMessage	= "Инсталацията #FolderName #Version завърши успешно!"
+
+PasswordText	= "Въведете парола:"
+ExtractPathText	= "Изберете път за инсталиране #FolderName:"
+ExtractDialogText="Разархивиране..."
+ExtractCancelText="Отмяна"
+;!@InstallEnd@!

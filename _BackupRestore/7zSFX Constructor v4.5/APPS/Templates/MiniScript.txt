@@ -1,0 +1,3 @@
+;!@Install@!UTF-8!
+;Project created in program 7z SFX Constructor
+;!@InstallEnd@!

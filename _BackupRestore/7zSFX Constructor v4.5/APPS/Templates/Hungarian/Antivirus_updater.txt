@@ -1,0 +1,22 @@
+﻿;!@Install@!UTF-8!
+GUIFlags="8+2048+4096"
+GUIMode="2"
+MiscFlags="4"
+SetEnvironment="Version=1.1.8"
+InstallPath="%WinDir%\\Temp\\Antivirus_updater"
+Delete="%WinDir%\\Temp\\Antivirus_updater"
+Title="Antivirus updater v%Version%"
+BeginPrompt="              Script az antivírus disztribúciók adatbázisainak frissítéséhez Live CD / USB.
+Hozzon létre egy Setting.ini-t ugyanabban a mappában mint a %%M és futtassa a parancsot.
+                                               Futtatja a parancsot ?"
+RunProgram="%%P:cmd /c Install-hun.cmd \"%%S\""
+
+;!@InstallEnd@!
+;!@Install@!UTF-8:Language:1038!
+Title="Antivirus frissítő v%Version%"
+BeginPrompt="      A Live CD / USB disztribúció elleni vírusadatbázis-frissítés szkriptje.
+Setting.ini létrehozása egy mappába z %%M i futtassa a szkriptet.
+                                            Futtatja a szkriptet ?"
+RunProgram=-
+RunProgram="%%P:cmd /c Install-hun.cmd \"%%S\""
+;!@InstallEnd@:Language:1038!

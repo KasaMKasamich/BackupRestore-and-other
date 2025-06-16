@@ -1,0 +1,21 @@
+﻿;!@Install@!UTF-8!
+GUIFlags="8+2048+4096"
+GUIMode="2"
+MiscFlags="4"
+SetEnvironment="Version=1.1.8"
+InstallPath="%WinDir%\\Temp\\Antivirus_updater"
+Delete="%WinDir%\\Temp\\Antivirus_updater"
+Title="Antivirus updater v%Version%"
+BeginPrompt="              Script to update databases of antivirus distributions Live CD/USB.
+Create Setting.ini in the same folder with %%M and run the script.
+                                               Run the script ?"
+RunProgram="%%P:cmd /c Install-eng.cmd \"%%S\""
+;!@InstallEnd@!
+;!@Install@!UTF-8:Language:1049!
+Title="Antivirus updater v%Version%"
+BeginPrompt="      Скрипт за актуализиране на бази данни на антивирусни дистрибуции Live CD/USB.
+Създайте Setting.ini в една папка с %%M и стартирайте скрипта.
+                                            Стартиране на скрипт ?"
+RunProgram=-
+RunProgram="%%P:cmd /c Install-rus.cmd \"%%S\""
+;!@InstallEnd@:Language:1049!

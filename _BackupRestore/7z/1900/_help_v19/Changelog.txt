@@ -1,0 +1,6 @@
+What's new after 7-Zip 18.06:
+
+•Encryption strength for 7z archives was increased:
+ the size of random initialization vector was increased from 64-bit to 128-bit,
+ and the pseudo-random number generator was improved.
+•Some bugs were fixed.

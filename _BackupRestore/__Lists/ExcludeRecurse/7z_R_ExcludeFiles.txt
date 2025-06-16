@@ -1,0 +1,20 @@
+*Crash
+Crash*
+*History
+History*
+*Recent
+Recent*
+*Report
+Report*
+*Temp\
+Temp*\
+Ludeon Studios\
+Log*
+*Log
+*Telemetry
+Telemetry*
+*.tmp
+*.dmp
+*.cookie
+*.log
+desktop.ini

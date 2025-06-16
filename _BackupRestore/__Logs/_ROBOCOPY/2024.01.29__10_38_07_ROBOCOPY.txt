@@ -1,0 +1,48 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 29  2024 . 10:39:10
+   Source : F:\TempDownloads\Stardock Fences 4.1.0.6 (x64) RePack by xetrin\
+     Dest : I:\Temp\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DAT /COPY:DAT /Z /MT:8 /R:3 /W:2 
+
+------------------------------------------------------------------------------
+
+	*EXTRA Dir        -1	I:\Temp\_OSImages\
+	  *EXTRA File 		   5.3 m	I:\Temp\cav_installer_10309_3f.exe
+	  *EXTRA File 		 116.0 m	I:\Temp\GeForce_Experience_v3.20.0.118.exe
+	  *EXTRA File 		   1.0 m	I:\Temp\installbackupandsync.exe
+	  *EXTRA File 		  23.7 m	I:\Temp\Setup_Volume_Shadow_Copy_SDK_V7_2.exe
+	  *EXTRA File 		   1.5 m	I:\Temp\SteamSetup.exe
+	  *EXTRA File 		   3.8 m	I:\Temp\uninstalltool_setup.exe
+	  *EXTRA File 		   2.5 m	I:\Temp\Yandex (1).exe
+	  *EXTRA File 		 112.7 m	I:\Temp\Yandex.exe
+	  *EXTRA File 		 113.4 m	I:\Temp\Yandex2.exe
+	  *EXTRA File 		 102.3 m	I:\Temp\Yandex_Browser.msi
+	  *EXTRA File 		   1.7 m	I:\Temp\Yandex_Online.exe
+	  *EXTRA File 		  11.1 m	I:\Temp\_OSImages (2023.09.05__15_52_44).7z
+	    New File  		    3281	F:\TempDownloads\Stardock Fences 4.1.0.6 (x64) RePack by xetrin\Readme.txt100%  
+	    New File  		    1111	F:\TempDownloads\Stardock Fences 4.1.0.6 (x64) RePack by xetrin\Silent Installing x64 Eng.cmd100%  
+	    New File  		    1108	F:\TempDownloads\Stardock Fences 4.1.0.6 (x64) RePack by xetrin\Silent Installing x64 Rus.cmd100%  
+	    New File  		    1930	F:\TempDownloads\Stardock Fences 4.1.0.6 (x64) RePack by xetrin\Silent Uninstalling.cmd100%  
+	    New File  		    1145	F:\TempDownloads\Stardock Fences 4.1.0.6 (x64) RePack by xetrin\Silent Updating.cmd100%  
+	    New File  		   9.5 m	F:\TempDownloads\Stardock Fences 4.1.0.6 (x64) RePack by xetrin\Stardock_Fences_v4.1.0.6_RePack_by_xetrin.exe100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         1
+   Files :         6         6         0         0         0        12
+   Bytes :    9.59 m    9.59 m         0         0         0  495.62 m
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            91442827 Bytes/sec.
+   Speed :            5232.400 MegaBytes/min.
+   Ended : 29  2024 . 10:39:10
+

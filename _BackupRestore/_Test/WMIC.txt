@@ -1,0 +1,48 @@
+
+Everything
+svchost
+
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList.txt PROCESS get ReadOperationCount,ReadTransferCount,WriteOperationCount,WriteTransferCount,Caption,Processid /format:CSV | find WriteTransferCount
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList2.txt PROCESS get Caption,Processid,InstallDate,ExecutablePath
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList3.txt PROCESS get Caption,Processid,InstallDate,Commandline
+
+
+BRIEF	- ThreadCount, HandleCount, Name, Priority, ProcessId, WorkingSetSize
+wmic process list /format:table brief
+wmic process list brief /format:csv
+
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList4.txt PROCESS list brief /format:csv
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList4.txt PROCESS list full /format:csv
+
+
+wmic process where name="chrome.exe" call terminate
+
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList5.txt PROCESS get ReadOperationCount,ReadTransferCount,WriteOperationCount,WriteTransferCount,Caption,Processid where WriteTransferCount>500 /format:CSV MORE /E +2 >> SRVSPACE.CSV
+
+ | find WriteTransferCount
+
+
+ReadTransferCount
+WriteTransferCount
+ReadOperationCount
+WriteOperationCount
+
+
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList5.txt PROCESS where "ReadTransferCount>500000000"
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList5.txt PROCESS where "ReadTransferCount>500000000" get Caption,Processid /value
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList5.txt PROCESS where "ReadTransferCount>5000000000" get Caption,Processid,ReadTransferCount,WriteTransferCount /value
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList5.txt PROCESS where "ReadTransferCount>5000000000 AND WriteTransferCount>500000000" get Caption,Processid,ReadTransferCount,WriteTransferCount /value
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList5.txt PROCESS where "ReadTransferCount>5000000000 AND WriteTransferCount>500000000" get Name | findstr /i /c:Everything
+
+wmic /OUTPUT:C:\_BackupRestore\__Logs\_Temp\Commandline_cmd.txt process where (Name="cmd.exe") get Caption,Processid,InstallDate,Commandline,ExecutablePath
+wmic /OUTPUT:C:\_BackupRestore\__Logs\_Temp\_cmd_Commandline.txt process where (Name="cmd.exe") get Commandline /Value
+
+
+
+
+
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList5.txt PROCESS where "WriteTransferCount>500000000" /format:CSV MORE /E +2 >> SRVSPACE.CSV
+
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList5.txt PROCESS where "WriteTransferCount>500000000" get Processid /value
+WMIC /OUTPUT:C:\_BackupRestore\_Temp\ProcessList5.txt PROCESS where "WriteTransferCount>500000000" get Caption,Processid /value where Caption svchost.exe
+

@@ -1,0 +1,276 @@
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+	Задание запущенно - 11.01.2016 23:14:49,86 
+-------------------------------------------------- 
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+	Задание запущенно - 11.01.2016 23:17:54,42 
+-------------------------------------------------- 
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+	Задание запущенно - 11.01.2016 23:18:44,61 
+-------------------------------------------------- 
+SUCCESS: Attempted to run the scheduled task "MountVDisk(J)".
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+
+Microsoft DiskPart version 10.0.10586
+
+Copyright (C) 1999-2013 Microsoft Corporation.
+On computer: MYCOMP
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+-------------------------------------------------- 
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+	Задание запущенно - 11.01.2016 23:19:53,80 
+-------------------------------------------------- 
+SUCCESS: Attempted to run the scheduled task "UnMountVDisk(J)".
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+
+Microsoft DiskPart version 10.0.10586
+
+Copyright (C) 1999-2013 Microsoft Corporation.
+On computer: MYCOMP
+
+DiskPart successfully selected the virtual disk file.
+
+DiskPart successfully detached the virtual disk file.
+-------------------------------------------------- 
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+	Задание запущенно - 11.01.2016 23:23:26,33 
+-------------------------------------------------- 
+SUCCESS: Attempted to run the scheduled task "MountVDisk(J)".
+-------------------------------------------------- 
+
+Microsoft DiskPart version 10.0.10586
+
+Copyright (C) 1999-2013 Microsoft Corporation.
+On computer: MYCOMP
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+-------------------------------------------------- 
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+	Задание запущенно - 11.01.2016 23:24:37,84 
+-------------------------------------------------- 
+SUCCESS: Attempted to run the scheduled task "UnMountVDisk(J)".
+
+Microsoft DiskPart version 10.0.10586
+
+Copyright (C) 1999-2013 Microsoft Corporation.
+On computer: MYCOMP
+
+DiskPart successfully selected the virtual disk file.
+
+DiskPart successfully detached the virtual disk file.
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+	Задание запущенно - 11.01.2016 23:29:00,49 
+-------------------------------------------------- 
+SUCCESS: Attempted to run the scheduled task "UnMountVDisk(D)".
+
+Microsoft DiskPart version 10.0.10586
+
+Copyright (C) 1999-2013 Microsoft Corporation.
+On computer: MYCOMP
+
+DiskPart successfully selected the virtual disk file.
+
+DiskPart successfully detached the virtual disk file.
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+	Задание запущенно - 11.01.2016 23:31:04,44 
+-------------------------------------------------- 
+SUCCESS: Attempted to run the scheduled task "MountVDisk(J)".
+
+Microsoft DiskPart version 10.0.10586
+
+Copyright (C) 1999-2013 Microsoft Corporation.
+On computer: MYCOMP
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+	Задание запущенно - 11.01.2016 23:31:18,88 
+-------------------------------------------------- 
+SUCCESS: Attempted to run the scheduled task "UnMountVDisk(J)".
+
+Microsoft DiskPart version 10.0.10586
+
+Copyright (C) 1999-2013 Microsoft Corporation.
+On computer: MYCOMP
+
+DiskPart successfully selected the virtual disk file.
+
+DiskPart successfully detached the virtual disk file.
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+	Задание запущенно - 11.01.2016 23:32:03,37 
+-------------------------------------------------- 
+SUCCESS: Attempted to run the scheduled task "MountVDisk(D)".
+
+Microsoft DiskPart version 10.0.10586
+
+Copyright (C) 1999-2013 Microsoft Corporation.
+On computer: MYCOMP
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-S3J7G1K
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+    Задание запущенно - 07.06.2023 11:52:12,16 
+-------------------------------------------------- 
+////////////////////////////////////////////////////////////////// 
+-------------------------------------------------- 
+    Задание запущенно - 07.06.2023 11:52:48,59 
+-------------------------------------------------- 
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-S3J7G1K
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-S3J7G1K
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-S3J7G1K
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-S3J7G1K
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-S3J7G1K
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-S3J7G1K
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-S3J7G1K
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-S3J7G1K
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-S3J7G1K
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-D32ST1M
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.
+
+Microsoft DiskPart version 10.0.19041.3636
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-2PR9LU5
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully attached the virtual disk file.

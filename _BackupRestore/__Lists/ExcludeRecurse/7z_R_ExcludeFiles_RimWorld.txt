@@ -1,0 +1,21 @@
+*Cache
+Cache*
+Cache\
+*Crash
+Crash*
+*Report
+Report*
+Report*\
+Log*
+*Log
+Log*\
+RimSaves\
+Saves\
+Screenshots\
+Новая папка\
+*.tmp
+*.dmp
+*.cookie
+*.log
+*.7z
+*.lnk

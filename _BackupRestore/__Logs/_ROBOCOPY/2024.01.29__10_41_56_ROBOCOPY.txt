@@ -1,0 +1,38 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 29  2024 . 10:42:41
+   Source : F:\TempDownloads\Stardock Fences 4.1.0.6 (x64) RePack by xetrin\
+     Dest : I:\Temp\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DAT /COPY:DAT /Z /MT:8 /R:3 /W:2 
+
+------------------------------------------------------------------------------
+
+	*EXTRA Dir        -1	I:\Temp\_OSImages\
+	  *EXTRA File 		   5.3 m	I:\Temp\cav_installer_10309_3f.exe
+	  *EXTRA File 		 116.0 m	I:\Temp\GeForce_Experience_v3.20.0.118.exe
+	  *EXTRA File 		   1.0 m	I:\Temp\installbackupandsync.exe
+	  *EXTRA File 		  23.7 m	I:\Temp\Setup_Volume_Shadow_Copy_SDK_V7_2.exe
+	  *EXTRA File 		   1.5 m	I:\Temp\SteamSetup.exe
+	  *EXTRA File 		   3.8 m	I:\Temp\uninstalltool_setup.exe
+	  *EXTRA File 		   2.5 m	I:\Temp\Yandex (1).exe
+	  *EXTRA File 		 112.7 m	I:\Temp\Yandex.exe
+	  *EXTRA File 		 113.4 m	I:\Temp\Yandex2.exe
+	  *EXTRA File 		 102.3 m	I:\Temp\Yandex_Browser.msi
+	  *EXTRA File 		   1.7 m	I:\Temp\Yandex_Online.exe
+	  *EXTRA File 		  11.1 m	I:\Temp\_OSImages (2023.09.05__15_52_44).7z
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         1
+   Files :         6         0         6         0         0        12
+   Bytes :    9.59 m         0    9.59 m         0         0  495.62 m
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 29  2024 . 10:42:41
+
