@@ -24,6 +24,7 @@ set Dir017=C:\Program Files\NVIDIA Corporation\Installer2
 set Dir018=C:\Program Files\NVIDIA Corporation\Installer
 set Dir019=C:\Windows\SoftwareDistribution\Download
 set Dir020=%userprofile%\Recent
+set Dir021=C:\Users\New\AppData\Local\NVIDIA\DXCache
 @rem Если нужно избавиться от автозагрузки:
 :: set Dir021=%userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
@@ -76,6 +77,7 @@ del /F /S /Q "%Dir015%\*.*"
 :: del /F /S /Q "%Dir018%\*.*"
 :: del /F /S /Q "%Dir019%\*.*"
 del /F /Q "%Dir020%\*.*"
+del /F /Q "%Dir021%\*.*"
 :: RMDIR /S /Q "%Dir016%"
 :: RMDIR /S /Q "%Dir017%"
 :: RMDIR /S /Q "%Dir018%"

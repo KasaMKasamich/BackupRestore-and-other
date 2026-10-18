@@ -40,7 +40,7 @@ wmic exit
 del /f /q %temp%\tmpDriveLetter.txt
 del /f /q %temp%\fDriveLetter.txt
 @rem ====================================================
-set sCmd2=wmic volume where "label='Sys'" get DriveLetter
+set sCmd2=wmic volume where "label='Games'" get DriveLetter
 call %sCmd2%>%temp%\tmpDriveLetter.txt
 powershell -Command "(Get-Content %temp%\tmpDriveLetter.txt)[1].Trim()">%temp%\fDriveLetter.txt
 

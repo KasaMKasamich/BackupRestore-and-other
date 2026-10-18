@@ -17,6 +17,7 @@ REM )
 reg delete hkcu\Software\Microsoft\Windows\CurrentVersion\Policies\Attachments /v SaveZoneInformation /f
 reg add hkcu\Software\Microsoft\Windows\CurrentVersion\Policies\Attachments /v SaveZoneInformation /t reg_dword /d 1
 reg IMPORT "C:\_BackupRestore\[]Reg\Laptop\User Shell Folders.reg" /reg:64
+reg IMPORT "C:\_BackupRestore\[]Reg\Laptop\LongPathsEnabled.reg" /reg:64
 
 @REM reg delete hkcu\Software\Microsoft\Windows\CurrentVersion\Policies\Associations /v LowRiskFileTypes /f
 @REM reg add hkcu\Software\Microsoft\Windows\CurrentVersion\Policies\Associations /v LowRiskFileTypes /t reg_sz /d .xlsx,.docx,.xls,.doc,.ppt,.pptx,.exe,.7z,.zip,.rar

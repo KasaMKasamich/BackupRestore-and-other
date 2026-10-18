@@ -10,6 +10,8 @@ Everything
 GIMP 2
 Google
 ImBatch
+IrfanView
+FileZilla FTP Client
 KMPlayer
 Lightworks
 Listary

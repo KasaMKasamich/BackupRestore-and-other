@@ -8,7 +8,6 @@ Recent*
 Report*
 *Temp\
 Temp*\
-Ludeon Studios\
 Log*
 *Log
 *Telemetry

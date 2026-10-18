@@ -1,0 +1,1 @@
+powershell -command "Mount-DiskImage -ImagePath '%1'"

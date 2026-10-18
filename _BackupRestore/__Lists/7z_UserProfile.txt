@@ -7,4 +7,3 @@
 AndroidStudioProjects\
 NCH Software Suite\
 Nox_share\
-OneDrive\

@@ -1,5 +1,6 @@
 Alabama
 4A Games
+11bitstudios
 Arma 3
 Arma 3 Launcher
 Ashampoo Movie Shrink & Burn 4
@@ -13,6 +14,7 @@ ConanSandbox
 converter
 Disc_Soft_Ltd
 dnSpy
+DuneSandbox
 EpicGamesLauncher
 Emurasoft
 Everything
@@ -20,6 +22,7 @@ ExtractNow
 Fallout4
 FalloutNV
 FOMM
+GitHubDesktop
 GameAnalytics
 GIMP
 GRAW2
@@ -39,6 +42,7 @@ Opera Software
 Paradox Interactive
 Programs
 paint.net
+Pearl Abyss
 RzGame
 SGN
 Skype
@@ -49,6 +53,7 @@ SkyrimMTO
 Stardock
 Steam
 Stalker2
+SengokuDynasty
 Softdeluxe
 TeamViewer
 TESVSnip

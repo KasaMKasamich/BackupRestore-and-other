@@ -27,16 +27,24 @@ echo %StartTimeStamp%
 @rem  bool
 set isStep=0
 set sDriveLetter=
-set sCmd=wmic volume where "label='Storage'" get DriveLetter
+@rem set sCmd=wmic volume where "label='Storage'" get DriveLetter
+@rem set sCmd=powershell -Command "(Get-Volume -FileSystemLabel 'Storage').DriveLetter"
 @rem ======================================================================
-call %sCmd%>%temp%\tmpDriveLetter.txt
-powershell -Command "(Get-Content %temp%\tmpDriveLetter.txt)[1].Trim()">%temp%\fDriveLetter.txt
+@rem call %sCmd%>%temp%\tmpDriveLetter.txt
+@rem powershell -Command "(Get-Content %temp%\tmpDriveLetter.txt)[1].Trim()">%temp%\fDriveLetter.txt
+@rem powershell -Command "(Get-Content -Path '%temp%\tmpDriveLetter.txt' -TotalCount 2) | ForEach-Object { $_.Trim() } | Out-File -FilePath '%temp%\fDriveLetter.txt' -Encoding utf8"
 
-powershell -Command "(Get-Content %temp%\tmpDriveLetter.txt)[0,1].Trim()"
+@rem powershell -Command "(Get-Content %temp%\tmpDriveLetter.txt)[0,1].Trim()"
+@rem powershell -Command "(Get-Content %temp%\tmpDriveLetter.txt -TotalCount 2).Trim()"
+@rem powershell -Command "(Get-Content -Path '%temp%\tmpDriveLetter.txt' -TotalCount 2) | ForEach-Object { $_.Trim() }"
 
-FOR /F "usebackq delims=" %%A IN ("%temp%\fDriveLetter.txt") DO ( if not "%%~A" == "" (@set "sDriveLetter=%%~A") )
+@rem FOR /F "usebackq delims=" %%A IN ("%temp%\fDriveLetter.txt") DO ( if not "%%~A" == "" (@set "sDriveLetter=%%~A") )
 
-wmic exit
+for /f "usebackq tokens=*" %%i in (`powershell -NoProfile -Command "(Get-CimInstance Win32_Volume | Where-Object {$_.Label -eq 'Storage'}).DriveLetter"`) do set "sDriveLetter=%%i"
+
+@rem echo %sDriveLetter%
+
+@rem wmic exit
 @rem  Проверить пустая переменная или нет, если да то выход >>>>>>>>>>>>>>>>>>>>>>>>>> >>
 @if "%sDriveLetter%" == "" (
 	echo DriveLetter not found
@@ -96,6 +104,7 @@ set Dir[7]=C:\[]TempDownloads
 set Dir[8]=%sDriveLetter%\LSS\[]Torrents
 set Dir[9]=%sDriveLetter%\LSS\[]RestoreWin
 set Dir[10]=%userprofile%\AppData\Roaming\Microsoft\Windows\SendTo
+set Dir[11]=C:\LSS\Users\New\Documents\R-TT
 
 set BackupsDir=%sDriveLetter%\LSS\___OS_BackUps\_BackupsArchive
 
@@ -236,6 +245,7 @@ rem  CОЗДАНИЕ КАТАЛОГА ДЛЯ БЕКАПА
 @rem ==============================================================
 @rem 
 if not exist "%BackupsDir%\%TimeStamp%_%FileName%" mkdir "%BackupsDir%\%TimeStamp%_%FileName%\"
+if not exist "%BackupsDir%\%TimeStamp%_%FileName%\Users\New\Documents" mkdir "%BackupsDir%\%TimeStamp%_%FileName%\Users\New\Documents\"
 if not exist "%OutputDir[0]%" mkdir "%OutputDir[0]%"
 if not exist "%OutputDir[1]%" mkdir "%OutputDir[1]%"
 if not exist "%OutputDir[2]%" mkdir "%OutputDir[2]%"
@@ -297,9 +307,11 @@ if %isStep% LEQ 7 (
 		)
 	) else (
 		if %isStep% == 0 (
-			ROBOCOPY "%Dir[10]%\*" "%Dir[9]%\SendTo" %RCParams3% /LOG:"!RCLogFile!" %RCFileDataFlags%
+			ROBOCOPY "%Dir[10]%" "%Dir[9]%\SendTo" %RCParams3% /LOG:"!RCLogFile!" %RCFileDataFlags%
+			ROBOCOPY "%Dir[11]%" "%BackupsDir%\%TimeStamp%_%FileName%\Users\New\Documents" %RCParams3% /LOG:"!RCLogFile!" %RCFileDataFlags%
 			ROBOCOPY "C:\LSS\Users" "%sDriveLetter%\LSS\Users" %RCParams3% /LOG:"!RCLogFile!" %RCFileDataFlags%
 			ROBOCOPY "C:\[]ProgramFiles" "%sDriveLetter%\LSS\[]ProgramFiles" %RCParams3% /LOG:"!RCLogFile!" %RCFileDataFlags%
+			ROBOCOPY "%userprofile%\AppData\Roaming\Microsoft\Windows\SendTo" "%sDriveLetter%\LSS\[]RestoreWin\To - SendTo" %RCParams3% /LOG:"!RCLogFile!" %RCFileDataFlags%
 			powershell -Command Export-StartLayout –path "%BackupsDir%\%TimeStamp%_%FileName%\Users\%USERNAME%\DefaultLayouts.xml"
 			copy /v /y C:\_BackupRestore\[]Laptop\_RestoreBackupForLaptop.cmd "%BackupsDir%\%TimeStamp%_%FileName%\_RestoreBackupForLaptop.cmd"
 			@rem Desktop
@@ -332,12 +344,12 @@ For /d %%A In ("%BackupsDir%\%TimeStamp%_%FileName%\Users\*") Do (
 		!7za! d -y "%%B" desktop.ini *.tmp *.dmp *.cookie *.log -r
 	)
 )
-if %isStep% LEQ 7 ( goto :Pack )
+if %isStep% LEQ 11 ( goto :Pack )
 
 @rem exit /b
 @rem @timeout /t 360 >
 
-if %isStep% GEQ 8 ( goto :End )
+if %isStep% GEQ 12 ( goto :End )
  
 :End
 echo [92m " ========================================== End ========================================== " [0m 

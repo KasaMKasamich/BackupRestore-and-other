@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="Shows Desktop"
+BeginPrompt="Свернуть все окна"
+RunProgram="ShowsDesktop.lnk"
+;!@InstallEnd@!

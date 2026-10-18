@@ -1,0 +1,1 @@
+powershell -command "Dismount-DiskImage -ImagePath '%1'"
